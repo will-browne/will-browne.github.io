@@ -1,8 +1,6 @@
-MD file
-
- # Will Browne's scratch pad
+# Will Browne's scratch pad
   
- ## Articles 
+  ## Articles 
  [Emotion recognition with face masks ](https://theconversation.com/when-faces-are-partially-covered-neither-people-nor-algorithms-are-good-at-reading-emotions-165005)
   
  ## Links

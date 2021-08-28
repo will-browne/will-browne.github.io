@@ -5,9 +5,11 @@ MD file
   <body>
     <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
   
- https://theconversation.com/when-faces-are-partially-covered-neither-people-nor-algorithms-are-good-at-reading-emotions-165005 
+ ## Articles 
+ [Emotion recognition with face masks ](https://theconversation.com/when-faces-are-partially-covered-neither-people-nor-algorithms-are-good-at-reading-emotions-165005)
   
- https://plato.stanford.edu/entries/frame-problem/
+ ## 
+ [The Frame problem ](https://plato.stanford.edu/entries/frame-problem/) Stanford explanation.
   
   
   </body>

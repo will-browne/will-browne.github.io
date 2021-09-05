@@ -5,3 +5,7 @@
 [favicon help](https://www.lcn.com/blog/beginners-guide-favicons/)
 
 [DARPA XAI](https://www.darpa.mil/program/explainable-artificial-intelligence)
+
+
+https://www.edureka.co/blog/backpropagation/
+https://playground.tensorflow.org/

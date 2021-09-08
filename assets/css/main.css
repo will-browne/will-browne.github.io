@@ -2709,23 +2709,23 @@ input, select, textarea {
 				background-color: #f2849e;
 			}
 
-			.tiles article.style2 > .image:before {
+			.tiles article.style2 > .image:after {
 				background-color: #7ecaf6;
 			}
 
-			.tiles article.style3 > .image:before {
+			.tiles article.style3 > .image:after {
 				background-color: #7bd0c1;
 			}
 
-			.tiles article.style4 > .image:before {
+			.tiles article.style4 > .image:after {
 				background-color: #c75b9b;
 			}
 
-			.tiles article.style5 > .image:before {
+			.tiles article.style5 > .image:after {
 				background-color: #ae85ca;
 			}
 
-			.tiles article.style6 > .image:before {
+			.tiles article.style6 > .image:after {
 				background-color: #8499e7;
 			}
 

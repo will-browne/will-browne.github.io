@@ -6,6 +6,9 @@
 
 [DARPA XAI](https://www.darpa.mil/program/explainable-artificial-intelligence)
 
+[Jekyll](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
-https://www.edureka.co/blog/backpropagation/
-https://playground.tensorflow.org/
+AI lecture help: 
+[Back prop](https://www.edureka.co/blog/backpropagation/)
+
+[ANN Playground](https://playground.tensorflow.org/)

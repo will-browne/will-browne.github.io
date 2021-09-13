@@ -1,7 +1,9 @@
 # Lecturing
-[Experimental design] (https://www.britannica.com/science/statistics/Experimental-design)
+[Experimental design](https://www.britannica.com/science/statistics/Experimental-design)
 
-[t-test calculator] (https://www.graphpad.com/quickcalcs/ttest2/)
+[t-test calculator](https://www.graphpad.com/quickcalcs/ttest2/)
+
+[Visual statistics](https://seeing-theory.brown.edu/index.html)
 
 # Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)

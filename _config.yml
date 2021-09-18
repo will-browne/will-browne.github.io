@@ -1,6 +1,6 @@
 markdown: kramdown
 kramdown:
-  input: GFM
+  input: Kramdown
 plugins:
   - jekyll-relative-links
 relative_links:

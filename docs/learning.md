@@ -8,3 +8,6 @@ puts Kramdown::Document.new(text).to_html
 
 ## Theory of Learning 
 [Karl Popper conjectures](https://www.informationphilosopher.com/solutions/philosophers/popper/natural_selection_and_the_emergence_of_mind.html)
+
+# Neuroscience 
+[Time in Neurons](https://www.quantamagazine.org/new-clues-to-how-the-brain-maps-time-20160126/)

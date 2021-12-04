@@ -11,3 +11,4 @@ puts Kramdown::Document.new(text).to_html
 
 # Neuroscience 
 [Time in Neurons](https://www.quantamagazine.org/new-clues-to-how-the-brain-maps-time-20160126/)
+[Time encoding](https://www.nature.com/articles/s41586-018-0459-6)

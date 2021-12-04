@@ -5,6 +5,13 @@
 
 [Visual statistics](https://seeing-theory.brown.edu/index.html)
 
+## Robotics 439
+[Coppelia robotics sim](https://www.coppeliarobotics.com/)
+
 # Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)
 [High cost codes](https://heimshelp.dese.gov.au/resources/reports/HDR-Course-Completions-Detailed-Report)
+
+# Support
+[MATE](https://matebystander.edu.au/)
+[Blackcard](https://www.theblackcard.com.au/)

@@ -13,6 +13,9 @@
 
 [RUR Paper](https://www.gutenberg.org/cache/epub/59112/pg59112-images.html)
 
+## SLAM
+[g2p](https://openslam-org.github.io/g2o.html)
+
 ## NZ Githubs
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)

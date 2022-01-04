@@ -14,6 +14,6 @@
 [IVI](https://ivi.ie/)
 
 ## Conferences
-[ACNC](https://www.acns.org.au/conferences/ Australasian Cognitive Neuroscience Conference )
+[ACNC](https://www.acns.org.au/conferences/) Australasian Cognitive Neuroscience Conference 
 
 

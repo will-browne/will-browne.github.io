@@ -16,6 +16,9 @@
 ## SLAM
 [g2p](https://openslam-org.github.io/g2o.html)
 
+## Benchmarks
+[CSIRO](https://research.csiro.au/robotics/manipulation-benchmark/)
+
 ## NZ Githubs
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)

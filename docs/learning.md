@@ -1,5 +1,5 @@
-# require 'kramdown'
-# puts Kramdown::Document.new(text).to_html
+[](# require 'kramdown')
+[](# puts Kramdown::Document.new(text).to_html)
 
 ## DNNs
 [CVAE code](https://wiseodd.github.io/techblog/2016/12/17/conditional-vae/)

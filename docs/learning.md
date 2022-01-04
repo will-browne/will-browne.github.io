@@ -1,4 +1,6 @@
 <!-- # require 'kramdown' # puts Kramdown::Document.new(text).to_html) -->
+# Natural learning
+<!-- Humans, rats and theories of how things learn, but AI techniques for learning-->
 
 ## DNNs
 [CVAE code](https://wiseodd.github.io/techblog/2016/12/17/conditional-vae/)

@@ -1,4 +1,4 @@
-[](# require 'kramdown')
+<!-- # require 'kramdown' -->
 [](# puts Kramdown::Document.new(text).to_html)
 
 ## DNNs

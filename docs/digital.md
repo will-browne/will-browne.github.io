@@ -24,7 +24,11 @@
 
 
 [File merge software](https://meldmerge.org/)
+
+### Tools
 [Diagrams](https://app.diagrams.net/)
+
+[md](https://www.markdownguide.org/cheat-sheet/)
 
 
 ### AI Holism

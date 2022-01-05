@@ -1,6 +1,7 @@
 # Digital domain
 <!-- Websites, how to program, AR/VR -->
 
+## Websites
 
 [ dream host - domain seller ](https://panel.dreamhost.com/)
 
@@ -8,7 +9,9 @@
 
 [favicon help](https://www.lcn.com/blog/beginners-guide-favicons/)
 
-[DARPA XAI](https://www.darpa.mil/program/explainable-artificial-intelligence)
+[html5up phantom in jekyll](https://www.jekyll-resources.com/theme/phantom/)
+
+
 
 [Sim2real software](https://sites.google.com/view/simopt)
 
@@ -21,15 +24,13 @@
 [Diagrams](https://app.diagrams.net/)
 
 
-AI Holism
+### AI Holism
 [Ethics](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/)
 
 
 
 
-
-
-AI lecture help: 
+### AI lecture help: 
 [Cheatsheats](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-deep-learning-tips-and-tricks)
 
 [Back prop](https://www.edureka.co/blog/backpropagation/)
@@ -56,6 +57,6 @@ AI lecture help:
 
 
 
-# AI Codes
+## AI Codes
 [eLCS](https://github.com/UrbsLab/scikit-eLCS)
 

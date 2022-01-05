@@ -1,10 +1,6 @@
 # Cyberstuff
 <!-- Robots and Cybernetic systems -->
 
-[DNS Lookup](https://www.whatsmydns.net/#A/ai-rt.com)
-
-[Webpage build](https://towardsdatascience.com/building-a-beautiful-static-webpage-using-github-f0f92c6e1f02)
-
 [RL](https://towardsdatascience.com/stable-baselines-a-fork-of-openai-baselines-reinforcement-learning-made-easy-df87c4b2fc82)
 
 [Curious robot](https://sites.google.com/asu.edu/curiousrobots/accepted-papers)
@@ -18,6 +14,9 @@
 
 ## Benchmarks
 [CSIRO](https://research.csiro.au/robotics/manipulation-benchmark/)
+
+## OSs and Languages
+[WSL](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) Linux on Windows
 
 ## NZ Githubs
 

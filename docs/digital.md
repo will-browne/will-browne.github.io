@@ -35,6 +35,8 @@
 
 [md](https://www.markdownguide.org/cheat-sheet/)
 
+[Open Source Pictures](https://unsplash.com/s/photos/ramshackle-house) Big thank you for the landing page pictures :)
+
 
 ### AI Holism
 [Ethics](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/)

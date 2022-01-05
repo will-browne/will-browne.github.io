@@ -14,7 +14,16 @@
 [Lero](https://lero.ie/)
 [IVI](https://ivi.ie/)
 
+## Journals
+
 ## Conferences
 [ACNC](https://www.acns.org.au/conferences/) Australasian Cognitive Neuroscience Conference 
 
+## Research
 
+### My Papers
+
+[Harisu](https://ieeexplore.ieee.org/document/9516955?source=authoralert)
+
+### Experimental design
+[Psychology design](https://opentext.wsu.edu/carriecuttler/chapter/experimental-design/)

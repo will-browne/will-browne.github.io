@@ -1,5 +1,8 @@
 # Will Browne's scratch pad
 <!-- a place to put notes that aren't uploaded -->
+
+## Funding
+[Digital twins](https://www.eng.it/en/white-papers/digital-twin)
   
 ## Articles 
  [Emotion recognition with face masks ](https://theconversation.com/when-faces-are-partially-covered-neither-people-nor-algorithms-are-good-at-reading-emotions-165005)

@@ -12,3 +12,8 @@
 
 ## Benchmrks
 [BBOB](http://coco.lri.fr/COCOdoc/bbo_experiment.html)
+
+## XAI
+
+[DARPA XAI](https://www.darpa.mil/program/explainable-artificial-intelligence)
+

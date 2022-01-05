@@ -9,7 +9,10 @@
 
 [favicon help](https://www.lcn.com/blog/beginners-guide-favicons/)
 
+[Jekyll from the Start](https://www.kiltandcode.com/2020/04/30/how-to-create-a-blog-using-jekyll-and-github-pages-on-windows/)
 [html5up phantom in jekyll](https://www.jekyll-resources.com/theme/phantom/)
+[MD pages help](https://kbroman.org/simple_site/pages/overview.html)
+
 
 
 

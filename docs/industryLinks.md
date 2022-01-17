@@ -8,6 +8,8 @@
 
 [UAP](https://cooperativeresearch.org.au/robot-artist-with-eyes-delivers-international-growth-for-aussie-company-and-creates-new-jobs-for-humans/)
 
+[RIOS](https://www.rios.ai/) haptic robotics plus ai
+
 ## Facilitators
 [ANFF](https://www.anff.org.au/) The Australian National Fabrication Facility
 

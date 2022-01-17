@@ -19,6 +19,10 @@
 [WSL](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) Linux on Windows
 [WSL 2](https://www.windowscentral.com/how-install-wsl2-windows-10)
 
+## Groups
+[Queensland cluster](https://qldrobo.org/) 
+[Robotics Australia Group](https://roboausnet.com.au/robotics-australia-group/) MMI Bid for a 'venture factory'
+
 ## NZ Githubs
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)

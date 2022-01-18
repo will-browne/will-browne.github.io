@@ -12,3 +12,5 @@
 # Neuroscience 
 [Time in Neurons](https://www.quantamagazine.org/new-clues-to-how-the-brain-maps-time-20160126/)
 [Time encoding](https://www.nature.com/articles/s41586-018-0459-6)
+
+[Rhythms of the Brain](https://neurophysics.ucsd.edu/courses/physics_171/Buzsaki%20G.%20Rhythms%20of%20the%20brain.pdf)

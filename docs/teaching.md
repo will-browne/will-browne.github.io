@@ -1,6 +1,8 @@
 # Lecturing
 <!-- Lecturing and teaching links, incl. ALDD -->
 
+[Kahoot!](https://kahoot.com/academy/study/)
+
 
 [Experimental design](https://www.britannica.com/science/statistics/Experimental-design)
 

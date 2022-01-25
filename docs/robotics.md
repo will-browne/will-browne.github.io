@@ -21,7 +21,10 @@
 
 ## Groups
 [Queensland cluster](https://qldrobo.org/) 
+
 [Robotics Australia Group](https://roboausnet.com.au/robotics-australia-group/) MMI Bid for a 'venture factory'
+
+[QCR wiki.qcr.ai](https://wiki.qut.edu.au/display/cyphy/QUT+Centre+for+Robotics/) forwarding weblink.
 
 ## NZ Githubs
 

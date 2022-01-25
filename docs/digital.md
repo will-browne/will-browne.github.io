@@ -37,6 +37,10 @@
 
 [Open Source Pictures](https://unsplash.com/s/photos/ramshackle-house) Big thank you for the landing page pictures :)
 
+[Carbon cpu/gpu calculator code](https://github.com/mlco2/codecarbon)
+
+
+
 
 ### AI Holism
 [Ethics](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/)

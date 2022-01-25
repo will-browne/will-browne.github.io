@@ -17,3 +17,6 @@
 
 [DARPA XAI](https://www.darpa.mil/program/explainable-artificial-intelligence)
 
+## Companies
+[Complexica](https://www.complexica.com/) Zbigniew's company
+

@@ -10,6 +10,8 @@
 
 [RIOS](https://www.rios.ai/) haptic robotics plus ai
 
+[Steel Central](https://www.steelcentral.com.au/) MacKay visit Dec 2021
+
 ## Facilitators
 [ANFF](https://www.anff.org.au/) The Australian National Fabrication Facility
 

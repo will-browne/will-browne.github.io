@@ -12,6 +12,8 @@
 
 [Steel Central](https://www.steelcentral.com.au/) MacKay visit Dec 2021
 
+[Hallowed Footwear](https://hallowedfootwear.com.au/) 2022 project
+
 ## Facilitators
 [ANFF](https://www.anff.org.au/) The Australian National Fabrication Facility
 

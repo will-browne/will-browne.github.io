@@ -2,6 +2,8 @@
 <!-- Industrial contracts -->
 
 ## Company links
+[Volo modular homes](http://www.volomodular.com.au/residential-modular-home/)
+
 [Geo DTs](https://www.aamgroup.com/)
 
 [Survey DTs](https://www.fugro.com/)

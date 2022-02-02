@@ -1,4 +1,10 @@
 # Academia 
+
+## Professional bodies
+[NZRAS](https://drive.google.com/drive/folders/0AAm8eYdAbB5cUk9PVA) Google drive
+
+[RAG](https://roboausnet.com.au/news/) robots australia group
+
 <!-- Journals, conferences and tools -->
 
 [???](https://app.ithenticate.com/en_us/folder)

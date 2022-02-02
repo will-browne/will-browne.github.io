@@ -19,6 +19,8 @@
 [WSL](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) Linux on Windows
 [WSL 2](https://www.windowscentral.com/how-install-wsl2-windows-10)
 
+[Coppelia Sim](https://www.coppeliarobotics.com/licensing)
+
 ##  Manufacturers 
 [Keenon](https://www.keenonrobot.com/EN/) Chinese mobile delivery robots
 

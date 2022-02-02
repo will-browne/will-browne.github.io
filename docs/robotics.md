@@ -19,12 +19,21 @@
 [WSL](https://www.omgubuntu.co.uk/how-to-install-wsl2-on-windows-10) Linux on Windows
 [WSL 2](https://www.windowscentral.com/how-install-wsl2-windows-10)
 
+##  Manufacturers 
+[Keenon](https://www.keenonrobot.com/EN/) Chinese mobile delivery robots
+
+[Solomon 3D](https://www.solomon-3d.com/) Taiwan 3d Vision and AI
+
+[Autoline](https://autoline.nz/) Robotic welding
+
 ## Groups
 [Queensland cluster](https://qldrobo.org/) 
 
 [Robotics Australia Group](https://roboausnet.com.au/robotics-australia-group/) MMI Bid for a 'venture factory'
 
 [QCR wiki.qcr.ai](https://wiki.qut.edu.au/display/cyphy/QUT+Centre+for+Robotics/) forwarding weblink.
+
+
 
 ## NZ Githubs
 

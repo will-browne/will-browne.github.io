@@ -26,6 +26,8 @@
 
 [Autoline](https://autoline.nz/) Robotic welding
 
+[Octopuz](https://octopuz.com/offline-robot-programming-software/) Romote robot software
+
 ## Groups
 [Queensland cluster](https://qldrobo.org/) 
 

@@ -10,7 +10,8 @@
 [DDPG](https://towardsdatascience.com/deep-deterministic-policy-gradient-ddpg-theory-and-implementation-747a3010e82f)
 [Policy gradients](https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d)
 [CVAE](https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/)
-[Fast AI](https://www.fast.ai/) Russell
+[Fast AI](https://www.fast.ai/) Russell Howard
+[MedicMind] (https://www.medicmind.tech/resources) AI without intelligence, just good intentions
 
 ## Computer graphics 
 [NeRFs](https://github.com/NVlabs/instant-ngp)

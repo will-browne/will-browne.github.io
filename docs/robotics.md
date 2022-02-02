@@ -42,4 +42,5 @@
 [SFTI Robotics](https://github.com/SfTI-Robotic)
 
 ## Robots!
+[Kauda](https://blog.arduino.cc/2020/09/16/kauda-is-a-low-cost-highly-efficient-robotic-arm/) Cheap 3d printed arm
 [Robotic home table](https://spectrum.ieee.org/labrador-systems-robot)

@@ -24,7 +24,7 @@
 
 [Coppelia Sim](https://www.coppeliarobotics.com/licensing)
 
-[Octopuz](https://octopuz.com/) Robotic programming software
+[Octopuz](https://octopuz.com/) [Verbotics](https://verbotics.com/) Robotic programming software
 
 ##  Manufacturers 
 [Keenon](https://www.keenonrobot.com/EN/) Chinese mobile delivery robots

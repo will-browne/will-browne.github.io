@@ -3,6 +3,8 @@
 
 [ hide and seek](https://openai.com/blog/emergent-tool-use/)
 
+[Machine Learning Street Talk](https://anchor.fm/machinelearningstreettalk)
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 

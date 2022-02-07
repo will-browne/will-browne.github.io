@@ -17,3 +17,4 @@
 
 ## Language
 [Polysemy](https://www.thoughtco.com/polysemy-words-and-meanings-1691642)
+[Phrase structure trees](https://www.konan-u.ac.jp/hp/nakatani/js/R7)

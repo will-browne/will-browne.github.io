@@ -2,11 +2,17 @@
 <!-- a place to put notes that aren't uploaded -->
 
 ## Funding
-[Digital twins](https://www.eng.it/en/white-papers/digital-twin)
+[Digital twins](https://www.eng.it/en/white-papers/digital-twin), 
+[Modern manufacturing initiative 2020](https://www.industry.gov.au/news/modern-manufacturing-initiative-and-national-manufacturing-priorities-announced), 
+[Australia's digital economy](https://digitaleconomy.pmc.gov.au/) [pdf](https://digitaleconomy.pmc.gov.au/sites/default/files/2021-07/digital-economy-strategy.pdf), 
+[Australia's AI Acton plan](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan), 
 
 [AR for construction sites](https://twinbuild.com/)
 
 [Everyday Robots](https://spectrum.ieee.org/alphabet-robots) IEEE Spectrum
+
+### Doctorate Scholarships
+[CSIRO](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates)
 
 
 ### Finance

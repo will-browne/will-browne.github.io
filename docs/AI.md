@@ -5,6 +5,8 @@
 
 [Machine Learning Street Talk](https://anchor.fm/machinelearningstreettalk)
 
+[RL Sheep herding](https://www.youtube.com/watch?v=vvyVTbaXzPk) Hussain Abbas
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 

@@ -20,7 +20,7 @@
 ## Computer graphics 
 [NeRFs](https://github.com/NVlabs/instant-ngp)
 
-## Benchmrks
+## Benchmarks
 [BBOB](http://coco.lri.fr/COCOdoc/bbo_experiment.html)
 
 ## XAI

@@ -58,3 +58,6 @@
 
 ## Related Tech
 [MoCap](https://tracklab.com.au/)
+
+## Academic labs
+[NUS touch and trust](https://github.com/clear-nus)

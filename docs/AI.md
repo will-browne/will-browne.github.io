@@ -10,6 +10,17 @@
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 
+### Abstraction Reasoning Corpus
+[Kaggle Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)
+
+[CLEVR](https://arxiv.org/pdf/1904.12584.pdf) paper describing relative colour shapes
+
+[Chollet YouTube](https://www.youtube.com/watch?v=jkBCyingDbk)
+
+[IQ Tests](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)
+
+
+
 ## Deep learning
 [DDPG](https://towardsdatascience.com/deep-deterministic-policy-gradient-ddpg-theory-and-implementation-747a3010e82f)
 [Policy gradients](https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d)

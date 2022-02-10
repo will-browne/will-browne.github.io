@@ -61,3 +61,18 @@
 
 ## Academic labs
 [NUS touch and trust](https://github.com/clear-nus)
+
+### Komol links
+
+[This is an overall overview:](https://arxiv.org/abs/2104.09053)
+
+[Behaviour tree used in local navigation:](https://arxiv.org/abs/2010.16018)
+
+[Learning approach for narrow spaces:](https://arxiv.org/abs/2103.03991)
+
+[Learning to switch behaviours](https://arxiv.org/abs/2011.00440)
+
+
+[Probabilistic background](https://mitpress.mit.edu/books/probabilistic-robotics)
+
+[Original DARPA grand challenge](http://robots.stanford.edu/papers/thrun.stanley05.pdf)

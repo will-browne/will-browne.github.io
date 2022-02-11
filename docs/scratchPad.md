@@ -7,9 +7,17 @@
 [Australia's digital economy](https://digitaleconomy.pmc.gov.au/) [pdf](https://digitaleconomy.pmc.gov.au/sites/default/files/2021-07/digital-economy-strategy.pdf), 
 [Australia's AI Acton plan](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan), 
 
+
+### MBIE construction
 [AR for construction sites](https://twinbuild.com/)
 
 [Everyday Robots](https://spectrum.ieee.org/alphabet-robots) IEEE Spectrum
+
+### MEGA CRC
+
+[IOC Australia](https://olympics.com/ioc/australia)
+
+
 
 ### Doctorate Scholarships
 [CSIRO](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates)

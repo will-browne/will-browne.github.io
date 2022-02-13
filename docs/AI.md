@@ -30,6 +30,8 @@
 [Fast AI](https://www.fast.ai/) Russell Howard
 [MedicMind] (https://www.medicmind.tech/resources) AI without intelligence, just good intentions
 
+[Graph NNs aka GNNs](https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783)
+
 ## Computer graphics 
 [NeRFs](https://github.com/NVlabs/instant-ngp)
 

@@ -44,6 +44,8 @@
 
 [Robotics in space roadmaps](https://www.industry.gov.au/sites/default/files/January%202022/document/robotics_and_automation_on_earth_and_in_space_roadmap_2021-2030.pdf)
 
+[Mia's interview](https://www.exaptec.com.au/podcast/2022/2/1/lets-talk-robotics-with-amelia-luu)
+
 ## NZ Githubs
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)

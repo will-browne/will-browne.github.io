@@ -16,6 +16,8 @@
 
 
 ### MBIE construction
+[Shared Drive](https://drive.google.com/drive/folders/1DOSFKVh-Nwt52B6XAdRKz_veHbmxXaC4)
+
 [AR for construction sites](https://twinbuild.com/)
 
 [Building 4.0 CRC](https://building4pointzero.org/)

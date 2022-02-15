@@ -39,7 +39,7 @@
 
 [Carbon cpu/gpu calculator code](https://github.com/mlco2/codecarbon)
 
-
+[Air Server](https://www.airserver.com/WindowsDesktop)
 
 
 ### AI Holism

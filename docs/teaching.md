@@ -23,6 +23,7 @@
 [MATE](https://matebystander.edu.au/)
 [Blackcard](https://www.theblackcard.com.au/)
 [GEMS](https://qutgems.wixsite.com/gems)
+[QUT Student Support](https://www.qut.edu.au/study/student-life/support)
 
 ## ALDD
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)

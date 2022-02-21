@@ -9,6 +9,8 @@
 
 [PGA MAP-Elites](https://github.com/ollenilsson19/PGA-MAP-Elites)
 
+[DreamCoder](https://arxiv.org/pdf/2006.08381.pdf)
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 

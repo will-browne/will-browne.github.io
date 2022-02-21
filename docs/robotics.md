@@ -38,6 +38,8 @@
 
 [Octopuz](https://octopuz.com/offline-robot-programming-software/) Romote robot software
 
+[Digit](https://www.agilityrobotics.com/meet-digit)
+
 ## Groups
 [Queensland cluster](https://qldrobo.org/) 
 

@@ -3,6 +3,9 @@
 
 ## Funding
 
+### SfTI
+[Josh Repo](https://github.com/SfTI-Robotics/demonstrator-simulation)
+
 ### ITTC
 [Digital twins](https://www.eng.it/en/white-papers/digital-twin), 
 [Modern manufacturing initiative 2020](https://www.industry.gov.au/news/modern-manufacturing-initiative-and-national-manufacturing-priorities-announced), 

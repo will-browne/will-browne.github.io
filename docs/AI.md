@@ -11,6 +11,8 @@
 
 [DreamCoder](https://arxiv.org/pdf/2006.08381.pdf)
 
+[DSL Domain Specific Language](https://towardsdatascience.com/on-the-importance-of-dsls-in-ml-and-ai-1dbccb3a2916)
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 
@@ -23,7 +25,8 @@
 
 [IQ Tests](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)
 
-
+## People
+[Smerity](https://hacker-news.news/profile/Smerity) [Git](https://github.com/Smerity)
 
 ## Deep learning
 [DDPG](https://towardsdatascience.com/deep-deterministic-policy-gradient-ddpg-theory-and-implementation-747a3010e82f)

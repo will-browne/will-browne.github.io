@@ -12,6 +12,8 @@
 [Australia's digital economy](https://digitaleconomy.pmc.gov.au/) [pdf](https://digitaleconomy.pmc.gov.au/sites/default/files/2021-07/digital-economy-strategy.pdf), 
 [Australia's AI Acton plan](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan), 
 
+[OT](https://dale-peterson.com/2019/02/11/is-the-purdue-model-dead/#:~:text=And%20it's%20not%20dead%2C%20but,helping%20with%20OT%20network%20architecture.)
+
 [Digital Twin USA](https://www.digitaltwinconsortium.org/index.htm)
 
 ### HDRs

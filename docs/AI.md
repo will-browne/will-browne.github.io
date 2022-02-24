@@ -27,6 +27,7 @@
 
 ## People
 [Smerity](https://hacker-news.news/profile/Smerity) [Git](https://github.com/Smerity)
+[Zbyszek](https://cs.adelaide.edu.au/~zbyszek/)
 
 ## Deep learning
 [DDPG](https://towardsdatascience.com/deep-deterministic-policy-gradient-ddpg-theory-and-implementation-747a3010e82f)

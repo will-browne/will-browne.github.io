@@ -32,3 +32,5 @@
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 
 
 [Black dogs help](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/)
+
+[The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses

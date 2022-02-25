@@ -35,6 +35,8 @@
 
 [MEGA Website](https://megacrc.com.au/)
 
+[Prospectus](https://uq-my.sharepoint.com/:w:/r/personal/uqrko_uq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B0d69345c-d302-463a-a890-15a1989c1ea4%7D&action=default&cid=14e54dca-4d34-4abe-bf4c-9de8782705fe)
+
 
 ### Doctorate Scholarships
 [CSIRO](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates)

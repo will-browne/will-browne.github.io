@@ -34,3 +34,5 @@
 [Black dogs help](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/)
 
 [The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
+
+[ATEA](https://www.sftichallenge.govt.nz/our-research/projects/spearhead/atea/) Maori digital twin

@@ -17,6 +17,16 @@
 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=17433255300)
 
+## People
+
+### Neuromorphs
+
+[Yulia Sandamirskaya](http://sandamirskaya.eu/)
+
+### ITRP
+[Michael Small](https://research-repository.uwa.edu.au/en/persons/michael-small)
+[Andrew Rohl](https://staffportal.curtin.edu.au/staff/profile/view/andrew-rohl-d7560432/)
+
 ### Links: Professor Brian Donnellan
 [ISRC](https://www.ulster.ac.uk/research/topic/computer-science/intelligent-systems-research-centre)
 [Confirm](https://confirm.ie/)

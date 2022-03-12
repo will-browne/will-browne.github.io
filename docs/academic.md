@@ -19,13 +19,17 @@
 
 ## People
 
+### Colleagues 
+[Marcu G](https://marcusgal.github.io/)
+
+
 ### Neuromorphs
 
 [Yulia Sandamirskaya](http://sandamirskaya.eu/)
 
 ### ITRP
 [Michael Small](https://research-repository.uwa.edu.au/en/persons/michael-small)
-[Andrew Rohl](https://staffportal.curtin.edu.au/staff/profile/view/andrew-rohl-d7560432/)
+[Andrew Rohl](https://staffportal.curtin.edu.au/staff/profile/view/andrew-rohl-d7560432/)Publishing
 
 ### Links: Professor Brian Donnellan
 [ISRC](https://www.ulster.ac.uk/research/topic/computer-science/intelligent-systems-research-centre)
@@ -33,9 +37,14 @@
 [Lero](https://lero.ie/)
 [IVI](https://ivi.ie/)
 
-## Journals
+## Publishing forums
 
-## Conferences
+### Books
+[Theory of search heuristics]](https://www.google.com.au/books/edition/Theory_of_Randomized_Search_Heuristics/Y2OtGyL6gyUC?hl=en&gbpv=1&printsec=frontcover)
+
+### Journals
+
+### Conferences
 [ACNC](https://www.acns.org.au/conferences/) Australasian Cognitive Neuroscience Conference 
 
 ## Research

@@ -35,6 +35,8 @@
 
 [The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
 
+[The Carumba Institute](https://www.qut.edu.au/research/carumba-institute)
+
 [ATEA](https://www.sftichallenge.govt.nz/our-research/projects/spearhead/atea/) Maori digital twin
 
-[Why the woken should code](https://betterprogramming.pub/why-more-women-should-learn-how-to-code-and-how-you-can-start-3a255efe8fd3)
+[Why the women should code](https://betterprogramming.pub/why-more-women-should-learn-how-to-code-and-how-you-can-start-3a255efe8fd3)

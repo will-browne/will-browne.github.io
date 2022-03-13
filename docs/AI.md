@@ -23,6 +23,8 @@
 
 [Chollet YouTube](https://www.youtube.com/watch?v=jkBCyingDbk)
 
+[Walid Saba: Symbols](https://medium.com/ontologik/ai-cannot-ignore-symbolic-logic-and-heres-why-1f896713525b)
+
 [IQ Tests](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)
 
 ## People

@@ -41,6 +41,11 @@
 
 [Air Server](https://www.airserver.com/WindowsDesktop)
 
+### Examplars
+
+[Good PURE](https://research.monash.edu/en/persons/dana-kulic), 
+[Good QUT](https://www.qut.edu.au/about/our-people/academic-profiles/m.foth)
+
 
 ### AI Holism
 [Ethics](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/)

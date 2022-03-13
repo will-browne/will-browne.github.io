@@ -20,7 +20,7 @@
 ## People
 
 ### Colleagues 
-[Marcu G](https://marcusgal.github.io/)
+[Marcus G](https://marcusgal.github.io/)
 
 
 ### Neuromorphs

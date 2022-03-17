@@ -27,6 +27,9 @@
 
 [IQ Tests](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)
 
+## Uncertainty
+[NASA Challenge](https://uqtools.larc.nasa.gov/nasa-uq-challenge-problem-2020/)
+
 ## People
 [Smerity](https://hacker-news.news/profile/Smerity) [Git](https://github.com/Smerity)
 [Zbyszek](https://cs.adelaide.edu.au/~zbyszek/)

@@ -33,7 +33,7 @@
 
 [IOC Australia](https://olympics.com/ioc/australia)
 
-[Industry/comoany spreadsheet](https://uq-my.sharepoint.com/:x:/r/personal/uqrko_uq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B47001184-2147-428e-a2a7-d500485101cf%7D&action=default&cid=06c3bda3-f6d6-4d27-b5f7-cfc773e8fa00)
+[Industry/company spreadsheet](https://uq-my.sharepoint.com/:x:/r/personal/uqrko_uq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B47001184-2147-428e-a2a7-d500485101cf%7D&action=default&cid=06c3bda3-f6d6-4d27-b5f7-cfc773e8fa00)
 
 [MEGA Website](https://megacrc.com.au/)
 

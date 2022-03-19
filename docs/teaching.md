@@ -41,4 +41,4 @@
 
 [Why the women should code](https://betterprogramming.pub/why-more-women-should-learn-how-to-code-and-how-you-can-start-3a255efe8fd3)
 
-[Intersex]()
+[Intersex people](https://youtu.be/SlT3u_CYTPk)

@@ -22,6 +22,8 @@
 
 [PFI](https://www.pfi.com.au/) fabrication
 
+[Aurecon](https://www.aurecongroup.com/)
+
 ## Facilitators
 [ANFF](https://www.anff.org.au/) The Australian National Fabrication Facility
 

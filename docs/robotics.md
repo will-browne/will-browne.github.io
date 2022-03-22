@@ -9,6 +9,9 @@
 
 [RUR Paper](https://www.gutenberg.org/cache/epub/59112/pg59112-images.html)
 
+## Help and Tutorials
+[Affine transformations](https://articulatedrobotics.xyz/5-transformation_matrices/)
+
 ## Biomedical 
 [Robotic Surgery](https://www.science.org/doi/10.1126/scirobotics.abj2908)
 
@@ -79,7 +82,6 @@
 [Learning approach for narrow spaces:](https://arxiv.org/abs/2103.03991)
 
 [Learning to switch behaviours](https://arxiv.org/abs/2011.00440)
-
 
 [Probabilistic background](https://mitpress.mit.edu/books/probabilistic-robotics)
 

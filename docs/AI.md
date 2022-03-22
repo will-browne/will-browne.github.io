@@ -13,6 +13,8 @@
 
 [DSL Domain Specific Language](https://towardsdatascience.com/on-the-importance-of-dsls-in-ml-and-ai-1dbccb3a2916)
 
+[Wombo Art](https://app.wombo.art/)
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 

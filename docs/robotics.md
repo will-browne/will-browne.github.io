@@ -43,6 +43,8 @@
 
 [Digit](https://www.agilityrobotics.com/meet-digit)
 
+[Konica Minolta](https://www.konicaminolta.com.au/promotions/campaign/introducing-mobile-industrial-robotics)
+
 ## Groups
 [Queensland cluster](https://qldrobo.org/) 
 

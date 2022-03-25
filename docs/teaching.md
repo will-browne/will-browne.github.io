@@ -29,6 +29,9 @@
 
 [QUT On-line Media Repo](https://mediahub.qut.edu.au/user-media)
 
+### Training Providers
+[Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
+
 ## ALDD
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 

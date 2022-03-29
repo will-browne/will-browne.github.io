@@ -16,6 +16,10 @@
 
 [Digital Twin USA](https://www.digitaltwinconsortium.org/index.htm)
 
+[AI Needs](https://globalpolicy.ai/en/key-focus-areas/)
+
+[Aspen medical](https://www.aspenmedical.com/)
+
 ### HDRs
 [Data 61](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates) Next Gen Grads
 

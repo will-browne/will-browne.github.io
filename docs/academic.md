@@ -21,6 +21,7 @@
 
 ### Colleagues 
 [Marcus G](https://marcusgal.github.io/)
+[Peter Stratton](https://mind2mojo.wordpress.com/)
 
 
 ### Neuromorphs

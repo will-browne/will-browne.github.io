@@ -18,6 +18,8 @@
 
 [AI Needs](https://globalpolicy.ai/en/key-focus-areas/)
 
+[DMTC](https://djpr.vic.gov.au/about-us/news/digital-innovation-for-defence-businesses)
+
 [Aspen medical](https://www.aspenmedical.com/)
 
 [Fred UQ DT](https://researchers.uq.edu.au/researcher/15199)

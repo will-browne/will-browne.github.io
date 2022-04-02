@@ -45,6 +45,8 @@
 
 [Graph NNs aka GNNs](https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783)
 
+[iLabel code](https://edgarsucar.github.io/ilabel/)
+
 ## Computer graphics 
 [NeRFs](https://github.com/NVlabs/instant-ngp)
 

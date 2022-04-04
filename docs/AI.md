@@ -34,7 +34,10 @@
 
 ## People
 [Smerity](https://hacker-news.news/profile/Smerity) [Git](https://github.com/Smerity)
+
 [Zbyszek](https://cs.adelaide.edu.au/~zbyszek/)
+
+[Peter Statton](http://neuro-ai.info/manifesto.html?i=1)
 
 ## Evolutionary Computation 
 [MTO](http://www.bdsc.site/websites/MTO/index.html)

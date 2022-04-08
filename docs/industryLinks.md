@@ -24,6 +24,8 @@
 
 [Aurecon](https://www.aurecongroup.com/)
 
+[Noja](https://www.nojapower.com.au/)
+
 ## Facilitators
 [ANFF](https://www.anff.org.au/) The Australian National Fabrication Facility
 

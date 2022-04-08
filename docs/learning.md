@@ -17,6 +17,8 @@
 [Jeff Krichmar](http://www.socsci.uci.edu/~jkrichma/publications.html) Anteater Lab
 [Rhythms of the Brain](https://neurophysics.ucsd.edu/courses/physics_171/Buzsaki%20G.%20Rhythms%20of%20the%20brain.pdf)
 
+[Kate Storrs](https://www.katestorrs.com/)
+
 ## Language
 [Polysemy](https://www.thoughtco.com/polysemy-words-and-meanings-1691642)
 [Phrase structure trees](https://www.konan-u.ac.jp/hp/nakatani/js/R7)

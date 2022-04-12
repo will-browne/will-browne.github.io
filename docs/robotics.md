@@ -58,7 +58,12 @@
 [Wildcat](https://www.csiro.au/en/research/technology-space/robotics/Wildcat-SLAM-2)
 [Mia's interview](https://www.exaptec.com.au/podcast/2022/2/1/lets-talk-robotics-with-amelia-luu)
 
-## NZ Githubs
+## Githubs
+
+### Robotics and Vision
+[Panda UDRF](https://github.com/ros-planning/moveit_resources/blob/master/panda_description/urdf/panda.urdf)
+
+### NZ
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)
 [CARES](https://github.com/UoA-CARES/cares_description)

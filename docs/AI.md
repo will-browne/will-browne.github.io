@@ -17,6 +17,8 @@
 
 [Locality Sensitive Hashing](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
 
+[Need for Symbols](https://medium.com/ontologik/ai-cannot-ignore-symbolic-logic-and-heres-why-1f896713525b)
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 

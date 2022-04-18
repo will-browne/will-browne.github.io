@@ -15,6 +15,8 @@
 
 [Wombo Art](https://app.wombo.art/)
 
+[Locality Sensitive Hashing](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 

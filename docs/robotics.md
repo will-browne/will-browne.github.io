@@ -63,6 +63,8 @@
 ### Robotics and Vision
 [Panda UDRF](https://github.com/ros-planning/moveit_resources/blob/master/panda_description/urdf/panda.urdf)
 
+[QCR Comp Vision](https://mchancan.github.io/)
+
 ### NZ
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)

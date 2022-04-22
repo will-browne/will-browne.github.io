@@ -49,6 +49,8 @@
 
 [Brisbane Invite](https://www.qld.gov.au/about/brisbane2032/legacy-program)
 
+[Drafting for 4th](https://docs.google.com/document/d/13YexK8tvCTyPLIlPcyRb5YwNaTrjGg7QqxY2K0vlnPQ/edit)
+
 ### Doctorate Scholarships
 [CSIRO](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates)
 

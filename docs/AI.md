@@ -60,6 +60,8 @@
 [MedicMind] (https://www.medicmind.tech/resources) AI without intelligence, just good intentions
 [Capsules](https://towardsdatascience.com/capsule-networks-the-new-deep-learning-network-bd917e6818e8)
 
+[Hopfield Networks](https://towardsdatascience.com/hopfield-networks-are-useless-heres-why-you-should-learn-them-f0930ebeadcd)
+
 [Graph NNs aka GNNs](https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783)
 
 [iLabel code](https://edgarsucar.github.io/ilabel/)

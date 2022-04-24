@@ -19,6 +19,8 @@
 
 [Need for Symbols](https://medium.com/ontologik/ai-cannot-ignore-symbolic-logic-and-heres-why-1f896713525b)
 
+[Melanie Mitchell article](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
+
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
 

@@ -26,6 +26,8 @@
 
 [Noja](https://www.nojapower.com.au/)
 
+[MGA Thermal storage](https://www.mgathermalstorage.com/about)
+
 ### ITTC
 [Synengco](https://synengco.com/)
 

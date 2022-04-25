@@ -17,7 +17,8 @@
 
 [Locality Sensitive Hashing](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
 
-[Need for Symbols](https://medium.com/ontologik/ai-cannot-ignore-symbolic-logic-and-heres-why-1f896713525b)
+[Need for Symbols](https://medium.com/ontologik/ai-cannot-ignore-symbolic-logic-and-heres-why-1f896713525b), 
+[Gary Marcus: Symbolic AI](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 
 [Melanie Mitchell article](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
 

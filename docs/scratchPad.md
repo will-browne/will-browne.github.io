@@ -7,6 +7,8 @@
 [Josh Repo](https://github.com/SfTI-Robotics/demonstrator-simulation)
 
 ## ITTC
+[Call](https://www.arc.gov.au/grants/linkage-program/industrial-transformation-research-program/industrial-transformation-training-centres)
+
 [Digital twins](https://www.eng.it/en/white-papers/digital-twin), 
 [Modern manufacturing initiative 2020](https://www.industry.gov.au/news/modern-manufacturing-initiative-and-national-manufacturing-priorities-announced), 
 [Australia's digital economy](https://digitaleconomy.pmc.gov.au/) [pdf](https://digitaleconomy.pmc.gov.au/sites/default/files/2021-07/digital-economy-strategy.pdf), 

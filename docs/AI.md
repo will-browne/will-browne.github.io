@@ -3,6 +3,8 @@
 
 [ hide and seek](https://openai.com/blog/emergent-tool-use/)
 
+[Habitat](https://techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/)
+
 [Machine Learning Street Talk](https://anchor.fm/machinelearningstreettalk)
 
 [RL Sheep herding](https://www.youtube.com/watch?v=vvyVTbaXzPk) Hussain Abbas

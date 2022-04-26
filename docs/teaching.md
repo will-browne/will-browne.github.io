@@ -17,6 +17,13 @@
 
 [MATLAB Grader](https://grader.mathworks.com/)
 
+### resources
+[Joint Probabilities](https://www.investopedia.com/terms/j/jointprobability.asp#:~:text=Joint%20probability%20is%20a%20statistical,time%20that%20event%20X%20occurs.)
+
+[Summation of likelihoods != 1](https://www.quora.com/What-is-an-intuitive-explanation-for-why-a-likelihood-function-doesnt-sum-or-integrate-to-1)
+
+[Kalman Filter in Graphics](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+
 ## Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)
 [High cost codes](https://heimshelp.dese.gov.au/resources/reports/HDR-Course-Completions-Detailed-Report)

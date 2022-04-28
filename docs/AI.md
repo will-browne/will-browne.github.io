@@ -48,6 +48,8 @@
 
 [Peter Statton](http://neuro-ai.info/manifesto.html?i=1)
 
+[David Ha](https://attentionagent.github.io/)
+
 ## Evolutionary Computation 
 [MTO](http://www.bdsc.site/websites/MTO/index.html)
 

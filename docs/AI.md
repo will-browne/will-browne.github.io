@@ -30,7 +30,7 @@
 ### Abstraction Reasoning Corpus
 [Kaggle Challenge](https://www.kaggle.com/c/abstraction-and-reasoning-challenge)
 
-[CLEVR](https://arxiv.org/pdf/1904.12584.pdf) paper describing relative colour shapes
+[CLEVR](https://arxiv.org/pdf/1904.12584.pdf) paper describing relative colour shapes, [GitHub repo](https://github.com/sashi2295/clevr-dataset-gen)
 
 [Chollet YouTube](https://www.youtube.com/watch?v=jkBCyingDbk)
 

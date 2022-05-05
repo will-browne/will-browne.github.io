@@ -28,6 +28,8 @@
 
 [MGA Thermal storage](https://www.mgathermalstorage.com/about)
 
+[Red Eye](https://www.redeye.co/) Digital Twins
+
 ### ITTC
 [Synengco](https://synengco.com/)
 

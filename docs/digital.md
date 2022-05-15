@@ -41,6 +41,8 @@
 
 [Air Server](https://www.airserver.com/WindowsDesktop)
 
+[Distill](https://yimei-demo-distill.netlify.app/) interactive papers
+
 ### Examplars
 
 [Good PURE](https://research.monash.edu/en/persons/dana-kulic), 

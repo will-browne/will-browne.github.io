@@ -40,6 +40,8 @@
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
 
 ## ALDD
+[Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington
+
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 
 

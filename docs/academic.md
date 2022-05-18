@@ -51,6 +51,9 @@
 [ACNC](https://www.acns.org.au/conferences/) Australasian Cognitive Neuroscience Conference 
 [Human AI](https://hmieai2022.cs.umu.se/index.php/schedule/) from Andrew L.
 
+### Media 
+[The Conversation](https://theconversation.com/au/pitches) pitch portal
+
 ## Research
 
 ### My Papers

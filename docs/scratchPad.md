@@ -7,6 +7,8 @@
 [Josh Repo](https://github.com/SfTI-Robotics/demonstrator-simulation)
 
 ## ITTC
+[Slide Deck](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EZE3LRg7bFdImq_iZDBPLTMB4y2w1kB5V3ZONL_xRy4g0Q)
+
 [Call](https://www.arc.gov.au/grants/linkage-program/industrial-transformation-research-program/industrial-transformation-training-centres)
 
 [Digital twins](https://www.eng.it/en/white-papers/digital-twin), 

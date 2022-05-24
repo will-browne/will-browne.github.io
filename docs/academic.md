@@ -4,7 +4,7 @@
 [Current CV, excluding publications](), 
 [Publications]().
 
-[Open research areas for postgraduate students](HDR_research)
+[Open research areas for postgraduate students](HDR_research.html)
 
 [List of courses undertaken](Training.md)
 

@@ -1,5 +1,14 @@
 # Academia 
 
+## CV (work in progress)
+[Current CV, excluding publications](), 
+[Publications]().
+
+[Open research areas for postgraduate students]()
+
+[List of courses undertaken](Training.md)
+
+
 ## Tools
 [Figshare](https://knowledge.figshare.com/institutions)
 

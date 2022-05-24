@@ -8,9 +8,11 @@
 
 [List of courses undertaken](Training.html)
 
-[Training courses undertaken]({% link /Training.html %})
+[none List of courses undertaken](Training)
 
-[MD Training courses undertaken]({% link /Training %})
+[Training courses undertaken](/Training.html)
+
+[MD Training courses undertaken]({link /Training })
 
 ## Tools
 [Figshare](https://knowledge.figshare.com/institutions)

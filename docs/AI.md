@@ -57,7 +57,7 @@
 
 [CGP](https://www.cartesiangp.com/)
 
-[EC GP Python](https://github.com/ec-kity/ec-kity/)
+[EC GP Python](https://github.com/ec-kity/ec-kity/) EC Kitty
 
 ## Deep learning
 [DDPG](https://towardsdatascience.com/deep-deterministic-policy-gradient-ddpg-theory-and-implementation-747a3010e82f)

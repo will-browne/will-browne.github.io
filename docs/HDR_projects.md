@@ -30,12 +30,12 @@ CVs should be quantifiable, e.g. put your grades in relevant subjects, overall G
 ## Available Research Areas and Projects 
 This is not an exhaustive list, but is indicative of my research plans. It's also not in a priority order as it's more important to find areas of mutual interest rather than adapt to a supervisor's area of interest that is not motivating to you.
 
-My overall research area is: Artificial Cognitive Systems
+My overall research area is: _Artificial Cognitive Systems_
 
 That is, how to get artificial systems (software and/or robots) to perceive, represent, reason, learn and effect an interaction with an environment to continually improve its task solving ability.
 
 ### Continual Learning Systems
-AI that is pre-programmed is limited on its tasks and human bias. Learning systems offer rich behaviour
+AI that is pre-programmed is limited on its tasks and human bias. Learning systems offer rich behaviour, where collaborators and I have created the following that need developing (projects marked by '*')
 
 A symbolic system that works in Boolean and Integer domains without noise
 * Need to translate this to real-valued, noisy domains.

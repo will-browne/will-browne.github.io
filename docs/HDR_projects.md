@@ -35,7 +35,7 @@ My overall research area is: _Artificial Cognitive Systems_
 That is, how to get artificial systems (software and/or robots) to perceive, represent, reason, learn and effect an interaction with an environment to continually improve its task solving ability.
 
 ### Continual Learning Systems
-AI that is pre-programmed is limited on its tasks and human bias. Learning systems offer rich behaviour, where collaborators and I have created the following that need developing (projects marked by '*')
+AI that is pre-programmed is limited on its tasks and human bias. Learning systems offer rich behaviour, where collaborators and I have created the following that need developing (projects bulleted)
 
 A symbolic system that works in Boolean and Integer domains without noise
 * Need to translate this to real-valued, noisy domains.

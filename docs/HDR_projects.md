@@ -30,7 +30,8 @@ CVs should be quantifiable, e.g. put your grades in relevant subjects, overall G
 ## Available Research Areas and Projects 
 This is not an exhaustive list, but is indicative of my research plans. It's also not in a priority order as it's more important to find areas of mutual interest rather than adapt to a supervisor's area of interest that is not motivating to you.
 
-My overall area research is: Artificial Cognitive Systems
+My overall research area is: Artificial Cognitive Systems
+
 That is, how to get artificial systems (software and/or robots) to perceive, represent, reason, learn and effect an interaction with an environment to continually improve its task solving ability.
 
 ### Continual Learning Systems

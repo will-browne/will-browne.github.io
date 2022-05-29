@@ -66,8 +66,9 @@ Instead, connectionist approaches, especially deep neural networks, have been sh
 
 ### Affective Robotics
 Marvin Minsky, a pioneer in AI, raises the question whether a machine can be intelligent without emotions rather than having an intelligent machine expressing emotions. Affective robotics considers how analogues of emotion can be used to improve performance, especially in uncertain, unknown, dynamic and noisy domains where look up-table type approaches are likely to fail to discover identical previous experience.
-It is noted that this field is controversial as the neuroscience basis for emotion itself still requires much research. Previous research has developed ‘hidden latent variables’ that that can be adaptively learnt to enable functionality equivalent to that considered useful in emotions
-*This research would consider emotions as a warehouse to sort incoming signals based on their past, present and future values, cf an equivalence to PID controllers.
+It is noted that this field is controversial as the neuroscience basis for emotion itself still requires much research. Previous research has developed ‘hidden latent variables’ that that can be adaptively learnt to enable functionality equivalent to that considered useful in emotions.
+* This research will consider emotions as a warehouse to sort incoming signals based on their past, present and future values, cf an equivalence to PID controllers.
+It is noted that much 'emotional' robotics research considers human robotic interaction, where the purpose of this research is to affect decision-making.
 
 ### Stroke Rehabilitation Robotics
 Much of my research is forward-looking, blue-sky ideas, so it is worthwhile to consider a beneficial application. Namely, intelligent orthotics for stroke rehabilitation that learn the best strategies to help people affected by stroke. A prototype hardware system has been constructed, which ironically will take time to develop for medical approval.

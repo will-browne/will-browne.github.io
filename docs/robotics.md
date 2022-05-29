@@ -32,6 +32,8 @@
 ### ROS
 [Docker + ROS](https://roboticseabass.com/2021/04/21/docker-and-ros/)
 
+[Skipper ROS tutorial](https://github.com/will-browne/ECEN_430_Tutorials)
+
 [Panda URDF](https://github.com/ros-planning/moveit_resources/blob/master/panda_description/urdf/panda.urdf)
 
 ##  Manufacturers 

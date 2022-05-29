@@ -41,7 +41,7 @@ A symbolic system that works in Boolean and Integer domains without noise
 * Need to translate this to real-valued, noisy domains.
 Code exists, but the data sets do not and integration is still uncertain. Most intriguing is how future use can influence current learning, i.e. "will this be useful in the future?"
 
-A lateralized system exists that enables a provident to be considered at the local level and the holistic level simultaneously.
+A lateralized system exists that enables an input to be considered at the local level and the holistic level simultaneously.
 * How lateralization functions in continual learning is an open question, e.g. can we learn the concept of a leg, wheel, etc., so that we can readily identify and differentiate forms of locomotion?
 
 A compaction algorithm exists that can remove redundant and irrelevant learnt knowledge, where it is unknown how this works for continual learning. What happens with almost duplicate knowledge from different sources, how to forget (without catastrophic forgetting), how to learn economically and so forth.

@@ -35,6 +35,7 @@
 [CLEVR](https://arxiv.org/pdf/1904.12584.pdf) paper describing relative colour shapes, [GitHub repo](https://github.com/sashi2295/clevr-dataset-gen)
 
 [Chollet YouTube](https://www.youtube.com/watch?v=jkBCyingDbk)
+[Chollet NeuroIPS overview](https://joepalermo.github.io/2021/01/10/talk-review-francois-chollet-neurips-2020.html)
 
 [Walid Saba: Symbols](https://medium.com/ontologik/ai-cannot-ignore-symbolic-logic-and-heres-why-1f896713525b)
 

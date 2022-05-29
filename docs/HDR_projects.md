@@ -50,7 +50,7 @@ A compaction algorithm exists that can remove redundant and irrelevant learnt kn
 ### Abstract reasoning
 This is the ability to learn the underlying patterns within an environment to interactive observation within it. This goes beyond generalisation, i.e. the ability to identify and ignore irrelevant/redundant knowledge. Instead, it is the ability to identify building blocks of knowledge that can be recombined into more complex patterns that are useful to solve tasks in the domain.
 
-The continual learning system developed as a basic form of abstract reasoning in terms of recombining solutions from small problems to help solve larger-scale problems in the same or related domain.
+The continual learning system developed is a basic form of abstract reasoning in terms of recombining solutions from small problems to help solve larger-scale problems in the same or related domain.
 * Research questions remaining on how abstraction adapts to inductive, deductive and abductive reasoning in adaptive learning.
 Chollet’s Abstraction Reasoning Corpus is a most interesting and open challenge in this research field.
 

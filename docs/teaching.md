@@ -17,6 +17,8 @@
 
 [MATLAB Grader](https://grader.mathworks.com/)
 
+[Covariance](https://towardsdatascience.com/5-things-you-should-know-about-covariance-26b12a0516f1)
+
 ### resources
 [Joint Probabilities](https://www.investopedia.com/terms/j/jointprobability.asp#:~:text=Joint%20probability%20is%20a%20statistical,time%20that%20event%20X%20occurs.)
 

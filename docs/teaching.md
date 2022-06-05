@@ -62,3 +62,10 @@
 [AIATSIS](https://aiatsis.gov.au/about-aiatsis) Collection of storytellers 
 
 [Deadly Science](https://deadlyscience.org.au/)
+
+### Values
+[Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 
+[Google](https://about.google/philosophy/), 
+[Neflix](https://hbr.org/2014/01/how-netflix-reinvented-hr)
+
+

@@ -43,6 +43,8 @@
 
 [Distill](https://yimei-demo-distill.netlify.app/) interactive papers
 
+[PlotJuggler](https://www.plotjuggler.io/) Data plotter, e.g. ROS 
+
 ### Examplars
 
 [Good PURE](https://research.monash.edu/en/persons/dana-kulic), 

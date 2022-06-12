@@ -53,6 +53,10 @@
 
 [David Ha](https://attentionagent.github.io/)
 
+### Reinforcement. Learning
+[Rich Sutton Slides](https://slideplayer.com/slide/2403698/)
+
+
 ## Evolutionary Computation 
 [MTO](http://www.bdsc.site/websites/MTO/index.html)
 

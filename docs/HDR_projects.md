@@ -4,7 +4,7 @@ This is a collection of useful hints and tips for postgraduate research, such as
 ## Things you need for the research journey:
 
 1. Prerequisite knowledge in the research domain.
-This is usually a high-class undergraduate degree in a relevant discipline (high GPA from a good university ~top 500 world ranked). This can be complemented by on-line courses and self-study when switching disciplines.
+This is usually a high-class undergraduate degree in a relevant discipline (e.g. high GPA from a good university ~top 500 world ranked) and/or published papers (e.g. recognised conferences and impact factor listed journals). This can be complemented by on-line courses and self-study when switching disciplines.
 2. English language communication in written, oral and comprehension.
 Academic discourse is commonly in English (it is arguable whether this is the best language, but it has become the de facto standard), so obtaining a high level  (~IELTS 7.0 or equivalent) and continuing to work on this aspect is required throughout the study is an unavoidable necessity.
 3. 'Stickability', especially for doctorate studies. 

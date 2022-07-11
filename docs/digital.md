@@ -1,6 +1,13 @@
 # Digital domain
 <!-- Websites, how to program, AR/VR -->
 
+
+
+## AI Codes
+[eLCS](https://github.com/UrbsLab/scikit-eLCS)
+[XCS By AB](https://github.com/DevAB-Git/sspXCS)
+[XCSCFC By AB](https://github.com/DevAB-Git/sspXCSCFC)
+
 ## Websites
 
 [ dream host - domain seller ](https://panel.dreamhost.com/)
@@ -83,7 +90,4 @@
 [MC](http://incompleteideas.net/book/first/ebook/node51.html)
 
 
-
-## AI Codes
-[eLCS](https://github.com/UrbsLab/scikit-eLCS)
 

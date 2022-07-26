@@ -49,6 +49,9 @@
 
 [Konica Minolta](https://www.konicaminolta.com.au/promotions/campaign/introducing-mobile-industrial-robotics)
 
+### Component and Sensor suppliers
+[McMaster CAD models](https://www.mcmaster.com/)
+
 ## Groups
 [Queensland cluster](https://qldrobo.org/) 
 

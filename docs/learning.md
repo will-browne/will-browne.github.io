@@ -11,6 +11,8 @@
 
 [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke)
 
+[Compositionality](https://plato.stanford.edu/entries/compositionality/)
+
 ### Mathematics 
 [CPA](https://thirdspacelearning.com/blog/concrete-pictorial-abstract-maths-cpa/)
 

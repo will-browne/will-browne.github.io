@@ -30,4 +30,4 @@
 
 [Grammars](file:///C:/Users/will_/OneDrive/Documents/Academic/grammars.pdf)
 
-[Intension and Extension]()
+[Intension and Extension](https://www.newworldencyclopedia.org/entry/Intension_and_Extension#:~:text=Intension%20refers%20to%20the%20logical,the%20word%20or%20phrase%20describes.)

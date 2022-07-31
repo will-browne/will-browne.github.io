@@ -29,3 +29,5 @@
 [Phrase structure trees](https://www.konan-u.ac.jp/hp/nakatani/js/R7)
 
 [Grammars](file:///C:/Users/will_/OneDrive/Documents/Academic/grammars.pdf)
+
+[Intension and Extension]()

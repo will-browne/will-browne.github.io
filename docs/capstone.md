@@ -2,8 +2,8 @@
 
 | Email       | Given Name  | Family Name     | Company    | Yr & Sems  | Meeting Time  | Outcome    | Co-supervisors | Abstract |
 | :---        | :---        | :---            | :---       | :---       | :---          | :---       | :---           | :---     |    
-| harrison.mcveigh@connect.qut.edu.au | Harrison | McVeigh | Reality Fishing Charters | 2021 1&2 | ad-hoc | Pass| - | [EER-Crane](#EER-Crane) |
-|    |         |          || | | | | | |
+| harrison.mcveigh@connect.qut.edu.au | Harrison | McVeigh | Reality Fishing Charters | 2021 1&2 | ad-hoc | Pass| - | [Crane](#EER-Crane) |
+| clara.barnes@connect.qut.edu.au   | Clara     | Barnes       |-|2022 1 2023 1 | ad hoc | ongoing | - | [ARC](#EER-AbstractRC) |
 | | | | | | | | | | |
 
 ## List of Project Abstracts

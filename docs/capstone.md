@@ -8,7 +8,9 @@
 | luke.nadjmeljkuti@connect.qut.edu.au | Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Ongoing | Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
 | jashmaulesh.khamar@connect.qut.edu.au | Jash | Khamar | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | a22.holmes@connect.qut.edu.au | Alex | Holmes | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022 1&2 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
+| jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022 2 2023 1 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
+| quachtanx@gmail.com | Quach *Tan*  | Nguyen | Hallowed Footwear | 2022 2 2023 1 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
+| | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 

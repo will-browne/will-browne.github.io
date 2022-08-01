@@ -4,9 +4,28 @@
 | :---        | :---        | :---            | :---       | :---       | :---          | :---       | :---           | :---     |    
 | harrison.mcveigh@connect.qut.edu.au | Harrison | McVeigh | Reality Fishing Charters | 2021 1&2 | ad-hoc | Pass| - | [Crane](#EER-Crane) |
 | clara.barnes@connect.qut.edu.au   | Clara     | Barnes       |-|2022 1 2023 1 | ad hoc | ongoing | - | [ARC](#EER-AbstractRC) |
-| | | | | | | | | | |
+| sophia.alfonso@connect.qut.edu.au | Sophia | Alonso | Orrcon | 2022 1&2 | tbc | Ongoing |Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
+| luke.nadjmeljkuti@connect.qut.edu.au| Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Ongoing |Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
 
 ## List of Project Abstracts
+### EER-Orrcon
+Project Description: Orrcon Steel fabricate a wide range of stock product, such as tube and pipe, which needs to be distributed to customers and service centres. There is an opportunity to employ autonomous ground vehicles (AGVs) and warehouse robotics to create improved operational practices. This includes optimising storage, warehousing, location, palletising, distribution and so forth. This project is twofold: first, create a base simulator that captures the important operational characteristics of the plant (both current and possible extensions to future configurations), second, determine optimisation methods (from dynamic programming to evolutionary computation) that can optimise the operation of simulated warehouse to provide guidelines to Orrcon Steel on future warehouse and AGV development.
+
+### EER-RoboticWelding
+Project Description: Robotic welding offers companies the ability to autonomously fulfil dull and dangerous welding and additive manufacturing tasks. This frees up employees’ time, upskills existing employees and addresses the skills/labour shortage experienced in Queensland manufacturing due to border closures. Many companies bought robotic welders but do not have the expertise to deploy them. Similarly, other companies would like to deploy robotic welders but are uncertain where to begin. This project is to create a robotic welding start-up guide for small to medium enterprises for that they can select, commission and deploy robotic welding for a range of common tasks. Initial research will be conducted on company needs, existing solutions and barriers to implementation. Using ARM Hub facilities, experiencing augmented reality welding training, and autonomous robotic welding will be gained. Design and development of a robotic welding ‘cell’ will act as a demonstrator to companies on how to maximise the use of a robotic welding.
+
 ### EER-Crane
 Cranes have been an essential building block in our technological age that have been used to build structures and transport materials around the world. In the marine industry cranes play a large role for large container ships that require cranes to load and unload billions of dollars’ worth of minerals, materials and market goods every year. However, cranes are also used in the marine industry for smaller scale operations such as loading and unloading auxiliary vessels. With the current technological trends these types of small-scale crane operations are becoming more affordable with companies introducing more technology and automation than ever before. This project proposal will analyse the implementation of such technologies towards a real-world problem presented by an industry partner. In particular the project will focus on the challenges faced in these small-scale operations and what engineering literature is available to better understand the problem but also the potential solution. After close contact with the industry partner a set of essential and non-essential requirements will be discussed that will govern the projects milestones and deliverables. A communications plan is then outlined that is used to structure the Industry partner’s and QUT Supervisor’s relations that are used as information and feedback channels. Overall, the proposed project aims to be an affordable and professional solution for the industry partner that will be able to complete the first phase of systems integration towards a fully automated solution into the future.
 

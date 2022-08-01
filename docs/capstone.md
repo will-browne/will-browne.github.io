@@ -5,9 +5,10 @@
 | harrison.mcveigh@connect.qut.edu.au | Harrison | McVeigh | Reality Fishing Charters | 2021 1&2 | ad-hoc | Pass| - | [Crane](#EER-Crane) |
 | clara.barnes@connect.qut.edu.au   | Clara     | Barnes       |-|2022 1 2023 1 | ad hoc | ongoing | - | [ARC](#EER-AbstractRC) |
 | sophia.alfonso@connect.qut.edu.au | Sophia | Alonso | Orrcon | 2022 1&2 | tbc | Ongoing |Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
-| luke.nadjmeljkuti@connect.qut.edu.au| Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Ongoing |Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
-| | | | | | | | | | 
-| | | | | | | | | | 
+| luke.nadjmeljkuti@connect.qut.edu.au | Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Ongoing | Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
+| jashmaulesh.khamar@connect.qut.edu.au | Jash | Khamar | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| a22.holmes@connect.qut.edu.au | Alex | Holmes | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| | | | | | | | | | | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 

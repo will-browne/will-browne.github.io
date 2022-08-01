@@ -10,7 +10,7 @@
 | a22.holmes@connect.qut.edu.au | Alex | Holmes | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022 2 2023 1 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
 | quachtanx@gmail.com | Quach *Tan*  | Nguyen | Hallowed Footwear | 2022 2 2023 1 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
-| | | | | | | | | | 
+| clarencelin818@hotmail.com | Clarence | Lin | S11 |  2022 2 2023 1 | tbc | Ongoing | Jason & Gavin | [Robotic Guide](#EER-Concierge) | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
@@ -23,6 +23,16 @@
 | | | | | | | | | | 
 
 ## List of Project Abstracts
+
+### EER-Concierge
+Visitors to S11 are met by a locked door rather than a friendly robot, which does not create the right first impression for QCR (QUT Centre for Robotics). QCR has a Temi "the personal robot" that is available to become the concierge for S11 floor where QCR is based.
+
+Temi (robotemi.com) is an autonomous robot that is very good at going from A to B once programmed. However, they could do so much more! This project is to explore how the platform can be used to guide human (or otherwise) visitors in S11. It has a number of research themes where one or more will form the basis of this project:
+Ethics of human robot interaction in terms of capturing images, storing data, recognising people and so forth. For example, if someone has opted out of their image being captured by the robot the first time they visit, how should the robot recognise them the second time?
+Cobotics, i.e. collaborative robotics, in terms of how do people want to be guided and interact with the robot? When should the robot display a diagram of the route or simply ask the person to follow?
+Behaviour based robotics, in terms of how should the robot behave in certain situations. If surrounded by a group of visitors, should the robot stay still or ask the visitors to move so it can be recharged? Can it anticipate what a visitor will do so will move aside to let the robot pass - curiously most people move aside for the robot currently rather than vice versa.
+Emotion detection for behaviour modification of the robot, e.g. can the robot detect if a person is happy or angry to see the robot and adjust its responses accordingly?
+
 
 ### EER-Hallowed-Footwear
 admin@hallowedfootwear.com.au

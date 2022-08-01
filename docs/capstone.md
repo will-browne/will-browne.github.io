@@ -8,7 +8,7 @@
 | luke.nadjmeljkuti@connect.qut.edu.au | Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Ongoing | Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
 | jashmaulesh.khamar@connect.qut.edu.au | Jash | Khamar | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | a22.holmes@connect.qut.edu.au | Alex | Holmes | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| | | | | | | | | | | | | | | | | | | | 
+| jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022 1&2 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
@@ -21,6 +21,16 @@
 | | | | | | | | | | 
 
 ## List of Project Abstracts
+
+### EER-Hallowed-Footwear
+admin@hallowedfootwear.com.au
+3D Digital Twin App Development for Footwear Measurement
+
+Hallowed Footwear (hallowedfootwear.com.au)
+
+Project Description: Hallowed Footwear are an SME that procures footwear for people with larger feet than standard stock sizes in High Street chains to sell on their e-commerce site. Measurement and sizing of feet is a time-consuming process, which is subject to uncertainty and error. This project is to investigate the use of smart phone cameras to capture augmented reality images of people’s feet to correctly size shoes. It should be noted that a nominal shoe size, e.g. EU 42, may differ in size depending on different shoe designers. Thus, this project has two stages. Firstly, to use a smart phone to measure a customer’s feet dimensions accurately and quickly to store in a digital twin. Secondly, to measure a range of shoes to determine the actual size and hence ascertain which products fit best to a given digital
+
+
 ### EER-Orrcon
 Project Description: Orrcon Steel fabricate a wide range of stock product, such as tube and pipe, which needs to be distributed to customers and service centres. There is an opportunity to employ autonomous ground vehicles (AGVs) and warehouse robotics to create improved operational practices. This includes optimising storage, warehousing, location, palletising, distribution and so forth. This project is twofold: first, create a base simulator that captures the important operational characteristics of the plant (both current and possible extensions to future configurations), second, determine optimisation methods (from dynamic programming to evolutionary computation) that can optimise the operation of simulated warehouse to provide guidelines to Orrcon Steel on future warehouse and AGV development.
 

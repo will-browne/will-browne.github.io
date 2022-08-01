@@ -1,7 +1,7 @@
 # Private list of Capstone projects at QUT
 
-| Email       | Given Name  | Family Name     | Company    | Yr & Sems  | Meeting Time  | Outcome    | Co-supervisors | Abstract |
-| :---        | :---        | :---            | :---       | :---       | :---          | :---       | :---           | :---     |    
+| Email       | Given Name  | Family Name     | Company    | Year & Sems  | Meeting Time  | Outcome    | Co-supervisors | Abstract |
+| :---        | :---        | :---            | :---       | :---         | :---          | :---       | :---           | :---     |    
 | harrison.mcveigh@connect.qut.edu.au | Harrison | McVeigh | Reality Fishing Charters | 2021 1&2 | ad-hoc | Pass| - | [Crane](#EER-Crane) |
 | clara.barnes@connect.qut.edu.au   | Clara     | Barnes       |-|2022 1 2023 1 | ad hoc | ongoing | - | [ARC](#EER-AbstractRC) |
 | sophia.alfonso@connect.qut.edu.au | Sophia | Alonso | Orrcon | 2022 1&2 | tbc | Ongoing |Lester Kirkwood | [Orrcon](#EER-Orrcon) | 

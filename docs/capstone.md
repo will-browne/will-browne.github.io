@@ -8,11 +8,13 @@
 | luke.nadjmeljkuti@connect.qut.edu.au | Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Ongoing | Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
 | jashmaulesh.khamar@connect.qut.edu.au | Jash | Khamar | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | a22.holmes@connect.qut.edu.au | Alex | Holmes | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022 2 2023 1 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
-| quachtanx@gmail.com | Quach *Tan*  | Nguyen | Hallowed Footwear | 2022 2 2023 1 | tbc | Ongoing | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
-| clarencelin818@hotmail.com | Clarence | Lin | S11 |  2022 2 2023 1 | tbc | Ongoing | James & Gavin | [Robotic Guide](#EER-Concierge) | 
-| | | | | | | | | | 
-| | | | | | | | | | 
+| jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022 2 2023 1 | tbc | new | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
+| quachtanx@gmail.com | Quach *Tan*  | Nguyen | Hallowed Footwear | 2022 2 2023 1 | tbc | new | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
+| clarencelin818@hotmail.com | Clarence | Lin | S11 |  2022 2 2023 1 | tbc | new | James & Gavin | [Robotic Guide](#EER-Concierge) | 
+| sarel.scheepers@connect.qut.edu.au | Sar | Scheeper | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
+| riku.oya@connect.qut.edu.au | Riku | Oya | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
+| murtaza.ali@connect.qut.edu.au | Murtaza | Ali | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
+| | | | | | | | | |
 | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
@@ -23,6 +25,16 @@
 | | | | | | | | | | 
 
 ## List of Project Abstracts
+
+### EER-AR-Robotics
+Project Description:
+As automation and robotics grow to be more prevalent in our lives, human-robot interactions (HRI) are becoming more commonplace. Recent advancements in augmented reality (AR) and extended reality (XR) technologies offer greater opportunities for more immersive robotics experiences.
+
+In this project, you will explore the use of AR/XR in human-robot interactions. Coupling AR/XR with robotics offers potential for greater interaction and information-rich feedback for operators. Feedback includes the current joint state, the robot’s next state and the planned path to that state. AR/XR can be leveraged to simulate robots allowing for interactive simulation and training, reducing the risks around using industrial robots and pre-empting costly collisions with the worksite.
+
+This project offers the opportunity to work alongside a trans-disciplinary team of specialist researchers in robotics, AR/XR, gaming and design. We seek candidates with an interest in human-machine interaction (HMI), human-robot interaction (HRI), robotics and automation, user experience (UX) and design.
+
+Outcomes from this project centre around developing AR/XR demonstrations visualising live feedback of the current robotic state with a stretch goal of adding interactive features to the AR interface. This can be thought of as an augmented reality version of a visualisation system for a robot (e.g. RViz). It can also be thought of as a base Digital Twin to enable interactive data flow to and from the real-world systems.
 
 ### EER-Concierge
 Visitors to S11 are met by a locked door rather than a friendly robot, which does not create the right first impression for QCR (QUT Centre for Robotics). QCR has a Temi "the personal robot" that is available to become the concierge for S11 floor where QCR is based.

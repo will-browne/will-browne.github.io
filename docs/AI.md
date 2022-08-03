@@ -11,7 +11,7 @@
 
 [PGA MAP-Elites](https://github.com/ollenilsson19/PGA-MAP-Elites)
 
-[DreamCoder](https://arxiv.org/pdf/2006.08381.pdf)
+[DreamCoder](https://arxiv.org/pdf/2006.08381.pdf), [DALL-E2](https://openai.com/dall-e-2/#demos)
 
 [DSL Domain Specific Language](https://towardsdatascience.com/on-the-importance-of-dsls-in-ml-and-ai-1dbccb3a2916)
 

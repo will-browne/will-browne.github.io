@@ -32,6 +32,8 @@
 
 [Budget support](https://www.innovationaus.com/qld-budget-good-news-for-renewables-and-advanced-manufacturing/)
 
+[SysCAD](https://www.syscad.net/about-us/)
+
 ### HDRs
 [Data 61](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates) Next Gen Grads
 

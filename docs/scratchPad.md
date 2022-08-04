@@ -19,6 +19,7 @@
 [OT](https://dale-peterson.com/2019/02/11/is-the-purdue-model-dead/#:~:text=And%20it's%20not%20dead%2C%20but,helping%20with%20OT%20network%20architecture.)
 
 [Digital Twin USA](https://www.digitaltwinconsortium.org/index.htm)
+[DT Canada](https://www.yvr.ca/en/media/news-releases/yvr-digital-twin-launch)
 [CSIRO AI Roadmap](https://data61.csiro.au/en/Our-Research/Our-Work/AI-Roadmap)
 
 [AI Needs](https://globalpolicy.ai/en/key-focus-areas/)

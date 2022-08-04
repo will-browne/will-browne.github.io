@@ -55,6 +55,8 @@
 
 [PlotJuggler](https://www.plotjuggler.io/) Data plotter, e.g. ROS 
 
+[DevOps](https://raygun.com/blog/best-devops-tools/) tools
+
 ### Examplars
 
 [Good PURE](https://research.monash.edu/en/persons/dana-kulic), 

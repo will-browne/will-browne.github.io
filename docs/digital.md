@@ -20,8 +20,9 @@
 
 [Jekyll from the Start](https://www.kiltandcode.com/2020/04/30/how-to-create-a-blog-using-jekyll-and-github-pages-on-windows/)
 [html5up phantom in jekyll](https://www.jekyll-resources.com/theme/phantom/)
-[MD pages help](https://kbroman.org/simple_site/pages/overview.html)
-[MD Syntax](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+[MD pages help](https://kbroman.org/simple_site/pages/overview.html), 
+[MD Syntax](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md), 
+[MD Cheatsheat](https://www.markdownguide.org/cheat-sheet/) 
 
 [DNS Lookup](https://www.whatsmydns.net/#A/ai-rt.com)
 

@@ -10,6 +10,8 @@
 
 [Visual statistics](https://seeing-theory.brown.edu/index.html)
 
+[AssignmentWatch](https://assignmentwatch.com/) Plagiarism checker
+
 ## Robotics 439
 [Coppelia robotics sim](https://www.coppeliarobotics.com/)
 

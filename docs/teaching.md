@@ -67,6 +67,8 @@
 
 [Deadly Science](https://deadlyscience.org.au/)
 
+[Digital Signing Avatars](https://www.kara.tech/)
+
 ### Values
 [Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 
 [Google](https://about.google/philosophy/), 

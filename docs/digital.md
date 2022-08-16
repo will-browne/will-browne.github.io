@@ -95,4 +95,7 @@
 [MC](http://incompleteideas.net/book/first/ebook/node51.html)
 
 
+## Fun stuff
 
+### Art
+[Wild Systems](https://www.wildsystem.net/about.html) interactive digital arty stuff 

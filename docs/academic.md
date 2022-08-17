@@ -13,6 +13,11 @@
 
 [Connect Papers](https://www.connectedpapers.com/) search tool
 
+## QUT
+
+### QCR
+[CI Meetings](https://wiki.qut.edu.au/display/cyphy/CI+Meetings)
+
 ## Professional bodies
 [NZRAS](https://drive.google.com/drive/folders/0AAm8eYdAbB5cUk9PVA) Google drive
 
@@ -51,7 +56,7 @@
 ## Publishing forums
 
 ### Books
-[Theory of search heuristics]](https://www.google.com.au/books/edition/Theory_of_Randomized_Search_Heuristics/Y2OtGyL6gyUC?hl=en&gbpv=1&printsec=frontcover)
+[Theory of search heuristics](https://www.google.com.au/books/edition/Theory_of_Randomized_Search_Heuristics/Y2OtGyL6gyUC?hl=en&gbpv=1&printsec=frontcover)
 
 ### Journals
 

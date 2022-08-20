@@ -31,3 +31,5 @@
 [Grammars](file:///C:/Users/will_/OneDrive/Documents/Academic/grammars.pdf)
 
 [Intension and Extension](https://www.newworldencyclopedia.org/entry/Intension_and_Extension#:~:text=Intension%20refers%20to%20the%20logical,the%20word%20or%20phrase%20describes.)
+
+[Production Systems](https://www.edureka.co/blog/production-system-ai/#:~:text=Production%20system%20or%20production%20rule,to%20states%20of%20the%20world.)

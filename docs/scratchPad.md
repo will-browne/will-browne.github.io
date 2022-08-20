@@ -50,6 +50,7 @@
 [Everyday Robots](https://spectrum.ieee.org/alphabet-robots) IEEE Spectrum
 
 ### MEGA CRC
+[Discord Channel](https://discord.com/channels/1002416177886265384/1004955642735374336)
 
 [IOC Australia](https://olympics.com/ioc/australia)
 

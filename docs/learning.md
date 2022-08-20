@@ -22,6 +22,7 @@
 [Jeff Krichmar](http://www.socsci.uci.edu/~jkrichma/publications.html) Anteater Lab
 [Rhythms of the Brain](https://neurophysics.ucsd.edu/courses/physics_171/Buzsaki%20G.%20Rhythms%20of%20the%20brain.pdf)
 
+[Charles Gallistel](https://psych.rutgers.edu/faculty-profiles-a-contacts/96-charles-randy-gallistel) memory in mice, 
 [Kate Storrs](https://www.katestorrs.com/)
 
 ## Language

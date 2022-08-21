@@ -36,6 +36,8 @@
 
 [SysCAD](https://www.syscad.net/about-us/)
 
+[Gartner DT](https://www.gartner.com/en/documents/4011590)
+
 ### HDRs
 [Data 61](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates) Next Gen Grads
 

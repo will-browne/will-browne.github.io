@@ -38,6 +38,8 @@
 
 [Gartner DT](https://www.gartner.com/en/documents/4011590)
 
+[IBM Watson OpenScale](https://medium.com/trusted-ai/explaining-ai-model-behaviour-with-ibm-watson-openscale-86515702c177) doubt LIME works on text features though...
+
 ### HDRs
 [Data 61](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates) Next Gen Grads
 

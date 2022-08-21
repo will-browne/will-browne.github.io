@@ -13,6 +13,8 @@
 
 [Compositionality](https://plato.stanford.edu/entries/compositionality/)
 
+[Human Nature](https://web.northeastern.edu/berentlab/wp-content/uploads/2021/11/Berent_2021_PNAS.pdf)
+
 ### Mathematics 
 [CPA](https://thirdspacelearning.com/blog/concrete-pictorial-abstract-maths-cpa/)
 

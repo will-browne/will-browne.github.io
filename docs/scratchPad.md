@@ -32,6 +32,9 @@
 
 [DMTC](https://djpr.vic.gov.au/about-us/news/digital-innovation-for-defence-businesses)
 
+### Companies
+[Dassault Systemes](https://www.3ds.com/)
+
 [Aspen medical](https://www.aspenmedical.com/)
 
 [Fred UQ DT](https://researchers.uq.edu.au/researcher/15199)

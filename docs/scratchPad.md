@@ -30,6 +30,8 @@
 
 [AI Needs](https://globalpolicy.ai/en/key-focus-areas/)
 
+[OT Hack](https://www.bbc.com/news/av/technology-62099474)
+
 [DMTC](https://djpr.vic.gov.au/about-us/news/digital-innovation-for-defence-businesses)
 
 ### Companies

@@ -21,6 +21,7 @@
 [Modern manufacturing initiative 2020](https://www.industry.gov.au/news/modern-manufacturing-initiative-and-national-manufacturing-priorities-announced), 
 [Australia's digital economy](https://digitaleconomy.pmc.gov.au/) [pdf](https://digitaleconomy.pmc.gov.au/sites/default/files/2021-07/digital-economy-strategy.pdf), 
 [Australia's AI Acton plan](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan), 
+[Digital Manufacturing support plan](https://treasury.gov.au/consultation/c2022-305555)
 
 [OT](https://dale-peterson.com/2019/02/11/is-the-purdue-model-dead/#:~:text=And%20it's%20not%20dead%2C%20but,helping%20with%20OT%20network%20architecture.)
 

@@ -29,6 +29,8 @@
 
 [Kalman Filter in Graphics](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
+[Hypothesis test against a value ](https://mat117.wisconsin.edu/2-a-hypothesis-test-for-a-population-proportion/) or [Plain Math](https://plainmath.net/1929/claim-proportion-people-significantly-different-significance-sample)
+
 ## Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)
 [High cost codes](https://heimshelp.dese.gov.au/resources/reports/HDR-Course-Completions-Detailed-Report)

@@ -72,7 +72,9 @@
 
 [MEGA Website](https://megacrc.com.au/)
 
-[Prospectus](https://uq-my.sharepoint.com/:w:/r/personal/uqrko_uq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B0d69345c-d302-463a-a890-15a1989c1ea4%7D&action=default&cid=14e54dca-4d34-4abe-bf4c-9de8782705fe)
+[Prospectus](https://uq-my.sharepoint.com/:w:/r/personal/uqrko_uq_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B0d69345c-d302-463a-a890-15a1989c1ea4%7D&action=default&cid=14e54dca-4d34-4abe-bf4c-9de8782705fe), 
+[Partner Info pack](https://drive.google.com/file/d/16LoyxDiyZu-EGymoR0dxHaFPmmipkffc/view), 
+[Team sheet](https://drive.google.com/file/d/1H0S7jLwi2Y5BBdmkT8XXd4OeT2Wc3K5o/view)
 
 [Brisbane Invite](https://www.qld.gov.au/about/brisbane2032/legacy-program)
 

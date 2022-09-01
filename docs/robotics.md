@@ -59,6 +59,7 @@
 
 [QCR wiki.qcr.ai](https://wiki.qut.edu.au/display/cyphy/QUT+Centre+for+Robotics/) forwarding weblink.
 [BenchBot](https://github.com/qcr/benchbot)
+[QCR Stores](http://qcr-server.qut.edu.au/)
 
 [Robotics in space roadmaps](https://www.industry.gov.au/sites/default/files/January%202022/document/robotics_and_automation_on_earth_and_in_space_roadmap_2021-2030.pdf)
 

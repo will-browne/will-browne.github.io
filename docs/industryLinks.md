@@ -32,6 +32,10 @@
 
 [Vald](https://vald.com/#:~:text=VALD%20was%20established%20in%20January,%2C%20the%20NordBord%2C%20was%20conceived.) Sports performance 
 
+### Robotics
+
+[Wrybill](https://www.wrybillrobotics.com/) Johan
+
 ### ITTC
 [Synengco](https://synengco.com/)
 

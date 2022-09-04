@@ -40,7 +40,7 @@
 
 [File merge software](https://meldmerge.org/)
 
-### Tools
+## Tools
 [Diagrams](https://app.diagrams.net/)
 
 [md](https://www.markdownguide.org/cheat-sheet/)
@@ -56,6 +56,10 @@
 [PlotJuggler](https://www.plotjuggler.io/) Data plotter, e.g. ROS 
 
 [DevOps](https://raygun.com/blog/best-devops-tools/) tools
+
+### Coding
+
+[Conda](https://docs.conda.io/projects/conda/en/latest/) Python environment 
 
 ### Examplars
 

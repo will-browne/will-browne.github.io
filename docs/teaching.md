@@ -71,7 +71,8 @@
 
 [Digital Signing Avatars](https://www.kara.tech/)
 
-[Women STEM Decadal Plan](https://www.science.org.au/files/userfiles/support/reports-and-plans/2019/gender-diversity-stem/women-in-STEM-decadal-plan-final.pdf)
+[Women STEM Decadal Plan](https://www.science.org.au/files/userfiles/support/reports-and-plans/2019/gender-diversity-stem/women-in-STEM-decadal-plan-final.pdf), 
+[ATSE](https://www.atse.org.au/news-and-events/article/elevate-womens-leadership-in-stem-with-41-2-million-investment-by-the-australian-government/) includes Women in STEM grants.
 
 ### Values
 [Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 

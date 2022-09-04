@@ -71,6 +71,8 @@
 
 [Digital Signing Avatars](https://www.kara.tech/)
 
+[Women STEM Decadal Plan](https://www.science.org.au/files/userfiles/support/reports-and-plans/2019/gender-diversity-stem/women-in-STEM-decadal-plan-final.pdf)
+
 ### Values
 [Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 
 [Google](https://about.google/philosophy/), 

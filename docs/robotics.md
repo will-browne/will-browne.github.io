@@ -49,6 +49,8 @@
 
 [Konica Minolta](https://www.konicaminolta.com.au/promotions/campaign/introducing-mobile-industrial-robotics)
 
+[Ozobot](https://ozobot.com/) young STEM
+
 ### Component and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

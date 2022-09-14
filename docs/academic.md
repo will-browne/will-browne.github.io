@@ -14,6 +14,8 @@
 [Connect Papers](https://www.connectedpapers.com/) search tool
 
 ## QUT
+### EER
+[EER Sharepoint](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation)
 
 ### QCR
 [CI Meetings](https://wiki.qut.edu.au/display/cyphy/CI+Meetings)

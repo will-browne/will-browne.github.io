@@ -1,5 +1,6 @@
 # AI interesting stuff
 <!-- All things AI except robots -->
+[AI Myths](https://www.aimyths.org/ai-has-agency)
 
 [ hide and seek](https://openai.com/blog/emergent-tool-use/)
 

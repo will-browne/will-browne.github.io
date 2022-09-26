@@ -55,7 +55,9 @@
 [McMaster CAD models](https://www.mcmaster.com/)
 
 ## Groups
-[SfTI NZ Robotics Spearhead](https://youtu.be/s73Gm1sH1Hc) video
+[TAS RAS Gateway](https://www.rasgateway.com.au/)
+
+[SfTI NZ Robotics Spearhead](https://youtu.be/s73Gm1sH1Hc) video, 
 [Queensland cluster](https://qldrobo.org/) 
 
 [Robotics Australia Group](https://roboausnet.com.au/robotics-australia-group/) MMI Bid for a 'venture factory'

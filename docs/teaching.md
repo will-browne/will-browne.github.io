@@ -12,6 +12,8 @@
 
 [AssignmentWatch](https://assignmentwatch.com/) Plagiarism checker
 
+[F Shaped Reading](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)
+
 ## Robotics 439
 [Coppelia robotics sim](https://www.coppeliarobotics.com/)
 

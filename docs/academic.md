@@ -36,6 +36,8 @@
 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=17433255300)
 
+[Harvard Business School](https://account.myhbx.org/MyDashboard?qs=D8ODHnKU37VPZFru5J2hVF0WPROntHLRG%2FYBCcLheX4%3D) HBS Online ID: 202200093795.
+
 ## People
 
 ### Colleagues 

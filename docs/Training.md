@@ -10,3 +10,6 @@ CourseLoop Online 21/04/2022
 
 
 ## ARM Hub
+
+### Magazine articles
+[InnovationAus](https://www.innovationaus.com/locking-in-our-research-advantage-in-emerging-robotics-sector/)

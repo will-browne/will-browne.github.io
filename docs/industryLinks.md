@@ -32,6 +32,10 @@
 
 [Vald](https://vald.com/#:~:text=VALD%20was%20established%20in%20January,%2C%20the%20NordBord%2C%20was%20conceived.) Sports performance 
 
+[DCISIV](https://dcisiv.com.au/) Automation and robotics
+
+[Schenck](https://www.schenckprocess.com/contact-support/office-contacts) materials handling
+
 ### Robotics
 
 [Wrybill](https://www.wrybillrobotics.com/) Johan

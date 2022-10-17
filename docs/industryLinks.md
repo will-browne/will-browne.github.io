@@ -49,6 +49,8 @@
 
 [Sage](https://www.sageautomation.com/)
 
+[Dassault article ](https://www.forbes.com/sites/dassaultsystemes/2022/08/08/6-ways-contextual-data-can-drive-informed-decision-making-in-manufacturing/?sh=5797f82f47b7)
+
 ## Facilitators
 [ANFF](https://www.anff.org.au/) The Australian National Fabrication Facility
 

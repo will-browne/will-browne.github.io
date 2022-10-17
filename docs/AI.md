@@ -105,6 +105,8 @@
 [XAI Book: interpretable ML](https://christophm.github.io/interpretable-ml-book/)
 
 ## Companies
-[Complexica](https://www.complexica.com/) Zbigniew's company
-[Car scanning](https://arstechnica.com/cars/2022/02/this-ai-mechanic-scans-your-car-or-tires-to-diagnose-defects/)
+[Complexica](https://www.complexica.com/) Zbigniew's company, 
+[Car scanning](https://arstechnica.com/cars/2022/02/this-ai-mechanic-scans-your-car-or-tires-to-diagnose-defects/), 
+[Aspen](https://appen.com/#Difference) Data wrangling for AI
+
 

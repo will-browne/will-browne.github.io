@@ -45,6 +45,8 @@
 
 [QUT On-line Media Repo](https://mediahub.qut.edu.au/user-media)
 
+
+
 ### Training Providers
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
 
@@ -75,6 +77,8 @@
 
 [Women STEM Decadal Plan](https://www.science.org.au/files/userfiles/support/reports-and-plans/2019/gender-diversity-stem/women-in-STEM-decadal-plan-final.pdf), 
 [ATSE](https://www.atse.org.au/news-and-events/article/elevate-womens-leadership-in-stem-with-41-2-million-investment-by-the-australian-government/) includes Women in STEM grants.
+
+[Tokensim](https://medium.com/@meagan.commonda/can-we-talk-about-tokenism-9400c0af55fd)
 
 ### Values
 [Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 

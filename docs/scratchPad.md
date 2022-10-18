@@ -38,6 +38,8 @@
 ### Companies
 [Dassault Systemes](https://www.3ds.com/)
 
+[Pilz](https://www.pilz.com/en-AU)
+
 [Aspen medical](https://www.aspenmedical.com/)
 
 [Fred UQ DT](https://researchers.uq.edu.au/researcher/15199)

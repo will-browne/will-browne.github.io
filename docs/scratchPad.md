@@ -12,6 +12,8 @@
 
 [Slide Deck](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EZE3LRg7bFdImq_iZDBPLTMB4y2w1kB5V3ZONL_xRy4g0Q)
 
+[McKinsey DTs](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-twins-the-foundation-of-the-enterprise-metaverse)
+
 ### Government 
 [Growth centres](https://www.amgc.org.au/our-purpose/leadership/)
 

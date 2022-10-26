@@ -8,7 +8,7 @@
 
 [ARM Hub SharePoint](https://advrobotics.sharepoint.com/sites/ARMHubProjects), 
 
-[aaARM Hub Bookings](https://advrobotics.sharepoint.com/sites/ARMHubCOO/SitePages/Company-equipment-bookings.aspx)
+[ARM Hub Bookings](https://advrobotics.sharepoint.com/sites/ARMHubCOO/SitePages/Company-equipment-bookings.aspx)
 
 [ARM Hub Smartsheet](https://app.smartsheet.com/dashboards/wMwV2v7fpFPFJFGFhx3cVxWPQGq9Jc79WVhF5P91)
 

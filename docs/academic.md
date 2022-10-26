@@ -13,6 +13,8 @@
 
 [Connect Papers](https://www.connectedpapers.com/) search tool
 
+[JASP](https://jasp-stats.org/) statistical analysis tool
+
 ## QUT
 ### EER
 [EER Sharepoint](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation)

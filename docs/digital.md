@@ -61,6 +61,8 @@
 
 [Conda](https://docs.conda.io/projects/conda/en/latest/) Python environment 
 
+[Android](https://developer.android.com/guide/topics/sensors/sensors_motion) developer
+
 ### Examplars
 
 [Good PURE](https://research.monash.edu/en/persons/dana-kulic), 

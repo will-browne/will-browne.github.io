@@ -54,6 +54,8 @@
 
 [Gartner DT](https://www.gartner.com/en/documents/4011590)
 
+[Mitsubishi](https://www.mitsubishielectric-edm.eu/theres-no-such-thing-as-a-digital-twin-off-the-peg/)
+
 [IBM Watson OpenScale](https://medium.com/trusted-ai/explaining-ai-model-behaviour-with-ibm-watson-openscale-86515702c177) doubt LIME works on text features though...
 
 ### HDRs

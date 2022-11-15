@@ -4,9 +4,12 @@
 
 
 ## AI Codes
+
 [eLCS](https://github.com/UrbsLab/scikit-eLCS)
 
 [XCS SciKit](https://github.com/UrbsLab/scikit-XCS)
+
+[XCS Python](https://github.com/hosford42/xcs)
 
 [XCS By AB](https://github.com/DevAB-Git/sspXCS)
 

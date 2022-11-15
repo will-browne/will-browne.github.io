@@ -6,6 +6,8 @@
 ## AI Codes
 [eLCS](https://github.com/UrbsLab/scikit-eLCS)
 
+[XCS SciKit](https://github.com/UrbsLab/scikit-XCS)
+
 [XCS By AB](https://github.com/DevAB-Git/sspXCS)
 
 [XCSCFC By AB](https://github.com/DevAB-Git/sspXCSCFC)

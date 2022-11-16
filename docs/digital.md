@@ -15,6 +15,8 @@
 
 [XCSCFC By AB](https://github.com/DevAB-Git/sspXCSCFC)
 
+[FORs XCS](https://github.com/DevAB-Git/xcsLC4MS)
+
 ## Websites
 
 [ dream host - domain seller ](https://panel.dreamhost.com/)

@@ -64,6 +64,7 @@
 
 [DevOps](https://raygun.com/blog/best-devops-tools/) tools
 
+[ChickenAPI for Nostale](https://github.com/BlowaXD/ChickenAPI)
 ### Coding
 
 [Conda](https://docs.conda.io/projects/conda/en/latest/) Python environment 

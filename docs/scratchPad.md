@@ -31,7 +31,9 @@
 [DT Canada](https://www.yvr.ca/en/media/news-releases/yvr-digital-twin-launch)
 [CSIRO AI Roadmap](https://data61.csiro.au/en/Our-Research/Our-Work/AI-Roadmap)
 
-[AI Needs](https://globalpolicy.ai/en/key-focus-areas/)
+[AI Needs](https://globalpolicy.ai/en/key-focus-areas/), 
+[AVEVA](https://cdn.pathfactory.com/assets/10779/contents/429630/8a5438ef-497b-43ed-b277-cda6d7a08746.pdf#pdfjs.action=download) DT benefits
+
 
 [OT Hack](https://www.bbc.com/news/av/technology-62099474)
 

@@ -8,7 +8,7 @@
 
 ## ITTC
 ### Info
-[SharePoint Site](https://connectqutedu.sharepoint.com/teams/DigitalTwinsforManufacturing/)
+[SharePoint Site](https://connectqutedu.sharepoint.com/teams/DigitalTwinsforManufacturing/), [Excel 
 
 [Slide Deck](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EZE3LRg7bFdImq_iZDBPLTMB4y2w1kB5V3ZONL_xRy4g0Q)
 

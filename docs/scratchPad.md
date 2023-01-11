@@ -24,6 +24,7 @@
 [Australia's digital economy](https://digitaleconomy.pmc.gov.au/) [pdf](https://digitaleconomy.pmc.gov.au/sites/default/files/2021-07/digital-economy-strategy.pdf), 
 [Australia's AI Acton plan](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan), 
 [Digital Manufacturing support plan](https://treasury.gov.au/consultation/c2022-305555)
+[ DT report 2022](https://www.globenewswire.com/en/news-release/2022/08/04/2492196/28124/en/Global-Digital-Twin-Market-Analysis-Report-2022-2027-Rising-Emphasis-on-Digital-Twin-in-Manufacturing-Industries-to-Reduce-Cost-and-Improve-Supply-Chain-Operations.html)
 
 [OT](https://dale-peterson.com/2019/02/11/is-the-purdue-model-dead/#:~:text=And%20it's%20not%20dead%2C%20but,helping%20with%20OT%20network%20architecture.)
 

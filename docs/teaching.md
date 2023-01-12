@@ -73,12 +73,14 @@
 
 [AIATSIS](https://aiatsis.gov.au/about-aiatsis) Collection of storytellers 
 
-[Deadly Science](https://deadlyscience.org.au/)
+[Deadly Shttps://wellington.wgtn.ac.nz/solutions-in-indigenous-science/index.htmlcience](https://deadlyscience.org.au/)
 
 [Digital Signing Avatars](https://www.kara.tech/)
 
 [Women STEM Decadal Plan](https://www.science.org.au/files/userfiles/support/reports-and-plans/2019/gender-diversity-stem/women-in-STEM-decadal-plan-final.pdf), 
 [ATSE](https://www.atse.org.au/news-and-events/article/elevate-womens-leadership-in-stem-with-41-2-million-investment-by-the-australian-government/) includes Women in STEM grants.
+
+[Indigenous Science](https://wellington.wgtn.ac.nz/solutions-in-indigenous-science/index.html)
 
 [Tokensim](https://medium.com/@meagan.commonda/can-we-talk-about-tokenism-9400c0af55fd)
 

@@ -73,7 +73,9 @@
 
 [AIATSIS](https://aiatsis.gov.au/about-aiatsis) Collection of storytellers 
 
-[Deadly Shttps://wellington.wgtn.ac.nz/solutions-in-indigenous-science/index.htmlcience](https://deadlyscience.org.au/)
+[Deadly science](https://deadlyscience.org.au/)
+
+[Indigenous Science benefits](https://wellington.wgtn.ac.nz/solutions-in-indigenous-science/index.html)
 
 [Digital Signing Avatars](https://www.kara.tech/)
 

@@ -33,6 +33,7 @@
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)
 [AI Regulation with Cybernetics](https://www.innovationaus.com/we-need-to-let-go-of-regulating-artificial-intelligence/)
+[European Commission Artificial Intelligence Act](https://law.stanford.edu/publications/eu-artificial-intelligence-act-the-european-approach-to-ai/)
 
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)
@@ -113,6 +114,7 @@
 [Complexica](https://www.complexica.com/) Zbigniew's company, 
 [Car scanning](https://arstechnica.com/cars/2022/02/this-ai-mechanic-scans-your-car-or-tires-to-diagnose-defects/), 
 [Aspen](https://appen.com/#Difference) Data wrangling for AI
+[CausaLens](https://www.causalens.com/our-team/)
 
 ### People 
 [Judith Bishop](https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-ai-industry-with-dr-judith-bishop-of-appen-f285e24cd63a) Data61

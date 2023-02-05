@@ -93,6 +93,7 @@
 [Hopfield Networks](https://towardsdatascience.com/hopfield-networks-are-useless-heres-why-you-should-learn-them-f0930ebeadcd)
 
 [Graph NNs aka GNNs](https://medium.com/dair-ai/an-illustrated-guide-to-graph-neural-networks-d5564a551783)
+[Conditional VAE](https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/)
 
 [iLabel code](https://edgarsucar.github.io/ilabel/)
 

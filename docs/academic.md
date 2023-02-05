@@ -15,6 +15,8 @@
 
 [JASP](https://jasp-stats.org/) statistical analysis tool
 
+[Regex](https://www.autoregex.xyz/)
+
 ## QUT
 ### EER
 [EER Sharepoint](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation)

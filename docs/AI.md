@@ -34,6 +34,7 @@
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)
 [AI Regulation with Cybernetics](https://www.innovationaus.com/we-need-to-let-go-of-regulating-artificial-intelligence/)
 [European Commission Artificial Intelligence Act](https://law.stanford.edu/publications/eu-artificial-intelligence-act-the-european-approach-to-ai/)
+[Whitehouse AI Bill](https://www.whitehouse.gov/ostp/ai-bill-of-rights/#notice)
 
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)

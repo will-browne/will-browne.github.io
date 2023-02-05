@@ -116,7 +116,7 @@
 [Car scanning](https://arstechnica.com/cars/2022/02/this-ai-mechanic-scans-your-car-or-tires-to-diagnose-defects/), 
 [Aspen](https://appen.com/#Difference) Data wrangling for AI
 [CausaLens](https://www.causalens.com/our-team/)
-
+[Nukon - Sage](https://www.nukon.com/about-us)
 ### People 
 [Judith Bishop](https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-ai-industry-with-dr-judith-bishop-of-appen-f285e24cd63a) Data61
 

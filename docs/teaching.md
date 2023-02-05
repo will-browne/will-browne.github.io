@@ -15,6 +15,8 @@
 [F Shaped Reading](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)
 
 ## Robotics 439
+[Canvas](https://canvas.qut.edu.au/courses/2765/users)
+
 [Coppelia robotics sim](https://www.coppeliarobotics.com/)
 
 [Visual KF](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)

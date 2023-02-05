@@ -51,6 +51,8 @@
 
 [Ozobot](https://ozobot.com/) young STEM
 
+[Qualcomm](https://developer.qualcomm.com/qualcomm-robotics-rb5-kit)
+
 ### Component and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

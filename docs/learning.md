@@ -27,6 +27,10 @@
 [Charles Gallistel](https://psych.rutgers.edu/faculty-profiles-a-contacts/96-charles-randy-gallistel) memory in mice, 
 [Kate Storrs](https://www.katestorrs.com/)
 
+### Datasets
+[Peak Emo](https://zenodo.org/record/6403363#.Y973z3ZBywc)
+
+
 ## Language
 [Polysemy](https://www.thoughtco.com/polysemy-words-and-meanings-1691642)
 [Phrase structure trees](https://www.konan-u.ac.jp/hp/nakatani/js/R7)

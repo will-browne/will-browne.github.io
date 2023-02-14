@@ -84,8 +84,8 @@
 
 ### My Papers
 
-[Harisu](https://ieeexplore.ieee.org/document/9516955?source=authoralert)
-[Soheil](https://www.sciencedirect.com/science/article/abs/pii/S1364032122000259)
+[Harisu](https://ieeexplore.ieee.org/document/9516955?source=authoralert); 
+[Soheil](https://www.sciencedirect.com/science/article/abs/pii/S1364032122000259); [Nic arXiv](https://arxiv.org/abs/2302.06039)
 
 ### Experimental design
 [Psychology design](https://opentext.wsu.edu/carriecuttler/chapter/experimental-design/)

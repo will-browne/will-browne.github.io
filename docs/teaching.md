@@ -88,6 +88,8 @@
 
 [Tokensim](https://medium.com/@meagan.commonda/can-we-talk-about-tokenism-9400c0af55fd)
 
+[Eureka Explorers - GIRLS DAY OUT IN STEM, email](petriea.skitek@gmail.com)
+
 ### Values
 [Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 
 [Google](https://about.google/philosophy/), 

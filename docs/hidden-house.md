@@ -22,3 +22,5 @@
 [ITTC Slide Deck](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EQRexgGJZ19Ohjr108PKu38BgydItFTmCh-njg1uvRKMyw?email=will.browne%40qut.edu.au&e=4%3A5IQZFy&at=9&CID=d0f5e676-961e-4537-bcf9-31698e5d1bf7)
 [NZRAS constitution](https://docs.google.com/document/d/1Byphqb7IPx2kiFgbvRicGhDKOEtMCSMr/edit)
 
+[EER Newsletter and repo](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation/Shared%20Documents/Forms/AllItems.aspx?CT=1676940953227&OR=OWA%2DNT&CID=00e531ce%2D89c4%2D44ed%2D26c5%2D3c28572cdb11&id=%2Fsites%2FEERSchoolInternalInformation%2FShared%20Documents%2FSchool%20Administration%2FSchool%20Newsletter%20News%20Library&viewid=8de35fb4%2D66bd%2D461b%2Da83d%2D399203418eed)
+

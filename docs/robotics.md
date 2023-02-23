@@ -53,6 +53,8 @@
 
 [Qualcomm](https://developer.qualcomm.com/qualcomm-robotics-rb5-kit)
 
+[Oxdrive](http://oxdrive.co.uk/about-us/)
+
 ### Component and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

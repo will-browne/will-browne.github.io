@@ -97,6 +97,7 @@
 
 ### Finance
 [Unisaver](https://www.unisaver.co.nz/) NZ
+[Keynes investing tips](https://www.maynardkeynes.org/keynes-the-investor.html)
   
 ## Articles 
  [Emotion recognition with face masks ](https://theconversation.com/when-faces-are-partially-covered-neither-people-nor-algorithms-are-good-at-reading-emotions-165005)

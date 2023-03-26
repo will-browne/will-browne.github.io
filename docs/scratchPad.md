@@ -3,7 +3,8 @@
 
 # Funding
 
-### Historical 
+## Historical 
+### Reading
 [CONMAN](https://cordis.europa.eu/project/id/ENK5-CT-2001-00579)
 
 ### SfTI
@@ -64,8 +65,12 @@
 
 [IBM Watson OpenScale](https://medium.com/trusted-ai/explaining-ai-model-behaviour-with-ibm-watson-openscale-86515702c177) doubt LIME works on text features though...
 
+## Scholarships 
 ### HDRs
 [Data 61](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates) Next Gen Grads
+
+## Advice
+[Michael Milford](https://michaelmilford.com/writing-effective-grant-rejoinders/)
 
 
 ### MBIE construction

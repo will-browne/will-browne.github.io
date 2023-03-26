@@ -1,7 +1,10 @@
 # Will Browne's scratch pad
-<!-- a place to put notes that aren't uploaded -->
+<!-- Grants and Funding -->
 
 # Funding
+
+### Historical 
+[CONMAN](https://cordis.europa.eu/project/id/ENK5-CT-2001-00579)
 
 ### SfTI
 [Josh Repo](https://github.com/SfTI-Robotics/demonstrator-simulation)

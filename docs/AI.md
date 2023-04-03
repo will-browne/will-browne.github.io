@@ -79,7 +79,8 @@
 
 ### LCS
 
-[GBML Central](http://gbml.org/category/software/)
+[GBML Central](http://gbml.org/category/software/), 
+[LCS Code](https://sourceforge.net/projects/lcsor/), 
 
 ## Deep learning
 [DDPG](https://towardsdatascience.com/deep-deterministic-policy-gradient-ddpg-theory-and-implementation-747a3010e82f)

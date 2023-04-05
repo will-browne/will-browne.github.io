@@ -37,6 +37,8 @@
 
 [Hypothesis test against a value ](https://mat117.wisconsin.edu/2-a-hypothesis-test-for-a-population-proportion/) or [Plain Math](https://plainmath.net/1929/claim-proportion-people-significantly-different-significance-sample)
 
+[Big O notation](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
+
 ## Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)
 [High cost codes](https://heimshelp.dese.gov.au/resources/reports/HDR-Course-Completions-Detailed-Report)

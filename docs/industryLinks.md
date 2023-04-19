@@ -76,4 +76,5 @@
 
 ## Supporting Stories
 [Valley of Death](https://eig.org/dueling-theories-of-innovation/)
+[Advanced industry strategy](https://www.innovationaus.com/can-australia-catch-up-in-the-race-for-advanced-industries/), Roy, 
 

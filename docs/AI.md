@@ -25,11 +25,11 @@
 [Need for Symbols](https://medium.com/ontologik/ai-cannot-ignore-symbolic-logic-and-heres-why-1f896713525b), 
 [Gary Marcus: Symbolic AI](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 
-[Cavalab)[https://github.com/cavalab/srbench]
+[Cavalab](https://github.com/cavalab/srbench)
 
 [Melanie Mitchell article](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
 
-[interact for Julia](https://nteract.io/about)
+[interact for Julia](https://nteract.io/about), [Julia for JupyterLab](https://subscription.packtpub.com/book/application-development/9781788998369/1/ch01lvl1sec23/configuring-julia-to-work-with-jupyterlab)
 
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)

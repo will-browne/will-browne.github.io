@@ -65,6 +65,8 @@
 [DevOps](https://raygun.com/blog/best-devops-tools/) tools
 
 [ChickenAPI for Nostale](https://github.com/BlowaXD/ChickenAPI)
+
+[Julia for Jupyter](https://subscription.packtpub.com/book/application-development/9781788998369/1/ch01lvl1sec23/configuring-julia-to-work-with-jupyterlab)
 ### Coding
 
 [Conda](https://docs.conda.io/projects/conda/en/latest/) Python environment 

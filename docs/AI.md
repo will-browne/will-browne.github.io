@@ -29,6 +29,8 @@
 
 [Melanie Mitchell article](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
 
+[interact for Julia](https://nteract.io/about)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

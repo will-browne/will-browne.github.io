@@ -38,6 +38,8 @@
 
 [Transurban](https://www.transurban.com/news/bridge-fun-run-raises-over-one-million) toll collecting 
 
+[3AI](https://intersect.org.au/analytics/) Data mining and AI
+
 ### Robotics
 
 [Wrybill](https://www.wrybillrobotics.com/) Johan

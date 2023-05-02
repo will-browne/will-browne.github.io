@@ -59,6 +59,8 @@
 
 [NextOre](https://nextore.com.au/our-company/)
 
+Large scale DT for [BP](https://discover.aveva.com/nurture-eatdt/video-aveva-digital-twin-delivers-transformational-value-to-bp)
+
 ## Facilitators
 [ANFF](https://www.anff.org.au/) The Australian National Fabrication Facility
 

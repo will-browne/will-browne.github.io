@@ -4,6 +4,8 @@
 ## Company links
 [Volo modular homes](http://www.volomodular.com.au/residential-modular-home/)
 
+[Voltin building inspections](https://www.voltin.com.au/voltin-about-us/)
+
 [CNCDesign](https://www.cncdesign.com.au/) digital twins ?
 
 [Geo DTs](https://www.aamgroup.com/)

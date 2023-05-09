@@ -18,6 +18,8 @@
 ## AR/VR/Computer vision
 [Basics vision](https://www.youtube.com/@csbrain3986/videos)
 
+[Point clouds in Gazebo](https://gazebosim.org/api/gazebo/4.0/pointcloud.html)
+
 ## Websites
 
 [ dream host - domain seller ](https://panel.dreamhost.com/)

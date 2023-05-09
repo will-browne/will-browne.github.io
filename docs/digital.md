@@ -1,8 +1,6 @@
 # Digital domain
 <!-- Websites, how to program, AR/VR -->
 
-
-
 ## AI Codes
 
 [eLCS](https://github.com/UrbsLab/scikit-eLCS)
@@ -16,6 +14,9 @@
 [XCSCFC By AB](https://github.com/DevAB-Git/sspXCSCFC)
 
 [FORs XCS](https://github.com/DevAB-Git/xcsLC4MS)
+
+## AR/VR/Computer vision
+[Basics vision](https://www.youtube.com/@csbrain3986/videos)
 
 ## Websites
 

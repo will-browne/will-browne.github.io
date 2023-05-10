@@ -53,6 +53,10 @@
 
 [IQ Tests](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)
 
+## LCS
+
+[IWLCS](https://iwlcs.organic-computing.de/)
+
 ## Uncertainty
 [NASA Challenge](https://uqtools.larc.nasa.gov/nasa-uq-challenge-problem-2020/)
 

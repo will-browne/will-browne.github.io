@@ -74,6 +74,8 @@ Large scale DT for [BP](https://discover.aveva.com/nurture-eatdt/video-aveva-dig
 
 [Knowledge Commercialisation Australasia (KCA)](https://techtransfer.org.au/about/)
 
+[Medical Tech funding AO](https://www.aofoundation.org/who-we-are)
+
 ### Venture capitalists
 [Innovyz](https://www.innovyz.com/australia)
 

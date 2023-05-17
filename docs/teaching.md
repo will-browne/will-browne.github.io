@@ -96,6 +96,9 @@
 
 [Eureka Explorers - GIRLS DAY OUT IN STEM, email](petriea.skitek@gmail.com)
 
+### People
+[Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
+
 ### Values
 [Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 
 [Google](https://about.google/philosophy/), 

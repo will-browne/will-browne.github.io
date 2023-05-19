@@ -104,6 +104,8 @@
 
 [iLabel code](https://edgarsucar.github.io/ilabel/)
 
+[YouTube tutorials with code](https://www.youtube.com/@AndrejKarpathy)
+
 ## Computer graphics 
 [NeRFs](https://github.com/NVlabs/instant-ngp)
 

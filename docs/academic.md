@@ -18,6 +18,8 @@
 [Regex](https://www.autoregex.xyz/)
 
 ## QUT
+
+[Ethics form](https://ethics-forms.research.qut.edu.au/)
 ### EER
 [EER Sharepoint](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation)
 

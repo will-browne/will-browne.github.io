@@ -5,7 +5,7 @@
 ## QUT Details
 [Financial Portal](https://qcr3.qut.edu.au/ords/qcr/FIN_PORTAL.page)
 ## Historical 
-### Reading
+### Reading Uni
 [CONMAN](https://cordis.europa.eu/project/id/ENK5-CT-2001-00579)
 
 ### SfTI
@@ -31,6 +31,7 @@
 [Australia's AI Acton plan](https://www.industry.gov.au/data-and-publications/australias-artificial-intelligence-action-plan), 
 [Digital Manufacturing support plan](https://treasury.gov.au/consultation/c2022-305555)
 [ DT report 2022](https://www.globenewswire.com/en/news-release/2022/08/04/2492196/28124/en/Global-Digital-Twin-Market-Analysis-Report-2022-2027-Rising-Emphasis-on-Digital-Twin-in-Manufacturing-Industries-to-Reduce-Cost-and-Improve-Supply-Chain-Operations.html)
+[CSIRO Responsible AI](https://www.csiro.au/en/news/All/News/2023/March/Australia-announces-world-first-responsible-AI-Network-to-uplift-industry)
 
 [OT](https://dale-peterson.com/2019/02/11/is-the-purdue-model-dead/#:~:text=And%20it's%20not%20dead%2C%20but,helping%20with%20OT%20network%20architecture.)
 

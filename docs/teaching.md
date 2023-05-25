@@ -14,6 +14,8 @@
 
 [F Shaped Reading](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)
 
+[Open world exploration](https://www.youtube.com/watch?v=CZzcVs8tNfE)
+
 ## Robotics 439
 [Canvas](https://canvas.qut.edu.au/courses/2765/users)
 

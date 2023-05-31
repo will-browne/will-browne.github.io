@@ -31,6 +31,8 @@
 
 [interact for Julia](https://nteract.io/about), [Julia for JupyterLab](https://subscription.packtpub.com/book/application-development/9781788998369/1/ch01lvl1sec23/configuring-julia-to-work-with-jupyterlab)
 
+[Simple Tensors video](https://www.youtube.com/watch?v=f5liqUk0ZTw)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

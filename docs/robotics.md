@@ -59,6 +59,8 @@
 [McMaster CAD models](https://www.mcmaster.com/)
 
 ## Groups
+[IEEE Spectrum list](https://spectrum.ieee.org/robots-guide)
+
 [TAS RAS Gateway](https://www.rasgateway.com.au/)
 
 [SfTI NZ Robotics Spearhead](https://youtu.be/s73Gm1sH1Hc) video, 

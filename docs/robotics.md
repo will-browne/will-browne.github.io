@@ -36,6 +36,8 @@
 
 [Panda URDF](https://github.com/ros-planning/moveit_resources/blob/master/panda_description/urdf/panda.urdf)
 
+[AR ROS](https://urldefense.com/v3/__https://discourse.ros.org/t/ar-rviz-augmented-reality-robot-visualization-1-0-release/31906__;!!NVzLfOphnbDXSw!ADTwjLO4CSym1eTyVW8744IfNffcGJff1iua4O5ReLnn7vNSIaigO3K5rRwey7iXOMXQ6Jxsg3FKURp5sMzGP_gTNFbVFQ$)
+
 ##  Manufacturers 
 [Keenon](https://www.keenonrobot.com/EN/) Chinese mobile delivery robots
 

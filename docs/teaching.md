@@ -101,6 +101,8 @@
 
 [Eureka Explorers - GIRLS DAY OUT IN STEM, email](petriea.skitek@gmail.com)
 
+[Women in Engineering Planner](https://womeninengineering.auckland.ac.nz/) University of Auckland
+
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
 

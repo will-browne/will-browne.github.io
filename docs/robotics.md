@@ -100,6 +100,10 @@
 
 [Viper](https://www.nasa.gov/feature/ames/artemis-moon-rover-s-wheels-are-ready-to-roll), [on Instagram](https://www.instagram.com/tv/CZcaoOAJMek/?utm_source=ig_web_copy_link), [youtube](https://www.youtube.com/watch?v=8GvldWevWCw) and [NASA itself](https://www.nasa.gov/glenn/image-feature/2022/latest-VIPER-prototype-navigates-lunar-surface-of-SLOPE).
 
+### Robots
+
+[NSW Cobots guide](centreforwhs.nsw.gov.au/knowledge-hub/guidelines-for-safe-collaborative-robot-design-and-implementation)
+
 ### Grippers, feelers and flagella 
 [Ad Spiers' gripper](https://www.thingiverse.com/thing:5798680)
 

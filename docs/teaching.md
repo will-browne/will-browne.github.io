@@ -46,6 +46,7 @@
 ## Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)
 [High cost codes](https://heimshelp.dese.gov.au/resources/reports/HDR-Course-Completions-Detailed-Report)
+[Tjeard- notes](https://drive.google.com/drive/folders/1lStAXXUKfmzD7QindWjAmFrebjg2o27f)
 
 ## Support
 [MATE](https://matebystander.edu.au/)

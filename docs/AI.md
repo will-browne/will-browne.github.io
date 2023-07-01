@@ -35,6 +35,8 @@
 
 [Voyager Minecraft Transfer Learning](https://voyager.minedojo.org/)
 
+[Diffusion Models explained](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

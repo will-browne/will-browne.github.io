@@ -79,6 +79,8 @@
 [Wildcat](https://www.csiro.au/en/research/technology-space/robotics/Wildcat-SLAM-2)
 [Mia's interview](https://www.exaptec.com.au/podcast/2022/2/1/lets-talk-robotics-with-amelia-luu)
 
+[Deepak P](https://www.cs.cmu.edu/~dpathak/)
+
 ## Githubs
 
 ### Robotics and Vision

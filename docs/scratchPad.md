@@ -115,6 +115,8 @@
   
 ## Links
  [The Frame problem ](https://plato.stanford.edu/entries/frame-problem/) Stanford explanation.
+
+ [Entrepreneurship in Unis](https://sifted.eu/articles/stanford-of-europe-spinouts)
   
   
 

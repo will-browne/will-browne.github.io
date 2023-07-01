@@ -77,6 +77,8 @@
 
 [e-greedy RL](https://www.baeldung.com/cs/epsilon-greedy-q-learning)
 
+[PPO Hugging face](https://huggingface.co/blog/deep-rl-ppo)
+
 
 ## Evolutionary Computation 
 [MTO](http://www.bdsc.site/websites/MTO/index.html)

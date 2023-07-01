@@ -61,6 +61,8 @@
 [McMaster CAD models](https://www.mcmaster.com/)
 
 ## Groups
+[MASS Robotics](https://www.massrobotics.org/) robotics hub, 
+
 [IEEE Spectrum list](https://spectrum.ieee.org/robots-guide)
 
 [TAS RAS Gateway](https://www.rasgateway.com.au/)

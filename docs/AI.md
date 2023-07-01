@@ -33,6 +33,8 @@
 
 [Simple Tensors video](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 
+[Voyager Minecraft Transfer Learning](https://voyager.minedojo.org/)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

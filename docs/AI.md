@@ -39,6 +39,7 @@
 [AI Regulation with Cybernetics](https://www.innovationaus.com/we-need-to-let-go-of-regulating-artificial-intelligence/)
 [European Commission Artificial Intelligence Act](https://law.stanford.edu/publications/eu-artificial-intelligence-act-the-european-approach-to-ai/)
 [Whitehouse AI Bill](https://www.whitehouse.gov/ostp/ai-bill-of-rights/#notice)
+[Au Responsible AI](https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/)
 
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)

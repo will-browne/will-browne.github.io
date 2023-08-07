@@ -15,6 +15,11 @@
 ## Biomedical 
 [Robotic Surgery](https://www.science.org/doi/10.1126/scirobotics.abj2908)
 
+### Orthotics
+[Arm counter balance](https://www.hocoma.com/solutions/armeo-spring/)
+[Body support](https://www.motekmedical.com/)
+[Early papers](https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-3-12) & FLEXO-Arm1
+
 ## SLAM
 [g2p](https://openslam-org.github.io/g2o.html)
 

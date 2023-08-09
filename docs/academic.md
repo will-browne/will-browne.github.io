@@ -20,6 +20,7 @@
 ## QUT
 
 [Ethics form](https://ethics-forms.research.qut.edu.au/)
+[Acknowledgements of Country](https://brand-centre.qut.edu.au/bms/category/browse.cfm?category=1407)
 ### EER
 [EER Sharepoint](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation)
 

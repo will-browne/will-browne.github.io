@@ -45,6 +45,7 @@
 [Whitehouse AI Bill](https://www.whitehouse.gov/ostp/ai-bill-of-rights/#notice)
 [Au Responsible AI](https://www.manmonthly.com.au/new-report-to-help-businesses-implement-responsible-ai/)
 [Au industry](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles#:~:text=outside%20the%20organisation.-,Human%2Dcentred%20values,not%20the%20other%20way%20around.)
+[McKinsey Gen AI](https://www.mckinsey.com/industries/healthcare/our-insights/tackling-healthcares-biggest-burdens-with-generative-ai)
 
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)

@@ -133,6 +133,10 @@
 
 [XAI Book: interpretable ML](https://christophm.github.io/interpretable-ml-book/)
 
+[IEEE Ethically Aligned Design](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf)
+
+[CSIRO Ethics](https://www.csiro.au/en/work-with-us/industries/technology/national-ai-centre/implementing-australias-ai-ethics-principles-report)
+
 ## Companies
 [Complexica](https://www.complexica.com/) Zbigniew's company, 
 [Car scanning](https://arstechnica.com/cars/2022/02/this-ai-mechanic-scans-your-car-or-tires-to-diagnose-defects/), 

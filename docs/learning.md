@@ -15,6 +15,8 @@
 
 [Human Nature](https://web.northeastern.edu/berentlab/wp-content/uploads/2021/11/Berent_2021_PNAS.pdf)
 
+[Frame Problem](https://plato.stanford.edu/entries/frame-problem/)
+
 ### Mathematics 
 [CPA](https://thirdspacelearning.com/blog/concrete-pictorial-abstract-maths-cpa/)
 

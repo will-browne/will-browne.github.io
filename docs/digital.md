@@ -76,6 +76,8 @@
 
 [Android](https://developer.android.com/guide/topics/sensors/sensors_motion) developer
 
+[Gradle vs Maven](https://www.geeksforgeeks.org/difference-between-gradle-and-maven/)
+
 ### Examplars
 
 [Good PURE](https://research.monash.edu/en/persons/dana-kulic), 

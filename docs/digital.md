@@ -15,6 +15,8 @@
 
 [FORs XCS](https://github.com/DevAB-Git/xcsLC4MS)
 
+[Ryan's Git repo](https://epistasislab.github.io/pmlb/)
+
 ## AR/VR/Computer vision
 [Basics vision](https://www.youtube.com/@csbrain3986/videos)
 

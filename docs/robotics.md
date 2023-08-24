@@ -62,6 +62,8 @@
 
 [Oxdrive](http://oxdrive.co.uk/about-us/)
 
+[BOSL](https://www.bosl.com.au/wiki/Main_Page) low-cost water sensors from David McCarthy, QUT
+
 ### Component and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

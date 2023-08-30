@@ -37,6 +37,8 @@
 
 [Diffusion Models explained](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
 
+[Orthogonality Thesis](https://www.lesswrong.com/tag/orthogonality-thesis)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

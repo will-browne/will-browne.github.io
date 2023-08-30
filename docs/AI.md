@@ -147,6 +147,8 @@
 [CausaLens](https://www.causalens.com/our-team/)
 [Nukon - Sage](https://www.nukon.com/about-us)
 ### People 
+[Stephen Wolfram](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
+
 [Judith Bishop](https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-ai-industry-with-dr-judith-bishop-of-appen-f285e24cd63a) Data61
 
 

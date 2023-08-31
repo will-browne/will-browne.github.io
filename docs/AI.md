@@ -140,6 +140,8 @@
 
 [CSIRO Ethics](https://www.csiro.au/en/work-with-us/industries/technology/national-ai-centre/implementing-australias-ai-ethics-principles-report)
 
+[Gradient Institute](https://www.gradientinstitute.org/about-us/)
+
 ## Companies
 [Complexica](https://www.complexica.com/) Zbigniew's company, 
 [Car scanning](https://arstechnica.com/cars/2022/02/this-ai-mechanic-scans-your-car-or-tires-to-diagnose-defects/), 

@@ -22,6 +22,9 @@
 
 [Point clouds in Gazebo](https://gazebosim.org/api/gazebo/4.0/pointcloud.html)
 
+### Colour palettes
+[IWantHue](http://medialab.github.io/iwanthue/)
+
 ## Websites
 
 [ dream host - domain seller ](https://panel.dreamhost.com/)

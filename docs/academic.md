@@ -17,6 +17,8 @@
 
 [Regex](https://www.autoregex.xyz/)
 
+[LaTex Diff](https://3142.nl/latex-diff/) document compare tool
+
 ## QUT
 
 [Ethics form](https://ethics-forms.research.qut.edu.au/)

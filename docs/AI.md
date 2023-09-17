@@ -110,7 +110,8 @@
 [Fast AI](https://www.fast.ai/) Russell Howard
 [MedicMind] (https://www.medicmind.tech/resources) AI without intelligence, just good intentions
 [Capsules](https://towardsdatascience.com/capsule-networks-the-new-deep-learning-network-bd917e6818e8)
-[Locally weighted projection regression (LWPR)](https://direct.mit.edu/neco/article-abstract/17/12/2602/6982/Incremental-Online-Learning-in-High-Dimensions?redirectedFrom=fulltext)
+[Locally weighted projection regression (LWPR)](https://direct.mit.edu/neco/article-abstract/17/12/2602/6982/Incremental-Online-Learning-in-High-Dimensions?redirectedFrom=fulltext), 
+[VAEs](https://medium.com/@rushikesh.shende/autoencoders-variational-autoencoders-vae-and-%CE%B2-vae-ceba9998773d#:~:text=Regardless%20of%20the%20architecture%2C%20all,E%20(Encoder)%20and%20Mr.)
 
 [Hopfield Networks](https://towardsdatascience.com/hopfield-networks-are-useless-heres-why-you-should-learn-them-f0930ebeadcd)
 

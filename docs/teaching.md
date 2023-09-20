@@ -56,7 +56,7 @@
 
 [QUT On-line Media Repo](https://mediahub.qut.edu.au/user-media)
 
-[Dyslexia in different languages] (https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages) 
+[Dyslexia in different languages](https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages) 
 
 ### Training Providers
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
@@ -103,6 +103,8 @@
 [Eureka Explorers - GIRLS DAY OUT IN STEM, email](petriea.skitek@gmail.com)
 
 [Women in Engineering Planner](https://womeninengineering.auckland.ac.nz/) University of Auckland, [Women in Engineering. QUT](https://www.qut.edu.au/news?id=187929)
+
+[Berry Street](https://www.berrystreet.org.au/)
 
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)

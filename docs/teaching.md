@@ -104,6 +104,8 @@
 
 [Women in Engineering Planner](https://womeninengineering.auckland.ac.nz/) University of Auckland, [Women in Engineering. QUT](https://www.qut.edu.au/news?id=187929)
 
+[PhD Diversity Fund](https://www.qut.edu.au/study/fees-and-scholarships/scholarships/alberto-elfes-memorial-scholarship-fund-phd-scholarship#:~:text=The%20Alberto%20Elfes%20Scholarship%20acknowledges,delivery%20of%20next%20generation%20technology.)
+
 [Berry Street](https://www.berrystreet.org.au/)
 
 ### People

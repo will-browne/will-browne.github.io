@@ -98,5 +98,7 @@
 
 [Statistics](https://www.scalestatistics.com/sample-size-for-wilcoxon-test.html) t-test sample size help
 
+[Need for 30 samples](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
+
 ### Fun stuff
 [Twitter feeds](https://www.editage.com/insights/ko/node/5324)

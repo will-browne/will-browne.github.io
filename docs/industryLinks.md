@@ -42,6 +42,8 @@
 
 [3AI](https://intersect.org.au/analytics/) Data mining and AI
 
+[EM Solutions](https://www.emsolutions.com.au/)
+
 ### Robotics
 
 [Wrybill](https://www.wrybillrobotics.com/) Johan

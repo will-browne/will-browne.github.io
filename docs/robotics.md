@@ -117,6 +117,8 @@
 
 [NSW Cobots guide](centreforwhs.nsw.gov.au/knowledge-hub/guidelines-for-safe-collaborative-robot-design-and-implementation)
 
+[ARM Hub UR booking](https://armhub.skedda.com/booking)
+
 ### Grippers, feelers and flagella 
 [Ad Spiers' gripper](https://www.thingiverse.com/thing:5798680)
 

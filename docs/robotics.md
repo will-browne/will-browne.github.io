@@ -66,8 +66,10 @@
 
 [Conigital](https://conigital.org/)
 
-### Component and Sensor suppliers
+### Component, Actuation and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
+
+[Piezo mini actuators](https://spikedynamics.com/)
 
 ## Groups
 [MASS Robotics](https://www.massrobotics.org/) robotics hub, 

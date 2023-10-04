@@ -22,6 +22,8 @@
 
 [Point clouds in Gazebo](https://gazebosim.org/api/gazebo/4.0/pointcloud.html)
 
+[SAM Segment Anything](https://segment-anything.com/)
+
 ### Colour palettes
 [IWantHue](http://medialab.github.io/iwanthue/)
 

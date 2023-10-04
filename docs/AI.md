@@ -39,6 +39,8 @@
 
 [Orthogonality Thesis](https://www.lesswrong.com/tag/orthogonality-thesis)
 
+[Why Deep Networks and Brains Learn Similar Features with Sophia Sanborn](https://twimlai.com/podcast/twimlai/why-deep-networks-and-brains-learn-similar-features/)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

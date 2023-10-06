@@ -2,6 +2,8 @@
 <!-- All things AI except robots -->
 [AI Myths](https://www.aimyths.org/ai-has-agency)
 
+[Nutrition labels](https://nutrition-facts.ai/)
+
 [ hide and seek](https://openai.com/blog/emergent-tool-use/)
 
 [Habitat](https://techcrunch.com/2021/06/30/facebook-and-matterport-collaborate-on-realistic-virtual-training-environments-for-ai/)

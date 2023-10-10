@@ -44,6 +44,8 @@
 
 [EM Solutions](https://www.emsolutions.com.au/)
 
+[Novartis](https://www.novartis.com/) medical from Sam 
+
 ### Robotics
 
 [Wrybill](https://www.wrybillrobotics.com/) Johan

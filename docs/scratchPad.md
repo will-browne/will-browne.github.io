@@ -30,6 +30,8 @@
 
 [McKinsey DTs](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/digital-twins-the-foundation-of-the-enterprise-metaverse)
 
+[McKinsey AI trends ](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech#tech-talent-dynamics)
+
 ### Government 
 [Growth centres](https://www.amgc.org.au/our-purpose/leadership/)
 

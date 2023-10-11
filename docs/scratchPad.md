@@ -32,6 +32,8 @@
 
 [McKinsey AI trends ](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech#tech-talent-dynamics)
 
+[OPTIMA ITTC](https://optima.org.au/)
+
 ### Government 
 [Growth centres](https://www.amgc.org.au/our-purpose/leadership/)
 

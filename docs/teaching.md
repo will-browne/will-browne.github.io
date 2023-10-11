@@ -32,7 +32,7 @@
 
 [Localiser 1](http://172.19.232.183:8080/), [localiser 2](http://172.19.232.174:8080/)
 
-### resources
+### Resources
 [Joint Probabilities](https://www.investopedia.com/terms/j/jointprobability.asp#:~:text=Joint%20probability%20is%20a%20statistical,time%20that%20event%20X%20occurs.)
 
 [Summation of likelihoods != 1](https://www.quora.com/What-is-an-intuitive-explanation-for-why-a-likelihood-function-doesnt-sum-or-integrate-to-1)
@@ -60,6 +60,12 @@
 
 ### Training Providers
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
+
+## Course support
+
+
+### Capstones
+[Stroke clubs](https://strokefoundation.org.au/about-stroke/life-after-stroke/help-after-stroke/support-near-you)
 
 ## ALDD
 [Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington

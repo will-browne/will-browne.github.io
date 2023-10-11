@@ -144,6 +144,7 @@
 [IEEE Ethically Aligned Design](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf)
 
 [CSIRO Ethics](https://www.csiro.au/en/work-with-us/industries/technology/national-ai-centre/implementing-australias-ai-ethics-principles-report)
+[CSIRO Responsible AI](https://www.csiro.au/en/work-with-us/industries/technology/national-ai-centre/responsible-ai-network)
 
 [Gradient Institute](https://www.gradientinstitute.org/about-us/)
 

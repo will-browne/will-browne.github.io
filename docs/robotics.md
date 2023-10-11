@@ -18,7 +18,9 @@
 ### Orthotics
 [Arm counter balance](https://www.hocoma.com/solutions/armeo-spring/)
 [Body support](https://www.motekmedical.com/)
-[Early papers](https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-3-12) & FLEXO-Arm1
+[Early papers](https://jneuroengrehab.biomedcentral.com/articles/10.1186/1743-0003-3-12) & FLEXO-Ar
+
+(For links to Stroke clubs, please see Teaching)
 
 ## SLAM
 [g2p](https://openslam-org.github.io/g2o.html)
@@ -33,6 +35,8 @@
 [Coppelia Sim](https://www.coppeliarobotics.com/licensing)
 
 [Octopuz](https://octopuz.com/) [Verbotics](https://verbotics.com/) Robotic programming software
+
+[RoboDK](https://robodk.com/download)
 
 ### ROS
 [Docker + ROS](https://roboticseabass.com/2021/04/21/docker-and-ros/)

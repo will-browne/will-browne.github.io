@@ -16,6 +16,9 @@
 
 [Open world exploration](https://www.youtube.com/watch?v=CZzcVs8tNfE)
 
+## ENN584
+[Course outline](https://www.qut.edu.au/study/unit?unitCode=ENN584)
+
 ## Robotics 439
 [Canvas](https://canvas.qut.edu.au/courses/2765/users)
 

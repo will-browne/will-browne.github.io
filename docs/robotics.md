@@ -70,6 +70,8 @@
 
 [Conigital](https://conigital.org/)
 
+[Wayve GAIA](https://wayve.ai/thinking/scaling-gaia-1/)
+
 ### Component, Actuation and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

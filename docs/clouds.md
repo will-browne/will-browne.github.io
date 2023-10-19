@@ -18,7 +18,8 @@
 
 ### HDRs
 
-[Tjeard Experiments](https://docs.google.com/spreadsheets/d/1k-EG-TKeO460KJTK-CJXfhsiwYf3HSaP2Z-zaKPUnh4/edit#gid=0)
+[Tjeard Experiments](https://docs.google.com/spreadsheets/d/1k-EG-TKeO460KJTK-CJXfhsiwYf3HSaP2Z-zaKPUnh4/edit#gid=0), 
+[Confirmation report](https://docs.google.com/document/d/1n6cB8CT3aRQ5GpPu0kckTV-geupqSAMgQy2M4jPE-_k/edit#heading=h.nfnc3s2izdix)
 
 ## ACC
 [Doctorates](https://connectqutedu.sharepoint.com/sites/ITTCforCollaborativeRobotics/PhD%20EOIs/Forms/AllItems.aspx)

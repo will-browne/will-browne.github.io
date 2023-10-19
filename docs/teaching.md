@@ -117,6 +117,8 @@
 
 [Berry Street](https://www.berrystreet.org.au/)
 
+[QGuides resources for health people](https://qlife.org.au/resources/qguides)
+
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
 

@@ -46,6 +46,8 @@
 
 [Novartis](https://www.novartis.com/) medical from Sam 
 
+[LavaBlue critical minerals](http://www.lavablue.com.au/)
+
 ### Robotics
 
 [Wrybill](https://www.wrybillrobotics.com/) Johan

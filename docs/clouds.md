@@ -12,7 +12,8 @@
 [Deon ITTC Spreadsheat](https://connectqutedu-my.sharepoint.com/:x:/r/personal/desaldan_qut_edu_au/_layouts/15/doc2.aspx?sourcedoc=%7B4E05EF01-206A-46AE-987A-2CB1DCED5071%7D&file=ITTC%20DT4M%20Project%20Mapping%20.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&cid=7c3f8b54-f27e-487c-829f-320a369fc417)
 [Deon ITTC agendas](https://connectqutedu-my.sharepoint.com/:w:/g/personal/desaldan_qut_edu_au/Edaq4Ih_XINFmDhft0KbIssB-wiT910mCgs7LzIIu4ZJ5A?email=will.browne%40qut.edu.au&e=4%3AI7xiDm&fromShare=true&at=9&CID=8bb67fc4-fd40-eda3-b37c-bcfa28ec56b8)
 
-[Main ITTC link](https://connectqutedu.sharepoint.com/:x:/r/teams/DigitalTwinsforManufacturing/_layouts/15/doc2.aspx?sourcedoc=%7Bd8328882-9b28-4858-a11f-5c3c5e45679b%7D&action=edit&activeCell=%27Schedule%27!H3&wdinitialsession=421cee26-c17f-4cc0-bed6-72bb9ff609d9&wdrldsc=2&wdrldc=1&wdrldr=AccessTokenExpiredWarning%2CRefreshingExpiredAccessT&cid=455fe085-c3ce-43da-85c4-34145881d8d4)
+[Main ITTC link](https://connectqutedu.sharepoint.com/:x:/r/teams/DigitalTwinsforManufacturing/_layouts/15/doc2.aspx?sourcedoc=%7Bd8328882-9b28-4858-a11f-5c3c5e45679b%7D&action=edit&activeCell=%27Schedule%27!H3&wdinitialsession=421cee26-c17f-4cc0-bed6-72bb9ff609d9&wdrldsc=2&wdrldc=1&wdrldr=AccessTokenExpiredWarning%2CRefreshingExpiredAccessT&cid=455fe085-c3ce-43da-85c4-34145881d8d4), 
+[Daisy pptx](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EXZe4ffyw8xMqozdfb-Gx9cB3vquzDLJl2m2JrjyfPvtbg?email=will.browne%40qut.edu.au&e=4%3AFCEi4I&fromShare=true&at=9&CID=d87f713a-40ad-af3f-6ce1-eea333d069e7)
 
 [QCR Space](https://connectqutedu.sharepoint.com/:w:/r/teams/msteams_751e6e/_layouts/15/Doc.aspx?sourcedoc=%7B34954204-76FC-421A-AF7D-0B2C695720A6%7D&file=QCR%20Space%20Requests.docx&action=default&mobileredirect=true)
 

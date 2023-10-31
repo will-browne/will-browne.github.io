@@ -119,6 +119,8 @@
 
 [QGuides resources for health people](https://qlife.org.au/resources/qguides)
 
+[Guide to Teachers](https://www.yourstoryourjourney.net/resource-category/educators-teachers/)
+
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
 

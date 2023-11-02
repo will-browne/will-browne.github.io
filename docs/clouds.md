@@ -16,7 +16,8 @@
 
 [Main ITTC link](https://connectqutedu.sharepoint.com/:x:/r/teams/DigitalTwinsforManufacturing/_layouts/15/doc2.aspx?sourcedoc=%7Bd8328882-9b28-4858-a11f-5c3c5e45679b%7D&action=edit&activeCell=%27Schedule%27!H3&wdinitialsession=421cee26-c17f-4cc0-bed6-72bb9ff609d9&wdrldsc=2&wdrldc=1&wdrldr=AccessTokenExpiredWarning%2CRefreshingExpiredAccessT&cid=455fe085-c3ce-43da-85c4-34145881d8d4), 
 [Daisy pptx](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EXZe4ffyw8xMqozdfb-Gx9cB3vquzDLJl2m2JrjyfPvtbg?email=will.browne%40qut.edu.au&e=4%3AFCEi4I&fromShare=true&at=9&CID=d87f713a-40ad-af3f-6ce1-eea333d069e7)
-[DAISY Trello](https://trello.com/b/vOMMmyak/ittc-daisy-bid-progress)
+[DAISY Trello](https://trello.com/b/vOMMmyak/ittc-daisy-bid-progress), 
+[LoS](https://connectqutedu-my.sharepoint.com/personal/desaldan_qut_edu_au/_layouts/15/onedrive.aspx?ct=1698894723362&or=OWA%2DNT&cid=0e70b24f%2D6033%2D53c3%2Db340%2D76c0e0aff11b&fromShare=true&ga=1&id=%2Fpersonal%2Fdesaldan%5Fqut%5Fedu%5Fau%2FDocuments%2FDesktop%2FACTIVE%20PROJECTS%2FM%20A%20J%20O%20R%20%20%20I%20N%20I%20T%20I%20A%20T%20I%20V%20E%20S%2FITTC%2023%2024%20Daisy%20ex%20DT4M%2FLOS%2FIC240100043%20ARC%20Training%20Centre%20for%20Deployable%20Artificial%20Intelligence)
 
 [QCR Space](https://connectqutedu.sharepoint.com/:w:/r/teams/msteams_751e6e/_layouts/15/Doc.aspx?sourcedoc=%7B34954204-76FC-421A-AF7D-0B2C695720A6%7D&file=QCR%20Space%20Requests.docx&action=default&mobileredirect=true)
 

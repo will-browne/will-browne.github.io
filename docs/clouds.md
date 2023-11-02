@@ -2,6 +2,8 @@
 
 ## QUT
 
+### QCR
+[Michael Hints](https://connectqutedu.sharepoint.com/:w:/r/teams/msteams_751e6e/_layouts/15/Doc.aspx?sourcedoc=%7BCD6628F0-D612-4ECC-A5A6-1153A22C9134%7D&file=Lifestyle%20Crafting.docx&fromShare=true&action=default&mobileredirect=true)
 
 ### Funding
 [DP XAI 4 Driver Assistance](https://docs.google.com/document/d/1LBEU1jmT9wZN1pj2dgyhqcb4p2ncPPep/edit#)

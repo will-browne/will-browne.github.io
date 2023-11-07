@@ -69,6 +69,8 @@
 
 [NextOre](https://nextore.com.au/our-company/)
 
+[Entech](https://entechelectronics.com.au/)
+
 Large scale DT for [BP](https://discover.aveva.com/nurture-eatdt/video-aveva-digital-twin-delivers-transformational-value-to-bp)
 
 ## Facilitators

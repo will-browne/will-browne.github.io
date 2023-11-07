@@ -71,6 +71,8 @@
 
 [Entech](https://entechelectronics.com.au/)
 
+[Orica](https://www.orica.com/news-media/2021/orica-lights-fuse-on-fresh-wave-of-mining-transformation-with-data-ai-and-cloud)
+
 Large scale DT for [BP](https://discover.aveva.com/nurture-eatdt/video-aveva-digital-twin-delivers-transformational-value-to-bp)
 
 ## Facilitators

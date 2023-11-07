@@ -66,6 +66,8 @@
 
 ## Course support
 
+### STEM Outreach
+[REA Student competitions](https://store.rea.org.au/)
 
 ### Capstones
 [Stroke clubs](https://strokefoundation.org.au/about-stroke/life-after-stroke/help-after-stroke/support-near-you)

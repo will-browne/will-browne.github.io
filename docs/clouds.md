@@ -12,6 +12,8 @@
 ### Funding
 [DP XAI 4 Driver Assistance](https://docs.google.com/document/d/1LBEU1jmT9wZN1pj2dgyhqcb4p2ncPPep/edit#)
 
+[Chris' Hort project](https://connectqutedu-my.sharepoint.com/:w:/r/personal/nugentms_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BFDB7A3F9-12C9-4234-A37A-0153885872FD%7D&file=AS23001_%20MRT%20Theme%205_QUT%20led.docx&action=default&mobileredirect=true)
+
 [Jared CRC-P Cook](https://connectqutedu-my.sharepoint.com/personal/donovan2_qut_edu_au/_layouts/15/onedrive.aspx?csf=1&web=1&e=eFchrq&CT=1693188536663&OR=OWA%2DNT&CID=bd3580ab%2Df962%2Da8a4%2Db435%2D5c0b49e67f7e&id=%2Fpersonal%2Fdonovan2%5Fqut%5Fedu%5Fau%2FDocuments%2F%5Fshared%2Dprojects%2F2023%2Daug%2Dcook%2Dmedical%2Dcrcp&FolderCTID=0x012000E6A27F3494BD9745911485B57B69E0D0&view=0)
 
 [Deon ITTC notes](https://connectqutedu-my.sharepoint.com/:w:/g/personal/desaldan_qut_edu_au/Eeycq7HjoFRNqU03X25tLQMBS-SHCeydkUNb1n0b-lJP2A), 

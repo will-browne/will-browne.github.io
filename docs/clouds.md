@@ -28,7 +28,8 @@
 [DAISY update meeting Nov 3](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EbjjNcIOSRtIrCJhgpDQtDwB10kufOSMf6bwc3RONmMFhQ?e=4%3AU16Xzs&fromShare=true&at=9&CID=5439988b-b447-f262-8872-a6386ac6a7d5), 
 [DAISY Big pptx 9 Nov](https://connectqutedu-my.sharepoint.com/:p:/r/personal/desaldan_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B9FF2C926-600B-45BB-B969-6C91B89481B4%7D&file=ITTC%20DAISY%20Summary%2020231027%20.pptx&action=edit&mobileredirect=true), 
 [Daisy small pptx update 15th Nov](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EYPOFINJs5ZAppdrzJQ721EBiFoz1yOD00MgUPb6WuGqMg?email=will.browne%40qut.edu.au&e=4%3Ai66dop&fromShare=true&at=9&CID=5b197c57-4757-0699-d14b-b0e17281e1e1), 
-[Daisy Budget Xlsx](https://connectqutedu-my.sharepoint.com/:x:/r/personal/desaldan_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B29CE95E6-A64C-4A94-BC22-A16DF1A79925%7D&file=ITTC%20DAISY%20Project%20Mapping%20.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1)
+[Daisy Budget Xlsx](https://connectqutedu-my.sharepoint.com/:x:/r/personal/desaldan_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B29CE95E6-A64C-4A94-BC22-A16DF1A79925%7D&file=ITTC%20DAISY%20Project%20Mapping%20.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1), 
+[Daisy Partner info](https://connectqutedu-my.sharepoint.com/:w:/r/personal/desaldan_qut_edu_au/_layouts/15/Doc.aspx)
 
 [QCR Space](https://connectqutedu.sharepoint.com/:w:/r/teams/msteams_751e6e/_layouts/15/Doc.aspx?sourcedoc=%7B34954204-76FC-421A-AF7D-0B2C695720A6%7D&file=QCR%20Space%20Requests.docx&action=default&mobileredirect=true)
 

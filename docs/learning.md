@@ -17,6 +17,8 @@
 
 [Frame Problem](https://plato.stanford.edu/entries/frame-problem/)
 
+[Consciousness Workshop](https://cmecatalog.hms.harvard.edu/consciousness-science-spirituality-and-social-impact/agenda)
+
 ### Mathematics 
 [CPA](https://thirdspacelearning.com/blog/concrete-pictorial-abstract-maths-cpa/)
 

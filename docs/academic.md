@@ -37,6 +37,8 @@
 
 [RAG](https://roboausnet.com.au/news/) robots australia group
 
+[ISATC Transfer Learning](https://homepages.ecs.vuw.ac.nz/~xuebing/IEEE/TF_TransferLearning-TransferOptimization.html)
+
 <!-- Journals, conferences and tools -->
 
 [???](https://app.ithenticate.com/en_us/folder)

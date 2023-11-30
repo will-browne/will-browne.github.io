@@ -57,6 +57,8 @@
 
 [File merge software](https://meldmerge.org/)
 
+[TripIt trip manager](https://www.tripit.com/web)
+
 ## Tools
 [Diagrams](https://app.diagrams.net/)
 

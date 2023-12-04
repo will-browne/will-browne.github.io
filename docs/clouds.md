@@ -40,6 +40,8 @@
 
 [Cameron pptx](https://connectqutedu-my.sharepoint.com/:p:/r/personal/coombe3_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B7B597C1B-171E-45C5-8F43-2065D22DA6A5%7D&file=Cameron%20Confirmation%20Presentation.pptx&fromShare=true&action=edit&mobileredirect=true) and [notes](https://connectqutedu-my.sharepoint.com/:w:/r/personal/coombe3_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BF87769C7-3AF0-4632-81EE-7F7FF2562E85%7D&file=Cameron%20Confirmation%20Draft%20Script.docx&fromShare=true&action=default&mobileredirect=true)
 
+[Komol Doc](https://docs.google.com/document/d/1nml-QijlwnbzsDK0YPBmVxsWk-NPwFSJwiMyYEpd4Vw/edit?usp=sharing)
+
 ## ACC
 [Doctorates](https://connectqutedu.sharepoint.com/sites/ITTCforCollaborativeRobotics/PhD%20EOIs/Forms/AllItems.aspx)
 

@@ -92,6 +92,8 @@
 ## Advice
 [Michael Milford](https://michaelmilford.com/writing-effective-grant-rejoinders/)
 
+[Features vs benefits](https://blog.hubspot.com/marketing/features-vs-benefits-messaging-ht)
+
 
 ### MBIE construction
 [Shared Drive](https://drive.google.com/drive/folders/1DOSFKVh-Nwt52B6XAdRKz_veHbmxXaC4)

@@ -75,7 +75,7 @@
 ## ALDD
 [Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington, 
 [Academic Performance Indicators QUT FoE](https://connectqutedu.sharepoint.com/sites/FacultyofEngineering/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office%2FFoE%2DAcademic%20Performance%20Indicators%5F20231121%5FFIN%2Epdf&parent=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office)
-
+[Aboriginal Certificate](https://www.qut.edu.au/about/indigenous/confirmation-of-aboriginal-and-torres-strait-islander-descent) 
 [ECR Support](https://qutvirtual4.qut.edu.au/group/staff/research/early-career-researchers)
 
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)

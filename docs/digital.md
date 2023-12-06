@@ -91,6 +91,8 @@
 
 [Gradle vs Maven](https://www.geeksforgeeks.org/difference-between-gradle-and-maven/)
 
+[Canva ACRA](https://www.canva.com/design/DAF1rqybFO4/Ze3CQ05ZAxoo8uo7D6kXBw/edit)
+
 ### Examplars
 
 [Good PURE](https://research.monash.edu/en/persons/dana-kulic), 

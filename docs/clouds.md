@@ -33,6 +33,8 @@
 
 [QCR Space](https://connectqutedu.sharepoint.com/:w:/r/teams/msteams_751e6e/_layouts/15/Doc.aspx?sourcedoc=%7B34954204-76FC-421A-AF7D-0B2C695720A6%7D&file=QCR%20Space%20Requests.docx&action=default&mobileredirect=true)
 
+[AI Adopt](https://connectqutedu-my.sharepoint.com/:w:/g/personal/desaldan_qut_edu_au/EX0qcQmhJzZJlsFXm9ll3SoBWhQJPWR3Wsi4mZnAIL_6fQ?email=will.browne%40qut.edu.au&e=4%3AF4YWi3&fromShare=true&at=9&CID=b1b93d65-cbb7-24a6-8c20-d70669def5d3)
+
 ### HDRs
 
 [Tjeard Experiments](https://docs.google.com/spreadsheets/d/1k-EG-TKeO460KJTK-CJXfhsiwYf3HSaP2Z-zaKPUnh4/edit#gid=0), 

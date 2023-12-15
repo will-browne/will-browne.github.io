@@ -1,4 +1,7 @@
 # Postgraduate Research Information
+
+*Welcome, the chances are that you are here, reading this page, because I've redirected you to this useful repo. It's here to help and speed up your journey to a research career, where if appropriate could well be in collaboration with me.*
+
 This is a collection of useful hints and tips for postgraduate research, such as doctoral or masters study. Over the last 20+ years I've been fortunate enough to guide amazing people through their research journey, so here are my thoughts to help people in the early stages of their journey. This includes people considering collaborative research with me, so lists areas of potential mutual interest.
 
 ## Things you need for the research journey:
@@ -81,8 +84,9 @@ It is noted that much 'emotional' robotics research considers human robotic inte
 Much of my research is forward-looking, blue-sky ideas, so it is worthwhile to consider a beneficial application. Namely, intelligent orthotics for stroke rehabilitation that learn the best strategies to help people affected by stroke. A prototype hardware system has been constructed, which ironically will take time to develop for medical approval.
 * Design, mechatronics and manufacturing is needed to move the prototype up from TRL5, plus research to generate the AI to optimise rehabilitation programs.
 
-
-
+## Next steps
+1. If your first contact with me didn't address all the hints above, then please update and resend
+2. Please see QUT's [scholarship guides](https://www.qut.edu.au/research/study-with-us/scholarships/applying-for-scholarships) for 'in round' applications.  Please see further information with 'out of round' [opportunities with QUT's Centre for Robotics](https://research.qut.edu.au/qcr/engagement/study-with-us/).
 
 
 

@@ -110,5 +110,7 @@ Work to read/cite
 
 [Brain wave meditation](https://pubmed.ncbi.nlm.nih.gov/37777153/), with [full paper](https://www.sciencedirect.com/science/article/abs/pii/S0028393223002282?via%3Dihub) 
 
+[Deepmind FunSearch Set problems](https://www.nature.com/articles/d41586-023-04043-w) 
+
 ### Fun stuff
 [Twitter feeds](https://www.editage.com/insights/ko/node/5324)

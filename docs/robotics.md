@@ -9,6 +9,8 @@
 
 [RUR Paper](https://www.gutenberg.org/cache/epub/59112/pg59112-images.html)
 
+[Robotic welding paths](https://www.sciencedirect.com/science/article/abs/pii/S1526612520303078) 
+
 ## Help and Tutorials
 [Affine transformations](https://articulatedrobotics.xyz/5-transformation_matrices/)
 

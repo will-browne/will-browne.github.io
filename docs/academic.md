@@ -8,6 +8,8 @@
 
 [List of courses undertaken](Training.html)
 
+[LinkedIn Social Selling Index](https://www.linkedin.com/sales/ssi) 
+
 ## Tools
 [Figshare](https://knowledge.figshare.com/institutions)
 

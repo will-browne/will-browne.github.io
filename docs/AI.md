@@ -1,5 +1,7 @@
 # AI interesting stuff
 <!-- All things AI except robots -->
+[Forbes AI +s 2023](https://www.forbes.com/advisor/in/business/software/advantages-of-ai/#:~:text=Automates%20Repetitive%20Tasks%20and%20Processes,tasks%20which%20require%20human%20abilities.)
+
 [AI Myths](https://www.aimyths.org/ai-has-agency)
 
 [Nutrition labels](https://nutrition-facts.ai/)

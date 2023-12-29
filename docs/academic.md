@@ -103,5 +103,9 @@
 
 [Need for 30 samples](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
 
+## Academic Papers
+Work to read/cite
+[Multiple Neuronal pathways](https://www.nature.com/articles/s41467-023-43971-z) 
+
 ### Fun stuff
 [Twitter feeds](https://www.editage.com/insights/ko/node/5324)

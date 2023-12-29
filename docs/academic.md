@@ -105,7 +105,10 @@
 
 ## Academic Papers
 Work to read/cite
+
 [Multiple Neuronal pathways](https://www.nature.com/articles/s41467-023-43971-z) 
+
+[Brain wave meditation](https://pubmed.ncbi.nlm.nih.gov/37777153/) 
 
 ### Fun stuff
 [Twitter feeds](https://www.editage.com/insights/ko/node/5324)

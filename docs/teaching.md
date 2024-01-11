@@ -130,6 +130,8 @@
 [ANZ diversity](https://www.anz.com.au/about-us/esg/workplace-participation-diversity/), 
 [Women in Economics](https://esawen.org.au/) vibrant website.
 
+[Failings in STEM jobs](https://www.latimes.com/opinion/story/2024-01-09/science-jobs-technology-stem-majors)
+
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
 

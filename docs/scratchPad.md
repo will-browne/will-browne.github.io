@@ -36,6 +36,8 @@
 
 [NRF](https://www.industry.gov.au/news/national-reconstruction-fund-diversifying-and-transforming-australias-industry-and-economy)
 
+[IBM AI Adoption](https://www.ibm.com/downloads/cas/GVAGA3JP)
+
 ### Government 
 [Growth centres](https://www.amgc.org.au/our-purpose/leadership/)
 

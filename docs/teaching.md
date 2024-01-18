@@ -19,6 +19,9 @@
 ## ENN584
 [Course outline](https://www.qut.edu.au/study/unit?unitCode=ENN584)
 
+[Basic Disney design](https://www.youtube.com/watch?v=XHjnWm7hGH8&t=2s), [Zipline drones](https://www.youtube.com/watch?v=DOWDNBu9DkU)
+
+
 ## Robotics 439
 [Canvas](https://canvas.qut.edu.au/courses/2765/users)
 

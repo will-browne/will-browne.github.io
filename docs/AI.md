@@ -156,7 +156,7 @@
 
 [Gradient Institute](https://www.gradientinstitute.org/about-us/)
 
-
+[Ed Husic AI](https://www.minister.industry.gov.au/ministers/husic/media-releases/action-help-ensure-ai-safe-and-responsible)
 
 ## Companies
 [Complexica](https://www.complexica.com/) Zbigniew's company, 

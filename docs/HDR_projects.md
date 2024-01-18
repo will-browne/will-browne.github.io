@@ -66,6 +66,8 @@ Story telling appears fundamental to what it is to be human, especially as a bas
 
 This project seeks to create a robot that can experience its world and tell stories about it.
 
+As an aside, Rodney Brooks is brave enough to [make predictions about the future and revisit them yearly](https://rodneybrooks.com/predictions-scorecard-2024-january-01/), where he poses: "An AI system with an ongoing existence (no day is the repeat of another day as it currently is for all AI systems) at the level of a mouse.", where a storytelling robot could be a step in this direction, albeit it would need to be a temporal step in a journey that may or may not have a happy ending.
+
 It encompasses many hard problems: "symbolic grounding", "the Frame problem", "intentionality", "narrative" and many others. But with computer vision for segmantation, semantic maps, large language models, rule-based symbolic learning, embodied robotics, and large compute power, we may be able to get a robot to coherently answer 'so, what did you do on your holidays?'.
 
 ### Neurosymbolic Learning

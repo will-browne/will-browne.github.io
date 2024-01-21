@@ -47,6 +47,8 @@
 
 [Future Jobs](https://100jobsofthefuture.com/report/jobs/)
 
+[Do Wht casual reasoning ](https://www.microsoft.com/en-us/research/blog/dowhy-a-library-for-causal-inference/)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

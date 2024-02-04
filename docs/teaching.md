@@ -6,7 +6,7 @@
 
 [Experimental design](https://www.britannica.com/science/statistics/Experimental-design)
 
-[t-test calculator](https://www.graphpad.com/quickcalcs/ttest2/)
+[t-test calculator](https://www.graphpad.com/quickcalcs/ttest2/), [t-test use](https://www.graphpad.com/guides/the-ultimate-guide-to-t-tests#T25lIHNhbXBsZSB0IHRlc3Q)
 
 [Visual statistics](https://seeing-theory.brown.edu/index.html)
 

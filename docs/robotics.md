@@ -131,6 +131,8 @@
 
 [Field robot](https://arstechnica.com/information-technology/2023/11/mother-plucker-steel-fingers-guided-by-ai-pluck-weeds-rapidly-and-autonomously/) 
 
+[Slugbot](https://ias.uwe.ac.uk/Robots/slugbot.htm)
+
 ### Robots
 
 [NSW Cobots guide](centreforwhs.nsw.gov.au/knowledge-hub/guidelines-for-safe-collaborative-robot-design-and-implementation)

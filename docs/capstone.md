@@ -18,9 +18,15 @@
 | Alec | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
-| Kyron Mayhew <kyronw11@gmail.com> | Kyron | Mayhew | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
-| | | | | | | | | | 
-| | | | | | | | | | 
+| kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
+| kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
+| jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
+| | Tayliah| | | | | | | | 
+| | x | | | | | | | | 
+| | Luis| | | | | | | | 
+| | x | | | | | | | | 
+| | x | | | | | | | | 
+| | Maxwell | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 

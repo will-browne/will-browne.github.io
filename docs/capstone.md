@@ -14,11 +14,11 @@
 | sarel.scheepers@connect.qut.edu.au | Sar | Scheeper | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | riku.oya@connect.qut.edu.au | Riku | Oya | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | murtaza.ali@connect.qut.edu.au | Murtaza | Ali | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
-| | | | | | | | | |
+| Synne | | | | | | | | |
+| Alec | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
-| | | | | | | | | | 
-| | | | | | | | | | 
+| Kyron Mayhew <kyronw11@gmail.com> | Kyron | Mayhew | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 

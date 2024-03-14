@@ -14,7 +14,7 @@
 | sarel.scheepers@connect.qut.edu.au | Sar | Scheeper | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | riku.oya@connect.qut.edu.au | Riku | Oya | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | murtaza.ali@connect.qut.edu.au | Murtaza | Ali | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
-| Synne | | | | | | | | |
+| synne.eggan@connect.qut.edu.au | Synne | Eggan | - | 2023 1&2 | - | 7 | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
 | Alec | | | | | | | | | 
 | | | | | | | | | | 
 | jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
@@ -52,6 +52,7 @@ Cobotics, i.e. collaborative robotics, in terms of how do people want to be guid
 Behaviour based robotics, in terms of how should the robot behave in certain situations. If surrounded by a group of visitors, should the robot stay still or ask the visitors to move so it can be recharged? Can it anticipate what a visitor will do so will move aside to let the robot pass - curiously most people move aside for the robot currently rather than vice versa.
 Emotion detection for behaviour modification of the robot, e.g. can the robot detect if a person is happy or angry to see the robot and adjust its responses accordingly?
 
+### EER-Stroke-Orthotic
 
 ### EER-Hallowed-Footwear
 admin@hallowedfootwear.com.au

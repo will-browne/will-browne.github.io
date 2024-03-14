@@ -22,16 +22,24 @@
 | kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
 | kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
 | jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
-| | Tayliah| | | | | | | | 
-| | x | | | | | | | | 
+| taylia.barrett@connect.qut.edu.au| Tayliah | Barrett | QUT & MERF | 2024 1&2 | Fri 2pm | new | Cameron Brown | Medical robotics | 
+| alejandra.paredezparedes@connect.qut.edu.au| Alejandra | Paredez Paredes | QUT & MERF | 2024 1&2 | Fri 2pm  | new | Cameron | Medical robotics | 
+| harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1&2  | Fri 2pm | new | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
 | | Luis| | | | | | | | 
+|  | x| | | | | | | | 
 | | x | | | | | | | | 
-| | x | | | | | | | | 
-| | Maxwell | | | | | | | | 
+| maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | | | | | | 
+| | |  | - | 2023 1&2 | - | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
 | | | | | | | | | | 
 | | | | | | | | | | 
 
 ## List of Project Abstracts
+
+### ERR-Robots-with-Spines
+There are two complementary aspects to robotics in conjunction with spines, namely 1. robots that have spines can navigate more flexibly than rigid robots, and 2. spinal surgery robots need flexible navigation to operate without causing collateral damage. Depending on research interests number of related projects can be run under this topic area:
+a) Develop designs for a quadruped robot with a spine. Quadruped, e.g. doglike, robots such as Spot, ANYmal, and low-cost versions are now commonly used for industrial activities such as human guidance and plant inspection. But the lack of flexible spine reduces their ease of navigation and reduces intuitive human interaction, e.g. poor physical feedback communication when acting as a guide dog. This initial project will look at simulation designs (i.e. URDFs) of a robotic dog with a spine in order to communicate internal states, observations and future intent.
+b) The design of snake-like robots and end effectors have been created to navigate awkward environments, such as the internal human body. This project specifically considers the design of such robots so spinal surgery, where precision of navigation to a set configuration/pose is of high importance.
+c) Path trajectory planning for spinal surgery robots. Both human guided and autonomous navigation of robots and end effectors for spinal surgery is an open area for research.
 
 ### EER-AR-Robotics
 Project Description:
@@ -53,6 +61,8 @@ Behaviour based robotics, in terms of how should the robot behave in certain sit
 Emotion detection for behaviour modification of the robot, e.g. can the robot detect if a person is happy or angry to see the robot and adjust its responses accordingly?
 
 ### EER-Stroke-Orthotic
+This project is to develop a novel stroke rehabilitation orthotic, which has undergone several prototypes. The orthotic is a mechatronic device that attaches to a person suffering from the effects of stroke's upper/lower arm in order to actively stimulate the muscles in the hand/fingers. This provides improved neural plasticity in the learning of sensorimotor activation. This will be in conjunction with researchers interested in Medical Technologies. Novel sensing and actuation will need to be considered, e.g. integration of IMU and stretch sensors to monitor recovery rate. State-of-the-art additive manufacturing of the device is envisaged. The student will need a complete range of mechatronic skills from programming to basic control systems engineering. CAD familiarity is a must have skill.
+Depending on a student's interest this project could range from writing an interface app for analysis to electronic circuit board design haptic interfacing with real and virtual objects.
 
 ### EER-Hallowed-Footwear
 admin@hallowedfootwear.com.au

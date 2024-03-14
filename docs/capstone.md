@@ -29,7 +29,7 @@
 |  | x| | | | | | | | 
 | | x | | | | | | | | 
 | maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | | | | | | 
-| | |  | - | 2023 1&2 | - | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
+| zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2023 1&2 | - | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
 | | | | | | | | | | 
 | | | | | | | | | | 
 

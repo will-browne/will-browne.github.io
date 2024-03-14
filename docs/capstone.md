@@ -17,10 +17,11 @@
 | Synne | | | | | | | | |
 | Alec | | | | | | | | | 
 | | | | | | | | | | 
-| | | | | | | | | | 
-| kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
-| kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
-| jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1 2024 2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
+| jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| bailey.meyers@connect.qut.edu.au | Bailey | Meyers | ARM Hub ACC | 2024 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
+| kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
+| jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
 | | Tayliah| | | | | | | | 
 | | x | | | | | | | | 
 | | Luis| | | | | | | | 

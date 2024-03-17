@@ -15,8 +15,9 @@
 | riku.oya@connect.qut.edu.au | Riku | Oya | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | murtaza.ali@connect.qut.edu.au | Murtaza | Ali | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | synne.eggan@connect.qut.edu.au | Synne | Eggan | - | 2023 1&2 | - | 7 | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
-| Alec | | | | | | | | | 
-| | | | | | | | | | 
+| alec.lyttle@connect.qut.edu.au | Alec | Lyttle | ACC | 2023 1&2  | Tue 10 | 7 | Das | [AR for Robotics](#EER-AR-Robotics) | 
+| cory.bullen@connect.qut.edu.au | Cory | Bullen | Zeoform | 2023 1&2 | Tue 10:30 | | Das| [Cellulose Spraying](#EER-Robot-Spraying)| 
+| luis.beyrer@connect.qut.edu.au | Luis| Beyrer | ARM Hub ACC | 2023 1 2024 2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | bailey.meyers@connect.qut.edu.au | Bailey | Meyers | ARM Hub ACC | 2024 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
@@ -25,11 +26,8 @@
 | taylia.barrett@connect.qut.edu.au| Tayliah | Barrett | QUT & MERF | 2024 1&2 | Fri 2pm | new | Cameron Brown | Medical robotics | 
 | alejandra.paredezparedes@connect.qut.edu.au| Alejandra | Paredez Paredes | QUT & MERF | 2024 1&2 | Fri 2pm  | new | Cameron | Medical robotics | 
 | harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1&2  | Fri 2pm | new | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
-| | Luis| | | | | | | | 
-|  | x| | | | | | | | 
-| | x | | | | | | | | 
-| maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | | | | | | 
-| zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2023 1&2 | - | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
+| maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | 2024 1&2 | Wed ? | new | Stratoship | [Low-temperature Gimbal](#EER-Gymbal) | 
+| zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2024 1&2 | - | new | Marianella | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
 | | | | | | | | | | 
 | | | | | | | | | | 
 
@@ -40,6 +38,39 @@ There are two complementary aspects to robotics in conjunction with spines, name
 a) Develop designs for a quadruped robot with a spine. Quadruped, e.g. doglike, robots such as Spot, ANYmal, and low-cost versions are now commonly used for industrial activities such as human guidance and plant inspection. But the lack of flexible spine reduces their ease of navigation and reduces intuitive human interaction, e.g. poor physical feedback communication when acting as a guide dog. This initial project will look at simulation designs (i.e. URDFs) of a robotic dog with a spine in order to communicate internal states, observations and future intent.
 b) The design of snake-like robots and end effectors have been created to navigate awkward environments, such as the internal human body. This project specifically considers the design of such robots so spinal surgery, where precision of navigation to a set configuration/pose is of high importance.
 c) Path trajectory planning for spinal surgery robots. Both human guided and autonomous navigation of robots and end effectors for spinal surgery is an open area for research.
+
+### EER-Gymbal
+This is an industrial project with a start-up company, Stratoship, based at ARMHub - the tradeoff from having the industrial experience is that the company must own the project's outcomes as it will be important to their business. Hence, agreement will be needed upfront that IP created in this project is to be assigned to Stratoship.
+
+This project is to develop a stabilised camera (or mirror) gimbal for use in the stratosphere, where the ambient temperature can reach -80°C. In this environment, most mechanisms fail due to differential thermal contraction between parts, freezing of lubricants and moisture, and failures of materials and adhesives. The gimbal is required to self-stabilise to compensate for movement of the stratospheric airship and be remotely controllable in a pan-tilt-zoom camera system. We’re open to designs that move the whole camera, and designs that feature a fixed camera with moving mirror/s.
+We foresee this project happening in stages as described below. We consider the first two stages to be the core, and the third stage to be additional work.
+a. Develop a concept design for a stabilised pan/tilt gimbal and control system, including a thermal concept and material selection that takes into account the extreme temperature range. This gimbal system should aim for simplicity, manufacturability, reliability, and minimum moving parts.
+b. Develop the detailed mechanical, electronic/control and thermal design for one axis only. Build a working prototype, and demonstrate its functionality in a bench test, both at ambient temperatures and at extreme cold temperatures.
+c. Develop the detailed mechanical, electronic/control and thermal design for the second axis. Prototype and bench test as described above.
+Please be aware that the prototype gimbal will not necessarily be tested at stratospheric altitude during this project due to operational constraints and timing.
+
+Successful students may be invited to future flights of the high altitude airship, where their projects will be tested in their intended environment.
+
+### EER-Robot-Spraying
+Robotic spraying cellulose to make building materials
+
+Project Description:
+Background:
+Cellulose is a commonly used insulation material; through an innovative process, Zeoform is able to create building materials such as cladding and structural hollow sections using cellulose. The cellulose is sprayed onto a mould using a manual, labour-intensive process currently. Robotic technology has the potential to automate the process, increasing efficiency and safety. The main challenge in this process is achieving precision and repeatability in the application of cellulose insulation on the moulds.
+
+Objective:
+The objective of this project is to develop a path-planning algorithm for a robot to spray cellulose insulation onto moulds to create structural hollow sections with precision and repeatability. The robot should be able to navigate the mould surface and apply the cellulose insulation in an efficient and repeatable manner.
+
+Methods:
+Research on existing path-planning algorithms and techniques
+Develop a path-planning algorithm for the robot to navigate the mould surface
+Test the algorithm on a simulation of a mould
+Implement the algorithm on a physical robot and test it on real moulds
+
+Expected Outcomes:
+A path-planning algorithm that can navigate a mould surface and apply cellulose insulation in an efficient, precise and repeatable manner
+A simulation of the robot's path on a mould surface
+A demonstration of the algorithm's implementation on a physical robot
 
 ### EER-AR-Robotics
 Project Description:

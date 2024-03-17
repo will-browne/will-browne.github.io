@@ -3,7 +3,6 @@
 
 [Kahoot!](https://kahoot.com/academy/study/)
 
-
 [Experimental design](https://www.britannica.com/science/statistics/Experimental-design)
 
 [t-test calculator](https://www.graphpad.com/quickcalcs/ttest2/), [t-test use](https://www.graphpad.com/guides/the-ultimate-guide-to-t-tests#T25lIHNhbXBsZSB0IHRlc3Q)
@@ -15,6 +14,7 @@
 [F Shaped Reading](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)
 
 [Open world exploration](https://www.youtube.com/watch?v=CZzcVs8tNfE)
+
 
 ## ENN584
 [Course outline](https://www.qut.edu.au/study/unit?unitCode=ENN584)
@@ -68,6 +68,9 @@
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
 
 ## Course support
+
+### Technical
+[Class Photo list](https://qutvirtual4.qut.edu.au/group/staff/student-support/student-admin/class-scheduling/class-management-for-academics/creating-and-printing-activity-class-lists#h2-1)
 
 ### STEM Outreach
 [REA Student competitions](https://store.rea.org.au/)

@@ -49,6 +49,8 @@
 
 [Do Wht casual reasoning ](https://www.microsoft.com/en-us/research/blog/dowhy-a-library-for-causal-inference/)
 
+[Auto-curricula](https://www.youtube.com/shorts/tOQ6aqBrQq4)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

@@ -11,6 +11,8 @@
 
 [Robotic welding paths](https://www.sciencedirect.com/science/article/abs/pii/S1526612520303078) 
 
+[Robot Massages](https://mashable.com/article/aescape-ai-robot-massage)
+
 ## Help and Tutorials
 [Affine transformations](https://articulatedrobotics.xyz/5-transformation_matrices/)
 

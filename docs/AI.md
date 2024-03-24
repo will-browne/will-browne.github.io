@@ -173,4 +173,6 @@
 
 [Judith Bishop](https://medium.com/authority-magazine/wisdom-from-the-women-leading-the-ai-industry-with-dr-judith-bishop-of-appen-f285e24cd63a) Data61
 
+[Riddhi J. Pitliya](https://scholar.google.com/citations?hl=en&user=bgahggcAAAAJ&view_op=list_works&sortby=pubdate)
+
 

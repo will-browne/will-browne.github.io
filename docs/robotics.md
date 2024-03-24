@@ -76,6 +76,8 @@
 
 [Wayve GAIA](https://wayve.ai/thinking/scaling-gaia-1/)
 
+[Gray Matter](https://graymatter-robotics.com/)
+
 ### Component, Actuation and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

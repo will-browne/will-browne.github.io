@@ -138,6 +138,8 @@
 
 [Failings in STEM jobs](https://www.latimes.com/opinion/story/2024-01-09/science-jobs-technology-stem-majors)
 
+[Academic Housekeeping](https://kifinfo.no/en/2024/03/women-end-doing-academic-housework)
+
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
 

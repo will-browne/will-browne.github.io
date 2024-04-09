@@ -96,7 +96,9 @@
 ### My Papers
 
 [Harisu](https://ieeexplore.ieee.org/document/9516955?source=authoralert); 
-[Soheil](https://www.sciencedirect.com/science/article/abs/pii/S1364032122000259); [Nic arXiv](https://arxiv.org/abs/2302.06039)
+[Soheil](https://www.sciencedirect.com/science/article/abs/pii/S1364032122000259); 
+[Nic arXiv](https://arxiv.org/abs/2302.06039); 
+[Nic RSS](https://openreview.net/group?id=roboticsfoundation.org/RSS/2024/Conference/Authors&referrer=%5BHomepage%5D(%2F))
 
 ### Experimental design
 [Psychology design](https://opentext.wsu.edu/carriecuttler/chapter/experimental-design/)

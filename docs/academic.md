@@ -19,7 +19,7 @@
 
 [Regex](https://www.autoregex.xyz/)
 
-[LaTex Diff](https://3142.nl/latex-diff/) document compare tool
+[LaTex Diff](https://3142.nl/latex-diff/) document compare tool, [LaTeX for Ppt](https://www.jonathanleroux.org/software/iguanatex/)
 
 ## QUT
 

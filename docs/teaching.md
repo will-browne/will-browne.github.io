@@ -103,7 +103,7 @@
 
 [ATEA](https://www.sftichallenge.govt.nz/our-research/projects/spearhead/atea/) Maori digital twin
 
-[Why the women should code](https://betterprogramming.pub/why-more-women-should-learn-how-to-code-and-how-you-can-start-3a255efe8fd3)
+[Why the women should code](https://betterprogramming.pub/why-more-women-should-learn-how-to-code-and-how-you-can-start-3a255efe8fd3), [IEEE Code Girls](https://spectrum.ieee.org/this-startup-teaches-girls-coding)
 
 [Intersex people](https://youtu.be/SlT3u_CYTPk), [Intersex experiences](https://www.teenvogue.com/gallery/young-people-on-how-they-found-out-they-are-intersex)
 

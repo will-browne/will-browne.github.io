@@ -4,6 +4,9 @@
 # Funding
 ## QUT Details
 [Financial Portal](https://qcr3.qut.edu.au/ords/qcr/FIN_PORTAL.page)
+Prior to international travel send the following details to cards@qut.edu.au & CorporateCardSupport@nab.com.au
+> card number (only include the last 6 Digits e.g. xxxx-xxxx-xx XX XXXX), full name on corporate card, Destinations, Departure date, Return date, Emergency contact, Personal email address And remember to check that your QUT Corporate Card PIN is working.
+
 ## Historical 
 ### Reading Uni
 [CONMAN](https://cordis.europa.eu/project/id/ENK5-CT-2001-00579)

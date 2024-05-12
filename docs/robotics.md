@@ -123,6 +123,8 @@
 
 [QCR Comp Vision](https://mchancan.github.io/)
 
+[Peter Corke Toolbox Python](https://github.com/petercorke/robotics-toolbox-python)
+
 ### NZ
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)

@@ -63,6 +63,7 @@
 [Blackcard](https://www.theblackcard.com.au/)
 [GEMS](https://qutgems.wixsite.com/gems)
 [QUT Student Support](https://www.qut.edu.au/study/student-life/support)
+[Recognising support is needed](https://qutvirtual4.qut.edu.au/group/qut/news?mode=VIEW&id=8830)
 
 [QUT On-line Media Repo](https://mediahub.qut.edu.au/user-media)
 

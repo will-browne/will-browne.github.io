@@ -43,6 +43,8 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 
 [Innovative Australia ](https://www.globalaustralia.gov.au/why-australia/innovation-australia)
 
+[Worldwide AI ethics](https://www.cell.com/patterns/fulltext/S2666-3899(23)00241-6?utm_campaign=STMJ_215067_CP_ALT&utm_medium=email&utm_acid=245975462&SIS_ID=&dgcid=STMJ_215067_CP_ALT&CMX_ID=&utm_in=DM422046&utm_source=AC_)
+
 ### Government 
 [Growth centres](https://www.amgc.org.au/our-purpose/leadership/)
 

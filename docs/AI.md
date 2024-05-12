@@ -96,6 +96,9 @@
 
 [Aaron Quigley Data61](https://aaronquigley.org/)
 
+[Marek's book](The Economy of Algorithms: AI and the Rise of the Digital Minions
+Marek Kowalkiewicz)
+
 ### Reinforcement. Learning
 [Rich Sutton Slides](https://slideplayer.com/slide/2403698/), 
 [RL Benchmarks](https://neptune.ai/blog/best-benchmarks-for-reinforcement-learning)

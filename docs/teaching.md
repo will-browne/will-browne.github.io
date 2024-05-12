@@ -68,6 +68,8 @@
 
 [Dyslexia in different languages](https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages) 
 
+[Writing support - Karyn Gonano](https://klgcommunications.com.au/#)
+
 ### Training Providers
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
 

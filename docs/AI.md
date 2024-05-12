@@ -51,6 +51,8 @@
 
 [Auto-curricula](https://www.youtube.com/shorts/tOQ6aqBrQq4)
 
+[CSIRO AI of Things](https://www.csiro.au/en/work-with-us/funding-programs/funding/next-generation-graduates-programs/awarded-programs/artificial-intelligence-of-things-empowering-industrial-digital-twin)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

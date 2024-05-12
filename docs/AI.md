@@ -168,6 +168,10 @@
 [Aspen](https://appen.com/#Difference) Data wrangling for AI
 [CausaLens](https://www.causalens.com/our-team/)
 [Nukon - Sage](https://www.nukon.com/about-us)
+
+### Courses
+[AIM courses](https://www.aim.com.au/technology/courses/ai-is-my-copilot)
+
 ### People 
 [Stephen Wolfram](https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/)
 

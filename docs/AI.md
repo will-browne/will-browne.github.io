@@ -167,6 +167,8 @@ Marek Kowalkiewicz)
 
 [Ed Husic AI](https://www.minister.industry.gov.au/ministers/husic/media-releases/action-help-ensure-ai-safe-and-responsible)
 
+[AI Ethics](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles#:~:text=Principles%20at%20a%20glance&text=Fairness%3A%20AI%20systems%20should%20be,ensure%20the%20security%20of%20data.)
+
 ## Companies
 [Complexica](https://www.complexica.com/) Zbigniew's company, 
 [Car scanning](https://arstechnica.com/cars/2022/02/this-ai-mechanic-scans-your-car-or-tires-to-diagnose-defects/), 

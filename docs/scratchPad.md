@@ -39,7 +39,7 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 
 [NRF](https://www.industry.gov.au/news/national-reconstruction-fund-diversifying-and-transforming-australias-industry-and-economy)
 
-[IBM AI Adoption](https://www.ibm.com/downloads/cas/GVAGA3JP)
+[IBM AI Adoption](https://www.ibm.com/downloads/cas/GVAGA3JP), [Australian. AI adoption](https://www.fdmgroup.com/news-insights/ai-integration-challenges-in-australia/#:~:text=Despite%20Australia's%20high%20international%20ranking,of%20AI%20in%20business%20operations.)
 
 [Innovative Australia ](https://www.globalaustralia.gov.au/why-australia/innovation-australia)
 

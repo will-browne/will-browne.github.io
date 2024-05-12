@@ -64,4 +64,7 @@
 ## Academic
 [Fumito](https://drive.google.com/drive/folders/1KB8RbJ4aUFci2lQX-oOyd5N5jNP214TD), [GECCO 2024 Tutorial](https://www.dropbox.com/home/GECCO%202024%20Tutorial), [XCS 30th Anniversary](https://docs.google.com/document/d/1GRwIXE2DxnI_SSRcjrwPVHnSD2khyZnL7teYNZGq1kU/edit#heading=h.y4rt225yig7s)
 
+## Lecturing
+[Tobi's notes](https://connectqutedu-my.sharepoint.com/personal/fischert_qut_edu_au/_layouts/15/onedrive.aspx?e=5%3Ae64a69afc398402ea0a15c367ead3d66&sharingv2=true&fromShare=true&at=9&CT=1713689116426&OR=OWA%2DNT%2DMail&CID=8106e5ca%2D43f9%2Dd190%2Dd58f%2D9b3f563f321a&id=%2Fpersonal%2Ffischert%5Fqut%5Fedu%5Fau%2FDocuments%2FCloudstor%2FQUT%20Teaching%2F2023%20%2D%20EGB439%20%2D%20Advanced%20Robotics%2FEGB439%2D2023%2FM3&FolderCTID=0x012000B9794C1B9269ED41A8C87FF7BD431AD1&view=0)
+
 

@@ -95,6 +95,7 @@
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 
 
 [Black dogs help](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/)
+[Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons)
 
 [The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
 [Care stories](https://www.youtube.com/user/PEPAPALLCARE)

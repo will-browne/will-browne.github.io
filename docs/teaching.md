@@ -158,4 +158,7 @@
 [Google](https://about.google/philosophy/), 
 [Neflix](https://hbr.org/2014/01/how-netflix-reinvented-hr)
 
+### Whole New Education
+[Drawing](https://www.drawright.com/blog), [Play](https://www.amazon.com/Play-Shapes-Brain-Imagination-Invigorates/dp/1583333789), [Transformative Experiences](https://www.colorado.edu/atlas/sites/default/files/attached-files/the_transformative_experience_in_engineering_eduaction.pdf)
+
 

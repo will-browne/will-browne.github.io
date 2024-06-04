@@ -17,6 +17,12 @@ Op# Digital domain
 
 [Ryan's Git repo](https://epistasislab.github.io/pmlb/)
 
+[RCR by Yi Liu](https://github.com/will-browne/RCR); [Assumption by Yi Liu](https://github.com/will-browne/Absumption); [UCS by Yi Liu](https://github.com/will-browne/UCS); [XCS by Yi Liu](https://github.com/will-browne/XCS) all in Python
+
+
+
+
+
 ## AR/VR/Computer vision
 [Basics vision](https://www.youtube.com/@csbrain3986/videos)
 

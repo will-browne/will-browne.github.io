@@ -19,7 +19,7 @@
 
 
 ## ENN584
-{Initila Designs](https://connectqutedu.sharepoint.com/:w:/r/teams/MasterofRobotics-CourseDevelopment/_layouts/15/doc2.aspx?sourcedoc=%7B34a677b5-649a-4992-90c6-d7f7f62f4351%7D&action=edit&wdPid=1)
+[Initila Designs](https://connectqutedu.sharepoint.com/:w:/r/teams/MasterofRobotics-CourseDevelopment/_layouts/15/doc2.aspx?sourcedoc=%7B34a677b5-649a-4992-90c6-d7f7f62f4351%7D&action=edit&wdPid=1)
 
 [Course outline](https://www.qut.edu.au/study/unit?unitCode=ENN584)
 

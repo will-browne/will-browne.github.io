@@ -3,24 +3,15 @@ Op# Digital domain
 
 ## AI Codes
 
-[eLCS](https://github.com/UrbsLab/scikit-eLCS)
-
-[XCS SciKit](https://github.com/UrbsLab/scikit-XCS)
+[eLCS](https://github.com/UrbsLab/scikit-eLCS); [XCS SciKit](https://github.com/UrbsLab/scikit-XCS); [Ryan's Git repo](https://epistasislab.github.io/pmlb/) all by Ryan Urbanowicz
 
 [XCS Python](https://github.com/hosford42/xcs)
 
-[XCS By AB](https://github.com/DevAB-Git/sspXCS)
-
-[XCSCFC By AB](https://github.com/DevAB-Git/sspXCSCFC)
-
-[FORs XCS](https://github.com/DevAB-Git/xcsLC4MS)
-
-[Ryan's Git repo](https://epistasislab.github.io/pmlb/)
+[XCS By AB](https://github.com/DevAB-Git/sspXCS); [XCSCFC By AB](https://github.com/DevAB-Git/sspXCSCFC); [FORs XCS](https://github.com/DevAB-Git/xcsLC4MS)
 
 [RCR by Yi Liu](https://github.com/will-browne/RCR); [Assumption by Yi Liu](https://github.com/will-browne/Absumption); [UCS by Yi Liu](https://github.com/will-browne/UCS); [XCS by Yi Liu](https://github.com/will-browne/XCS) all in Python
 
-
-
+[XCS from eLCS](https://github.com/TrungNg/xcs); [XCSBOA](https://github.com/TrungNg/xcs_boa); [ConCS - private](https://github.com/TrungNg/xcscfa) by Trung Nguyen
 
 
 ## AR/VR/Computer vision

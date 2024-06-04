@@ -40,6 +40,8 @@
 
 [Graph theory origins](https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
 
+[Covariances](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/) and [Plotting](https://www.visiondummy.com/2014/04/draw-error-ellipse-representing-covariance-matrix/)
+
 [Localiser 1](http://172.19.232.183:8080/), [localiser 2](http://172.19.232.174:8080/)
 
 ### Resources

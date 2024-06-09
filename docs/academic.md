@@ -109,7 +109,9 @@
 
 [Need for 30 samples](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
 
-## Academic Papers
+## Academic 
+
+### Papers
 Work to read/cite
 
 [Multiple Neuronal pathways](https://www.nature.com/articles/s41467-023-43971-z) 
@@ -117,6 +119,11 @@ Work to read/cite
 [Brain wave meditation](https://pubmed.ncbi.nlm.nih.gov/37777153/), with [full paper](https://www.sciencedirect.com/science/article/abs/pii/S0028393223002282?via%3Dihub) 
 
 [Deepmind FunSearch Set problems](https://www.nature.com/articles/d41586-023-04043-w) 
+
+
+### Posters
+
+[JJ Merelo Posters](https://jjmerelo.medium.com/make-your-poster-presentation-awesome-97d021258d78)
 
 ### Fun stuff
 [Twitter feeds](https://www.editage.com/insights/ko/node/5324)

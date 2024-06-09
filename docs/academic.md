@@ -22,10 +22,10 @@
 [LaTex Diff](https://3142.nl/latex-diff/) document compare tool, [LaTeX for Ppt](https://www.jonathanleroux.org/software/iguanatex/)
 
 ## QUT
-
 [Ethics form](https://ethics-forms.research.qut.edu.au/)
 [Acknowledgements of Country](https://brand-centre.qut.edu.au/bms/category/browse.cfm?category=1407), 
 [APCs](https://qutvirtual4.qut.edu.au/group/staff/research/publishing-and-impact/open-access/apply-for-apc-support)
+
 ### EER
 [EER Sharepoint](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation)
 
@@ -63,16 +63,15 @@
 [Marcus G](https://marcusgal.github.io/)
 [Peter Stratton](https://mind2mojo.wordpress.com/)
 
-
 ### Neuromorphs
-
 [Yulia Sandamirskaya](http://sandamirskaya.eu/)
 
 ### ITRP
 [Michael Small](https://research-repository.uwa.edu.au/en/persons/michael-small)
 [Andrew Rohl](https://staffportal.curtin.edu.au/staff/profile/view/andrew-rohl-d7560432/)Publishing
 
-### Links: Professor Brian Donnellan
+### Links: 
+Professor Brian Donnellan
 [ISRC](https://www.ulster.ac.uk/research/topic/computer-science/intelligent-systems-research-centre)
 [Confirm](https://confirm.ie/)
 [Lero](https://lero.ie/)
@@ -105,7 +104,7 @@
 ### Experimental design
 [Psychology design](https://opentext.wsu.edu/carriecuttler/chapter/experimental-design/)
 
-[Statistics](https://www.scalestatistics.com/sample-size-for-wilcoxon-test.html) t-test sample size help, [Mann-Whitney U](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
+[Statistics](https://www.scalestatistics.com/sample-size-for-wilcoxon-test.html) t-test sample size help, [Mann-Whitney U](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html), [Normality tests](https://www.statisticshowto.com/lilliefors-test/) Lilliefors (Kolmogorov-Smirnov) test for normality
 
 [Need for 30 samples](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
 

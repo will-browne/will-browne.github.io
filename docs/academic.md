@@ -105,7 +105,7 @@
 ### Experimental design
 [Psychology design](https://opentext.wsu.edu/carriecuttler/chapter/experimental-design/)
 
-[Statistics](https://www.scalestatistics.com/sample-size-for-wilcoxon-test.html) t-test sample size help
+[Statistics](https://www.scalestatistics.com/sample-size-for-wilcoxon-test.html) t-test sample size help, [Mann-Whitney U](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
 
 [Need for 30 samples](https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_nonparametric/bs704_nonparametric4.html)
 

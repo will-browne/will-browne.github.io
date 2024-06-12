@@ -93,6 +93,7 @@ Professor Brian Donnellan
 [The Conversation](https://theconversation.com/au/pitches) pitch portal
 
 ## Research
+[Advice on writing Systems papers](https://hauser-kris.medium.com/putting-the-systems-back-into-rss-recommendations-for-reviewers-and-authors-d28c33fa17e4)
 
 ### My Papers
 

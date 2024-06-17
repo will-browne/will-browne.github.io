@@ -76,7 +76,8 @@ Op# Digital domain
 
 [ChickenAPI for Nostale](https://github.com/BlowaXD/ChickenAPI)
 
-[Julia for Jupyter](https://subscription.packtpub.com/book/application-development/9781788998369/1/ch01lvl1sec23/configuring-julia-to-work-with-jupyterlab)
+[Julia for Jupyter](https://subscription.packtpub.com/book/application-development/9781788998369/1/ch01lvl1sec23/configuring-julia-to-work-with-jupyterlab), 
+[Makie plotting for Julia](https://docs.makie.org/v0.21/)
 
 [DEAP EC Toolset](https://deap.readthedocs.io/en/master/about.html)
 ### Coding

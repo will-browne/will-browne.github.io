@@ -53,6 +53,8 @@
 
 [CSIRO AI of Things](https://www.csiro.au/en/work-with-us/funding-programs/funding/next-generation-graduates-programs/awarded-programs/artificial-intelligence-of-things-empowering-industrial-digital-twin)
 
+[Eligibility traces](https://medium.com/nerd-for-tech/a-brief-overview-of-eligibility-traces-in-reinforcement-learning-c0a8326fa9f7)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

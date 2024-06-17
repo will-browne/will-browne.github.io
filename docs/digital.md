@@ -5,13 +5,19 @@ Op# Digital domain
 
 [eLCS](https://github.com/UrbsLab/scikit-eLCS); [XCS SciKit](https://github.com/UrbsLab/scikit-XCS); [Ryan's Git repo](https://epistasislab.github.io/pmlb/) all by Ryan Urbanowicz
 
+[XCS Butz TS](https://web.archive.org/web/20081116124427/http://www.illigal.uiuc.edu/web/source-code) Illigal via Wayback Machine
+
 [XCS Python](https://github.com/hosford42/xcs)
+
+[XCSLib PLL](https://xcslib.sourceforge.net/)
 
 [XCS By AB](https://github.com/DevAB-Git/sspXCS); [XCSCFC By AB](https://github.com/DevAB-Git/sspXCSCFC); [FORs XCS](https://github.com/DevAB-Git/xcsLC4MS)
 
 [RCR by Yi Liu](https://github.com/will-browne/RCR); [Assumption by Yi Liu](https://github.com/will-browne/Absumption); [UCS by Yi Liu](https://github.com/will-browne/UCS); [XCS by Yi Liu](https://github.com/will-browne/XCS) all in Python
 
 [XCS from eLCS](https://github.com/TrungNg/xcs); [XCSBOA](https://github.com/TrungNg/xcs_boa); [ConCS - private](https://github.com/TrungNg/xcscfa) by Trung Nguyen
+
+[XCS in GO](https://github.com/pnealgit/go_lcs)
 
 
 ## AR/VR/Computer vision

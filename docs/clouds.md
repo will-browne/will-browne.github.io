@@ -56,6 +56,7 @@
 
 ## ACC
 [Doctorates](https://connectqutedu.sharepoint.com/sites/ITTCforCollaborativeRobotics/PhD%20EOIs/Forms/AllItems.aspx)
+[KPIs as they happen](https://forms.office.com/Pages/ResponsePage.aspx?id=o1IL3MVo90SIHZOD2IULllwLg06fNe5Bo8b3K9HpfRxUNFVGUFJETENTS0lKOENGQjgwTVRBNlNLRy4u)
 
 ## ARM Hub
 [Orrcon PhD proposal](https://advrobotics.sharepoint.com/:w:/s/ARMHubProjects/EdFrnpCjZM5PhI8yH-JaFgcBZXNB4Da1AN9_EsxOwGb99Q?rtime=dFI8N5ax20g), 

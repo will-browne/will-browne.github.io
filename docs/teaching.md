@@ -17,8 +17,10 @@
 
 [Eat the Frog](https://todoist.com/productivity-methods/eat-the-frog)
 
+## QUT Courses
+[Canvas to AMS for returning grades](https://qutvirtual4.qut.edu.au/group/staff/teaching/digital-learning-tools/canvas/assessment-and-marking-in-canvas/finalising-canvas-grades)
 
-## ENN584
+### ENN584
 [Initila Designs](https://connectqutedu.sharepoint.com/:w:/r/teams/MasterofRobotics-CourseDevelopment/_layouts/15/doc2.aspx?sourcedoc=%7B34a677b5-649a-4992-90c6-d7f7f62f4351%7D&action=edit&wdPid=1)
 
 [Course outline](https://www.qut.edu.au/study/unit?unitCode=ENN584)
@@ -26,7 +28,7 @@
 [Basic Disney design](https://www.youtube.com/watch?v=XHjnWm7hGH8&t=2s), [Zipline drones](https://www.youtube.com/watch?v=DOWDNBu9DkU)
 
 
-## Robotics 439
+### Robotics 439
 [Canvas](https://canvas.qut.edu.au/courses/2765/users)
 
 [Coppelia robotics sim](https://www.coppeliarobotics.com/)
@@ -44,7 +46,7 @@
 
 [Localiser 1](http://172.19.232.183:8080/), [localiser 2](http://172.19.232.174:8080/)
 
-### Resources
+## Resources
 [Joint Probabilities](https://www.investopedia.com/terms/j/jointprobability.asp#:~:text=Joint%20probability%20is%20a%20statistical,time%20that%20event%20X%20occurs.)
 
 [Summation of likelihoods != 1](https://www.quora.com/What-is-an-intuitive-explanation-for-why-a-likelihood-function-doesnt-sum-or-integrate-to-1)

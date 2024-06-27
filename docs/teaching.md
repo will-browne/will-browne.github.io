@@ -90,6 +90,12 @@
 [Stroke clubs](https://strokefoundation.org.au/about-stroke/life-after-stroke/help-after-stroke/support-near-you)
 
 ## ALDD
+
+### Funding Schemes
+[ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
+[Yalari school student scholarships] https://www.yalari.org/about-yalari/)
+
+### General
 [Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington, 
 [Academic Performance Indicators QUT FoE](https://connectqutedu.sharepoint.com/sites/FacultyofEngineering/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office%2FFoE%2DAcademic%20Performance%20Indicators%5F20231121%5FFIN%2Epdf&parent=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office)
 [Aboriginal Certificate](https://www.qut.edu.au/about/indigenous/confirmation-of-aboriginal-and-torres-strait-islander-descent) 
@@ -153,6 +159,8 @@
 [Academic Housekeeping](https://kifinfo.no/en/2024/03/women-end-doing-academic-housework)
 
 [Building better men QUT](https://www.qut.edu.au/news/realfocus/building-better-men)
+
+[Yarn indigenous/non-indigenous clothing](https://www.yarn.com.au/pages/about-us)
 
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)

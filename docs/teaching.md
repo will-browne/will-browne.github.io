@@ -93,7 +93,7 @@
 
 ### Funding Schemes
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
-[Yalari school student scholarships] https://www.yalari.org/about-yalari/)
+[Yalari school student scholarships](https://www.yalari.org/about-yalari/)
 
 ### General
 [Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington, 

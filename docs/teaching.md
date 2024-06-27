@@ -167,6 +167,7 @@
 
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
+TRacy's stand-in Annah Piggott-McKellar, a.piggottmckellar@qut.edu.au
 
 ### Values
 [Values at work](https://nectarhr.com/blog/promote-core-values-at-work), 

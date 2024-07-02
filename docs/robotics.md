@@ -125,6 +125,8 @@
 
 [Peter Corke Toolbox Python](https://github.com/petercorke/robotics-toolbox-python)
 
+[Mujoco Menagerie](https://github.com/google-deepmind/mujoco_menagerie)
+
 ### NZ
 
 [Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)

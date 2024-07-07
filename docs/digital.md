@@ -141,4 +141,6 @@ Op# Digital domain
 ### Art
 [Wild Systems](https://www.wildsystem.net/about.html) interactive digital arty stuff 
 
+[Frobnicate](https://www.devx.com/terms/frobnicate/)
+
 [Digital Tools](https://petapixel.com/2022/09/23/a-high-res-look-into-the-mountain-made-famous-by-lord-of-the-rings/) Peta pixels, 

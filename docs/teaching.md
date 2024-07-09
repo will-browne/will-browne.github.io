@@ -158,6 +158,7 @@
 [Women in Economics](https://esawen.org.au/) vibrant website.
 
 [Failings in STEM jobs](https://www.latimes.com/opinion/story/2024-01-09/science-jobs-technology-stem-majors)
+[Women in Engineering](https://www.dca.org.au/news/blog/international-women-in-engineering-day-equity-on-site-and-at-desk?at_context=199&_cldee=4cC2wl21Z9LyX9VvvkO7k_4DYrQKePe3oeIq61UW08UwRz5h2q1FE93SdgLO_jk_&recipientid=contact-d016feba6e4cee11be6f00224811e69c-45e86990d735479f87c7319ecc934f0b&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%20Q1%202024&esid=cfbadbcb-c638-ef11-a316-6045bde5ff1e)
 
 [Academic Housekeeping](https://kifinfo.no/en/2024/03/women-end-doing-academic-housework)
 

@@ -120,6 +120,7 @@ Work to read/cite
 
 [Deepmind FunSearch Set problems](https://www.nature.com/articles/d41586-023-04043-w) 
 
+[Gaussian Processes](https://www2.it.uu.se/edu/course/homepage/apml/literature/GP.pdf)
 
 ### Posters
 

@@ -133,6 +133,8 @@
 
 [Marching Cubes Points to mesh](https://www.cs.carleton.edu/cs_comps/0405/shape/marching_cubes.html)
 
+[Henry's student](https://sites.google.com/aucklanduni.ac.nz/nasa-td3-pytorch/)
+
 
 ### NZ
 

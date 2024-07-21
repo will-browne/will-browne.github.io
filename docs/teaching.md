@@ -60,6 +60,8 @@
 
 [Big O notation](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)
 
+[Gaussian processes](https://medium.com/data-science-at-microsoft/introduction-to-gaussian-process-regression-part-1-the-basics-3cb79d9f155f)
+
 ## Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)
 [High cost codes](https://heimshelp.dese.gov.au/resources/reports/HDR-Course-Completions-Detailed-Report)

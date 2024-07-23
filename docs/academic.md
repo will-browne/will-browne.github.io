@@ -21,6 +21,8 @@
 
 [LaTex Diff](https://3142.nl/latex-diff/) document compare tool, [LaTeX for Ppt](https://www.jonathanleroux.org/software/iguanatex/)
 
+[G*Power](https://stats.oarc.ucla.edu/other/gpower/)
+
 ## QUT
 [Ethics form](https://ethics-forms.research.qut.edu.au/)
 [Acknowledgements of Country](https://brand-centre.qut.edu.au/bms/category/browse.cfm?category=1407), 

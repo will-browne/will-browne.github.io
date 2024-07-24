@@ -147,7 +147,7 @@
 
 [PhD Diversity Fund](https://www.qut.edu.au/study/fees-and-scholarships/scholarships/alberto-elfes-memorial-scholarship-fund-phd-scholarship#:~:text=The%20Alberto%20Elfes%20Scholarship%20acknowledges,delivery%20of%20next%20generation%20technology.)
 
-[Berry Street](https://www.berrystreet.org.au/)
+[Berry Street](https://www.berrystreet.org.au/), [Darlington intersex statement](https://darlington.org.au/)
 
 [QGuides resources for health people](https://qlife.org.au/resources/qguides)
 

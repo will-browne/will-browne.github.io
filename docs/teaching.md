@@ -167,8 +167,28 @@
 
 ### Online mental health help
 
+[This Way Up](https://thiswayup.org.au/) free on-line assessment on how to improve your feelings
+
+[eMHprac](https://www.emhprac.org.au/) e-mental health in practice with a load of resources & links
+
+[Phoenix Australia](https://www.phoenixaustralia.org/) recovery from trauma
+
+[Sane](https://www.sane.org/) community based support for mental health
+
+[Well Mob](https://wellmob.org.au/) Social, emotional and cultural wellbeing online resources for Aboriginal and Torres Strait Islander People
+
+[Head to Health](https://www.headtohealth.gov.au/) government backed services
+
+[Beyond Blue](https://www.beyondblue.org.au/) help with depression and mental health
+
+[Smiling Mind](https://www.smilingmind.com.au/) free mental health fitness tips
+
+[MindSpot](https://www.mindspot.org.au/) free psychological assessment and treatment
+
+[Assure](https://assureprograms.com.au/) workplace wellbeing
 
 [Black dogs help](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/)
+
 [Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons)
 
 ### People

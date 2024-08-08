@@ -109,9 +109,6 @@
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 
 
-[Black dogs help](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/)
-[Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons)
-
 [The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
 [Care stories](https://www.youtube.com/user/PEPAPALLCARE)
 
@@ -167,6 +164,12 @@
 [Building better men QUT](https://www.qut.edu.au/news/realfocus/building-better-men)
 
 [Yarn indigenous/non-indigenous clothing](https://www.yarn.com.au/pages/about-us)
+
+### Online mental health help
+
+
+[Black dogs help](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/)
+[Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons)
 
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)

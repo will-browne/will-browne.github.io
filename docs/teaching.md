@@ -187,7 +187,7 @@
 
 [Assure](https://assureprograms.com.au/) workplace wellbeing
 
-[Black dogs help](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/)
+[Black dog](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/) news, webinars, resources and education.
 
 [Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons)
 

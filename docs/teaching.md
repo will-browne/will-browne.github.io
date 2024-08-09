@@ -189,7 +189,7 @@
 
 [Black dog](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/) news, webinars, resources and education.
 
-[Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons)
+[Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons) resources for employers.
 
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)

@@ -86,6 +86,8 @@ Op# Digital domain
 [Makie plotting for Julia](https://docs.makie.org/v0.21/)
 
 [DEAP EC Toolset](https://deap.readthedocs.io/en/master/about.html)
+
+[Mermaid](https://mermaid.live/edit#pako:eNpVjs1qw0AMhF9F6NRC_AI-FBq7zSXQQnPz5iBs2bvE-8NaSwi2373r-NLqJM18M2jG1neMJfajv7eaosClVg7yvDeVjmYSS9MViuJtObGA9Y4fCxxfTh4m7UMwbnjd-eMGQTWfN4xBtHG3dbeqZ_7L8QJ1c6YgPlz_Ope7X-CjMd861_93dOSc-mx6KnsqWopQUXwieEDL0ZLp8vvzpigUzZYVlnntuKc0ikLl1oxSEv_zcC2WEhMfMPo0aMyd45SvFDoSrg0NkeyOrL_WfFuF) class diagrams
 ### Coding
 
 [Conda](https://docs.conda.io/projects/conda/en/latest/) Python environment 

@@ -52,6 +52,8 @@
 
 [Wrybill](https://www.wrybillrobotics.com/) Johan
 
+[Ideal works](https://idealworks.com/en/company/) warehouse robots
+
 ### ITTC
 [Synengco](https://synengco.com/)
 

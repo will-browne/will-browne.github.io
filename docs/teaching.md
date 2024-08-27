@@ -75,6 +75,7 @@
 [Recognising support is needed](https://qutvirtual4.qut.edu.au/group/qut/news?mode=VIEW&id=8830)
 
 [QUT On-line Media Repo](https://mediahub.qut.edu.au/user-media)
+[QUT Leadership program](https://qutvirtual4.qut.edu.au/group/staff/people/staff-development/developing-leadership-capability#h2-2)
 
 [Dyslexia in different languages](https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages) 
 

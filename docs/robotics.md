@@ -13,6 +13,7 @@
 
 [Robot Massages](https://mashable.com/article/aescape-ai-robot-massage)
 
+[Hearing-touch](https://sites.google.com/view/hearing-touch) AI
 ## Help and Tutorials
 [Affine transformations](https://articulatedrobotics.xyz/5-transformation_matrices/)
 

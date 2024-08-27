@@ -171,6 +171,8 @@
 
 [Yarn indigenous/non-indigenous clothing](https://www.yarn.com.au/pages/about-us)
 
+[Neurodiversity Hub at QUT](https://unihub.qut.edu.au/students/events?page=1&studentSiteId=1&text=neuroinclusion)
+
 ### Online mental health help
 
 [This Way Up](https://thiswayup.org.au/) free on-line assessment on how to improve your feelings

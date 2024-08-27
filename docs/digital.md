@@ -27,6 +27,8 @@ Op# Digital domain
 
 [SAM Segment Anything](https://segment-anything.com/)
 
+[QUT Hovermap](https://qut.atlassian.net/wiki/spaces/REF/pages/358057192/Hovermap+ST-X#HovermapST-X-FAQ)
+
 ### Colour palettes
 [IWantHue](http://medialab.github.io/iwanthue/)
 

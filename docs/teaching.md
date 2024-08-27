@@ -96,6 +96,9 @@
 
 ## ALDD
 
+### Awards
+[Queensland Museum Women in STEM](https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize#about)
+
 ### Funding Schemes
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
 [Yalari school student scholarships](https://www.yalari.org/about-yalari/)

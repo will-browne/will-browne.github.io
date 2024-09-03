@@ -57,6 +57,10 @@
 
 [Levine RL intro](https://medium.com/@sergey.levine/decisions-from-data-how-offline-reinforcement-learning-will-change-how-we-use-ml-24d98cb069b0), [follow-up paper](https://arxiv.org/pdf/2005.01643)
 
+### RAG
+[Meta](https://ai.meta.com/blog/retrieval-augmented-generation-streamlining-the-creation-of-intelligent-natural-language-processing-models/)
+[NVIDIW](https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/)
+
 ### Ethics, Trust and Responsibility 
 [Microsoft retiring face recognition](https://www.innovationaus.com/microsoft-retires-facial-analysis-capability-under-responsible-ai)
 [Evolving Chemical Weapons](https://spectrum.ieee.org/responsible-ai-threat)

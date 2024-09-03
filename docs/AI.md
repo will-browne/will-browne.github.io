@@ -91,6 +91,8 @@
 
 [IQ Tests](https://en.wikipedia.org/wiki/Raven%27s_Progressive_Matrices)
 
+[Redwood LLM prompts](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
+
 ## LCS
 
 [IWLCS](https://iwlcs.organic-computing.de/), 

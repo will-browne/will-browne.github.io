@@ -172,6 +172,8 @@
 
 [Yarn indigenous/non-indigenous clothing](https://www.yarn.com.au/pages/about-us)
 
+[Land Care](https://landcareaustralia.org.au/partner-with-us/)
+
 [Neurodiversity Hub at QUT](https://unihub.qut.edu.au/students/events?page=1&studentSiteId=1&text=neuroinclusion)
 
 ### Online mental health help

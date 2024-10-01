@@ -17,6 +17,8 @@
 
 [Eat the Frog](https://todoist.com/productivity-methods/eat-the-frog)
 
+[ABT Narrative](https://ian.umces.edu/blog/storytelling-and-science-whats-abt-got-to-do-with-it/#:~:text=The%20ABT%2C%20or%20'and%2C,offers%20resolution%20in%20your%20narrative.)
+
 ## QUT Courses
 [Canvas to AMS for returning grades](https://qutvirtual4.qut.edu.au/group/staff/teaching/digital-learning-tools/canvas/assessment-and-marking-in-canvas/finalising-canvas-grades)
 

@@ -98,6 +98,8 @@ Op# Digital domain
 
 [Digital Twin software](https://thectoclub.com/tools/best-digital-twin-software/)
 
+[Huggingface DOI generator](https://huggingface.co/docs/hub/en/doi)
+
 ### Coding
 [Pixi](https://github.com/prefix-dev/pixi) package manager for Conda / python
 

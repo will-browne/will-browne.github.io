@@ -76,6 +76,7 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 
 [DP EOI Pitch youtube](https://www.youtube.com/watch?v=gEFrZABjVPQ)
 
+[AI Critical Tech](https://www.industry.gov.au/publications/list-critical-technologies-national-interest/ai-technologies)
 
 [OT Hack](https://www.bbc.com/news/av/technology-62099474)
 

@@ -95,6 +95,9 @@ Op# Digital domain
 [GIT no deep shit](https://rogerdudler.github.io/git-guide/)
 
 [Mech Eng bookmarks](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#julia) including Julia references 
+
+[Digital Twin software](https://thectoclub.com/tools/best-digital-twin-software/)
+
 ### Coding
 [Pixi](https://github.com/prefix-dev/pixi) package manager for Conda / python
 

@@ -108,7 +108,12 @@ Op# Digital domain
 
 [Canva ACRA](https://www.canva.com/design/DAF1rqybFO4/Ze3CQ05ZAxoo8uo7D6kXBw/edit)
 
+[Rust](https://www.rust-lang.org/)
+
 [Julia](https://learnxinyminutes.com/docs/julia/) one file, 
+[Julia essentials](https://docs.julialang.org/en/v1/base/base/)
+[Julia methods](https://docs.julialang.org/en/v1/manual/methods/)
+
 
 ### Examplars
 

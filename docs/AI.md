@@ -75,6 +75,7 @@
 [Au industry](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-framework/australias-ai-ethics-principles#:~:text=outside%20the%20organisation.-,Human%2Dcentred%20values,not%20the%20other%20way%20around.)
 [McKinsey Gen AI](https://www.mckinsey.com/industries/healthcare/our-insights/tackling-healthcares-biggest-burdens-with-generative-ai), 
 [Responsible AI Institute](https://www.responsible.ai/) 
+[AU Policy](https://www.dta.gov.au/blogs/responsible-choices-new-policy-using-ai-australian-government)
 
 ## Abstraction 
 [Deepmind Abstraction](https://deepmind.com/blog/article/measuring-abstract-reasoning)

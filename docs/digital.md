@@ -157,6 +157,8 @@ Op# Digital domain
 
 
 ## Fun stuff
+### 3D printing
+[Filament types](https://all3dp.com/1/3d-printer-filament-types-3d-printing-3d-filament/)
 
 ### Art
 [Wild Systems](https://www.wildsystem.net/about.html) interactive digital arty stuff 

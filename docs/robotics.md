@@ -115,6 +115,8 @@
 
 [International  GPS](https://www.ignss.org.au/) society
 
+[AROSE Remote systems](https://www.arose.org.au/)
+
 ## Githubs
 
 ### Robotics and Vision

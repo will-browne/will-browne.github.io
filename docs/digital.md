@@ -114,6 +114,7 @@ Op# Digital domain
 [Rust](https://www.rust-lang.org/)
 
 [Julia](https://learnxinyminutes.com/docs/julia/) one file, 
+[Julia intro paper](https://epubs.siam.org/doi/10.1137/141000671)
 [Julia essentials](https://docs.julialang.org/en/v1/base/base/)
 [Julia methods](https://docs.julialang.org/en/v1/manual/methods/)
 

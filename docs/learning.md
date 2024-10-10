@@ -30,6 +30,7 @@
 
 [Charles Gallistel](https://psych.rutgers.edu/faculty-profiles-a-contacts/96-charles-randy-gallistel) memory in mice, 
 [Kate Storrs](https://www.katestorrs.com/)
+[Brain registration](https://ftp.nmr.mgh.harvard.edu/pub/dist/freesurfer/tutorial_packages/centos6/fsl_507/doc/wiki/FNIRT(2f)UserGuide.html#Deformation_model)
 
 ### Datasets
 [Peak Emo](https://zenodo.org/record/6403363#.Y973z3ZBywc)

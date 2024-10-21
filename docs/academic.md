@@ -10,6 +10,8 @@
 
 [LinkedIn Social Selling Index](https://www.linkedin.com/sales/ssi) 
 
+[Updating Uni profile](https://qutvirtual4.qut.edu.au/group/staff/engagement/web-publishing/websites/staff-profiles/writing)
+
 ## Tools
 [Figshare](https://knowledge.figshare.com/institutions)
 

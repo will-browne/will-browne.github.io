@@ -83,6 +83,8 @@
 
 [Writing support - Karyn Gonano](https://klgcommunications.com.au/#)
 
+[Inclusive. Language](https://www.adcet.edu.au/resources/inclusive-communication/inclusive-language)]
+
 ### Training Providers
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
 

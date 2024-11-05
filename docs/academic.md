@@ -119,6 +119,8 @@ Professor Brian Donnellan
 ## Academic 
 
 ### Papers
+[How to write a paper](https://www.youtube.com/watch?v=QYbAvOPcy0s) Cyrill's IROS Talk
+
 Work to read/cite
 
 [Multiple Neuronal pathways](https://www.nature.com/articles/s41467-023-43971-z) 

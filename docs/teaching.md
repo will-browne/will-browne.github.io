@@ -129,6 +129,8 @@
 [Care stories](https://www.youtube.com/user/PEPAPALLCARE)
 [Indigenous Leadership](https://www.dca.org.au/news/blog/lessons-from-first-nations-leadership?at_context=199&_cldee=FmAIS_BdNOlt0plWMEnHo0C1vlCVzoJ3eavq49vGOh67tzC7WIRzT1eD3NUSBgO6&recipientid=contact-d016feba6e4cee11be6f00224811e69c-fe67dd5e46914de3b482c09164513162&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%202024&esid=101bf9a0-8e95-ef11-8a69-6045bdc3f33e)
 
+[NATIVE ACADEMY OF SPACE, SCIENCE & INNOVATION](https://www.nassi.com.au/about)
+
 [The Carumba Institute](https://www.qut.edu.au/research/carumba-institute)
 
 [ISSP Govn](https://www.niaa.gov.au/indigenous-affairs/education/indigenous-student-success-program), 

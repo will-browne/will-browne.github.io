@@ -195,7 +195,7 @@
 
 [Simple career plan](https://www.robertsoncollege.com/blog/career-advice/why-its-important-to-create-a-career-development-plan/)
 
-[Micro-aggressions](https://www.rpharms.com/recognition/inclusion-diversity/microaggressions/gender)
+[Micro-aggressions](https://www.rpharms.com/recognition/inclusion-diversity/microaggressions/gender), [Poster](https://entomology.wisc.edu/wp-content/uploads/sites/254/2020/09/Entomology-Department-Values-Visual.pdf)
 
 ### Online mental health help
 

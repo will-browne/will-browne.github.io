@@ -117,6 +117,16 @@
 [Uni Melbourne online guide](https://students.unimelb.edu.au/student-support/international-student-support/support-services-for-remote-study/virtual-campus-good-practices)
 [Flags](https://www.hrc.org/resources/lgbtq-pride-flags)
 
+### Indigenous matters
+[Eel traps](https://www.uts.edu.au/news/culture-sport/traps-rites-and-kurrajong-twine)
+[The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
+[Care stories](https://www.youtube.com/user/PEPAPALLCARE)
+[Indigenous Leadership](https://www.dca.org.au/news/blog/lessons-from-first-nations-leadership?at_context=199&_cldee=FmAIS_BdNOlt0plWMEnHo0C1vlCVzoJ3eavq49vGOh67tzC7WIRzT1eD3NUSBgO6&recipientid=contact-d016feba6e4cee11be6f00224811e69c-fe67dd5e46914de3b482c09164513162&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%202024&esid=101bf9a0-8e95-ef11-8a69-6045bdc3f33e)
+
+[NATIVE ACADEMY OF SPACE, SCIENCE & INNOVATION](https://www.nassi.com.au/about)
+
+[The Carumba Institute](https://www.qut.edu.au/research/carumba-institute)
+
 ### General
 [Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington, 
 [Academic Performance Indicators QUT FoE](https://connectqutedu.sharepoint.com/sites/FacultyofEngineering/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office%2FFoE%2DAcademic%20Performance%20Indicators%5F20231121%5FFIN%2Epdf&parent=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office)
@@ -125,14 +135,6 @@
 
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 
-
-[The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
-[Care stories](https://www.youtube.com/user/PEPAPALLCARE)
-[Indigenous Leadership](https://www.dca.org.au/news/blog/lessons-from-first-nations-leadership?at_context=199&_cldee=FmAIS_BdNOlt0plWMEnHo0C1vlCVzoJ3eavq49vGOh67tzC7WIRzT1eD3NUSBgO6&recipientid=contact-d016feba6e4cee11be6f00224811e69c-fe67dd5e46914de3b482c09164513162&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%202024&esid=101bf9a0-8e95-ef11-8a69-6045bdc3f33e)
-
-[NATIVE ACADEMY OF SPACE, SCIENCE & INNOVATION](https://www.nassi.com.au/about)
-
-[The Carumba Institute](https://www.qut.edu.au/research/carumba-institute)
 
 [ISSP Govn](https://www.niaa.gov.au/indigenous-affairs/education/indigenous-student-success-program), 
 [ISSP QUT](https://www.qut.edu.au/about/governance-and-policy/qut-indigenous-student-success-program-reporting)

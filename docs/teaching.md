@@ -193,6 +193,8 @@
 
 [Neurodiversity Hub at QUT](https://unihub.qut.edu.au/students/events?page=1&studentSiteId=1&text=neuroinclusion)
 
+[Simple career plan](https://www.robertsoncollege.com/blog/career-advice/why-its-important-to-create-a-career-development-plan/)
+
 ### Online mental health help
 
 [This Way Up](https://thiswayup.org.au/) free on-line assessment on how to improve your feelings

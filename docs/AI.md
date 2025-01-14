@@ -98,6 +98,7 @@
 
 [IWLCS](https://iwlcs.organic-computing.de/), 
 [Fumito Git repo](https://github.com/uwanofumito/qut_forsxcs)
+[Trung XCSCFA](https://github.com/TrungNg/xcscfa)
 
 ## Uncertainty
 [NASA Challenge](https://uqtools.larc.nasa.gov/nasa-uq-challenge-problem-2020/)
@@ -124,6 +125,7 @@ Marek Kowalkiewicz)
 
 [PPO Hugging face](https://huggingface.co/blog/deep-rl-ppo)
 
+[MH Algorithm](https://gregorygundersen.com/blog/2019/11/02/metropolis-hastings/)
 
 ## Evolutionary Computation 
 [MTO](http://www.bdsc.site/websites/MTO/index.html)

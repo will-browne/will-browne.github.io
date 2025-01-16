@@ -18,6 +18,8 @@
 ### Funding
 [Krishna Medical](https://connectqutedu-my.sharepoint.com/personal/digumart_qut_edu_au/_layouts/15/onedrive.aspx?e=5%3Af8444bec7fbb4ffd8127f458953fdf6a&sharingv2=true&fromShare=true&at=9&CT=1715041494921&OR=OWA%2DNT%2DMail&CID=05ce5b74%2D6069%2D0992%2D9fab%2D6788727b3cb6&id=%2Fpersonal%2Fdigumart%5Fqut%5Fedu%5Fau%2FDocuments%2FInstitutional%2FGrants%2FNHMRC%20Development%20Grants%202024%2FNHMRC%20Development%20Grant%202024%20Shared%20Folder&FolderCTID=0x0120004A12304F001CB64482E657012F07BDD4&view=0), [Projects](https://connectqutedu-my.sharepoint.com/:x:/g/personal/digumart_qut_edu_au/Eb8XBGWcT2xIhQ6BibbVgZkBw2Z8-wffBoFdwRUtJrzw9g?CID=cfcff012-3b92-9a84-a190-34ce1caddaef)
 
+[TRLs](https://documentcloud.adobe.com/spodintegration/index.html?locale=en-us)
+
 [DP XAI 4 Driver Assistance](https://docs.google.com/document/d/1LBEU1jmT9wZN1pj2dgyhqcb4p2ncPPep/edit#)
 
 [Chris' Hort project](https://connectqutedu-my.sharepoint.com/:w:/r/personal/nugentms_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BFDB7A3F9-12C9-4234-A37A-0153885872FD%7D&file=AS23001_%20MRT%20Theme%205_QUT%20led.docx&action=default&mobileredirect=true)

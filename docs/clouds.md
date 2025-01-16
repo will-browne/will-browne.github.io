@@ -27,6 +27,7 @@
 [Deon ITTC notes](https://connectqutedu-my.sharepoint.com/:w:/g/personal/desaldan_qut_edu_au/Eeycq7HjoFRNqU03X25tLQMBS-SHCeydkUNb1n0b-lJP2A), 
 [Deon ITTC Spreadsheat](https://connectqutedu-my.sharepoint.com/:x:/r/personal/desaldan_qut_edu_au/_layouts/15/doc2.aspx)
 [Deon ITTC agendas](https://connectqutedu-my.sharepoint.com/:w:/g/personal/desaldan_qut_edu_au/Edaq4Ih_XINFmDhft0KbIssB-wiT910mCgs7LzIIu4ZJ5A)
+[Deon AEA pitch](https://connectqutedu-my.sharepoint.com/:w:/r/personal/desaldan_qut_edu_au/_layouts/15/doc2.aspx?sourcedoc=%7B859633ec-29f2-4f01-91d7-92ae43f91b62%7D&action=edit&wdPreviousSession=2996f866-fbe1-c4d4-c003-4bd847063aeb)
 
 [Main ITTC link](https://connectqutedu.sharepoint.com/:x:/r/teams/DigitalTwinsforManufacturing/_layouts/15/doc2.aspx?sourcedoc=%7Bd8328882-9b28-4858-a11f-5c3c5e45679b%7D&action=edit&activeCell=%27Schedule%27!H3&wdinitialsession=421cee26-c17f-4cc0-bed6-72bb9ff609d9&wdrldsc=2&wdrldc=1&wdrldr=AccessTokenExpiredWarning%2CRefreshingExpiredAccessT&cid=455fe085-c3ce-43da-85c4-34145881d8d4), 
 [Daisy pptx](https://connectqutedu-my.sharepoint.com/:p:/g/personal/desaldan_qut_edu_au/EXZe4ffyw8xMqozdfb-Gx9cB3vquzDLJl2m2JrjyfPvtbg?email=will.browne%40qut.edu.au&e=4%3AFCEi4I&fromShare=true&at=9&CID=d87f713a-40ad-af3f-6ce1-eea333d069e7)

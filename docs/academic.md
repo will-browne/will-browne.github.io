@@ -74,6 +74,7 @@
 
 ### Neuromorphs
 [Yulia Sandamirskaya](http://sandamirskaya.eu/)
+[Ben Grewe](https://grewelab.org/2100-2/)
 
 ### ITRP
 [Michael Small](https://research-repository.uwa.edu.au/en/persons/michael-small)

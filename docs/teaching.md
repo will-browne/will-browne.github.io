@@ -116,6 +116,7 @@
 [Gov respect at work](https://www.respectatwork.gov.au/individual/preventing-workplace-sexual-harassment), [eSafety Toolkit](https://www.esafety.gov.au/educators/toolkit-universities/students)
 [Uni Melbourne online guide](https://students.unimelb.edu.au/student-support/international-student-support/support-services-for-remote-study/virtual-campus-good-practices)
 [Flags](https://www.hrc.org/resources/lgbtq-pride-flags)
+[Eu Map](https://www.ilga-europe.org/report/rainbow-europe-2023/)
 
 ### Indigenous matters
 [Eel traps](https://www.uts.edu.au/news/culture-sport/traps-rites-and-kurrajong-twine)

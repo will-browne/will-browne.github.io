@@ -62,6 +62,9 @@
 [Orrcon PhD proposal](https://advrobotics.sharepoint.com/:w:/s/ARMHubProjects/EdFrnpCjZM5PhI8yH-JaFgcBZXNB4Da1AN9_EsxOwGb99Q?rtime=dFI8N5ax20g), 
 [EM Solutions CRC-P](https://advrobotics.sharepoint.com/sites/ARMHub/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FARMHub%2FShared%20Documents%2FARM%20HUB%20CORE%20STAFF%2FARM%20HUB%20OPERATIONS%2FGRANTS%20%26%20TENDER%20MANAGEMENT%2FPre%20Award%2F2023%2FCRC%20P%20%2D%20EM%20Solutions%20Cable%20Robot&p=true&fromShare=true&ga=1)
 
+## ARAA
+[ARAA Google drive](https://drive.google.com/drive/folders/0B-_GCFSPrM5wYWpFWmZhRk91RUU?resourcekey=0-iUpIxPGQ9y8t0IUKG6b1OA)
+
 ## Academic
 [Fumito](https://drive.google.com/drive/folders/1KB8RbJ4aUFci2lQX-oOyd5N5jNP214TD), [GECCO 2024 Tutorial](https://www.dropbox.com/home/GECCO%202024%20Tutorial), [XCS 30th Anniversary](https://docs.google.com/document/d/1GRwIXE2DxnI_SSRcjrwPVHnSD2khyZnL7teYNZGq1kU/edit#heading=h.y4rt225yig7s)
 

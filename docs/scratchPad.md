@@ -108,6 +108,9 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 
 [IBM Watson OpenScale](https://medium.com/trusted-ai/explaining-ai-model-behaviour-with-ibm-watson-openscale-86515702c177) doubt LIME works on text features though...
 
+### Venture capital
+[Out the Back](https://www.otbventures.com.au/)
+
 ## Scholarships 
 ### HDRs
 [Data 61](https://www.csiro.au/en/work-with-us/funding-programs/programs/Next-Generation-Graduates-Programs/Application-guidelines-and-templates) Next Gen Grads

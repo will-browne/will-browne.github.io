@@ -185,6 +185,8 @@
 
 [Building better men QUT](https://www.qut.edu.au/news/realfocus/building-better-men)
 
+[Men's Day](https://internationalmensday.com/)
+
 [the Man Box](https://www.sbs.com.au/news/article/have-you-heard-of-the-man-box-heres-why-it-can-be-harmful/bsypqcs4l)
 
 [Yarn indigenous/non-indigenous clothing](https://www.yarn.com.au/pages/about-us)

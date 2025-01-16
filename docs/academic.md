@@ -27,6 +27,9 @@
 
 [Colour Palette](https://www.simplifiedsciencepublishing.com/resources/best-color-palettes-for-scientific-figures-and-data-visualizations)
 
+## Dataset / Repos
+[Neuroscience datasets](https://openneuro.org/)
+
 ## QUT
 [Ethics form](https://ethics-forms.research.qut.edu.au/)
 [Acknowledgements of Country](https://brand-centre.qut.edu.au/bms/category/browse.cfm?category=1407), 

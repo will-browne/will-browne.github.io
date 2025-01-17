@@ -91,6 +91,7 @@ Professor Brian Donnellan
 
 ### Books
 [Theory of search heuristics](https://www.google.com.au/books/edition/Theory_of_Randomized_Search_Heuristics/Y2OtGyL6gyUC?hl=en&gbpv=1&printsec=frontcover)
+[The Beginning of Infinity](https://www.thebeginningofinfinity.com/book/excerpt/#toc)
 
 ### Journals
 

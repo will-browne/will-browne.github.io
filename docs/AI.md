@@ -115,8 +115,7 @@
 
 [Aaron Quigley Data61](https://aaronquigley.org/)
 
-[Marek's book](The Economy of Algorithms: AI and the Rise of the Digital Minions
-Marek Kowalkiewicz)
+[Marek's book](The Economy of Algorithms: AI and the Rise of the Digital Minions Marek Kowalkiewicz)
 
 ### Reinforcement. Learning
 [Rich Sutton Slides](https://slideplayer.com/slide/2403698/), 
@@ -134,6 +133,8 @@ Marek Kowalkiewicz)
 [CGP](https://www.cartesiangp.com/)
 
 [EC GP Python](https://github.com/ec-kity/ec-kity/) EC Kitty
+
+[ME_GA](https://github.com/ML-flash/M-E-GA)
 
 ### LCS
 

@@ -101,6 +101,8 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 
 [DMTC](https://djpr.vic.gov.au/about-us/news/digital-innovation-for-defence-businesses)
 
+[Industry Doctorates](https://www.education.gov.au/national-industry-phd-program)
+
 ### Companies
 [Dassault Systemes](https://www.3ds.com/)
 

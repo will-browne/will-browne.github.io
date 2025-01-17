@@ -100,6 +100,11 @@ Op# Digital domain
 
 [Huggingface DOI generator](https://huggingface.co/docs/hub/en/doi)
 
+[Obsidian overview](https://www.youtube.com/live/DbsAQSIKQXk) 
+[Obsidian drawing](https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367)
+
+[Canva](https://www.canva.com/en_au/login/)
+
 ### Coding
 [Pixi](https://github.com/prefix-dev/pixi) package manager for Conda / python
 
@@ -122,6 +127,8 @@ Op# Digital domain
 [Julia intro paper](https://epubs.siam.org/doi/10.1137/141000671)
 [Julia essentials](https://docs.julialang.org/en/v1/base/base/)
 [Julia methods](https://docs.julialang.org/en/v1/manual/methods/)
+[Julia help](https://www.youtube.com/watch?v=Dv_ABu4SUhc)
+[Julia Plots](https://www.geeksforgeeks.org/julia-working-with-matplotlibs-pyplot-class/)
 
 
 ### Examplars

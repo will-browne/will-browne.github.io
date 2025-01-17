@@ -53,6 +53,8 @@
 
 [Localiser 1](http://172.19.232.183:8080/), [localiser 2](http://172.19.232.174:8080/)
 
+[Peter's toolbox discussions](https://github.com/petercorke/robotics-toolbox-python/discussions/158)
+
 ## Resources
 [Joint Probabilities](https://www.investopedia.com/terms/j/jointprobability.asp#:~:text=Joint%20probability%20is%20a%20statistical,time%20that%20event%20X%20occurs.)
 

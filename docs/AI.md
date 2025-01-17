@@ -115,7 +115,7 @@
 
 [Aaron Quigley Data61](https://aaronquigley.org/)
 
-[Marek's book](The Economy of Algorithms: AI and the Rise of the Digital Minions - Marek Kowalkiewicz)
+[Marek book](https://www.amazon.com.au/Economy-Algorithms-Rise-Digital-Minions/dp/1529242460)
 
 ### Reinforcement. Learning
 [Rich Sutton Slides](https://slideplayer.com/slide/2403698/), 

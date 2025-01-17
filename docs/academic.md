@@ -72,6 +72,7 @@
 [Marcus G](https://marcusgal.github.io/)
 [Peter Stratton](https://mind2mojo.wordpress.com/)
 [Gusz EvoSphere](https://researchoutreach.org/articles/evosphere-system-robots-physically-evolve/)
+
 ### Neuromorphs
 [Yulia Sandamirskaya](http://sandamirskaya.eu/)
 [Ben Grewe](https://grewelab.org/2100-2/)
@@ -90,8 +91,9 @@ Professor Brian Donnellan
 ## Publishing forums
 
 ### Books
-[Theory of search heuristics](https://www.google.com.au/books/edition/Theory_of_Randomized_Search_Heuristics/Y2OtGyL6gyUC?hl=en&gbpv=1&printsec=frontcover)
+[Theory of search heuristics](https://www.google.com.au/books/edition/Theory_of_Randomized_Search_Heuristics/Y2OtGyL6gyUC?hl=en&gbpv=1&printsec=frontcover), 
 [The Beginning of Infinity](https://www.thebeginningofinfinity.com/book/excerpt/#toc)
+[Why EC for Intelligence](http://selfassemblingbrain.com/evolution-not-intelligence-produces-intelligence/)
 
 ### Journals
 

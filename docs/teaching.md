@@ -50,7 +50,7 @@
 [Graph theory origins](https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
 
 [Covariances](https://www.visiondummy.com/2014/04/geometric-interpretation-covariance-matrix/) and [Plotting](https://www.visiondummy.com/2014/04/draw-error-ellipse-representing-covariance-matrix/)
-
+and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ellipse.html)
 
 [Localiser 1](http://172.19.232.183:8080/), [localiser 2](http://172.19.232.174:8080/)
 
@@ -115,6 +115,7 @@
 ### Funding Schemes
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
 [Yalari school student scholarships](https://www.yalari.org/about-yalari/)
+[Women in EER](https://www.qut.edu.au/study/fees-and-scholarships/scholarships/women-in-electrical-engineering-postgraduate-research-scholarship)
 
 ### Sexual Diversity
 [Welcome here](https://www.welcomehere.org.au/)

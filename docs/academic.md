@@ -11,6 +11,7 @@
 [LinkedIn Social Selling Index](https://www.linkedin.com/sales/ssi) 
 
 [Updating Uni profile](https://qutvirtual4.qut.edu.au/group/staff/engagement/web-publishing/websites/staff-profiles/writing)
+<!-- https://www.qut.edu.au/about/our-people/academic-profiles/will.browne/_admin/?assetid=1087980&screen=metadata -->
 
 ## Tools
 [Figshare](https://knowledge.figshare.com/institutions)
@@ -96,7 +97,7 @@ Professor Brian Donnellan
 [Why EC for Intelligence](http://selfassemblingbrain.com/evolution-not-intelligence-produces-intelligence/)
 
 ### Journals
-
+[ACM Cumputing Surveys](https://dl.acm.org/journal/csur/author-guidelines)
 ### Conferences
 [ACNC](https://www.acns.org.au/conferences/) Australasian Cognitive Neuroscience Conference 
 [Human AI](https://hmieai2022.cs.umu.se/index.php/schedule/) from Andrew L.

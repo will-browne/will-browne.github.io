@@ -159,6 +159,7 @@ Marek Kowalkiewicz)
 [1x1 Convolutions](https://hacktildawn.com/2016/09/25/inception-modules-explained-and-implemented/)
 
 [YouTube tutorials with code](https://www.youtube.com/@AndrejKarpathy)
+[Transformers](https://e2eml.school/transformers.html)
 
 ## Computer graphics 
 [NeRFs](https://github.com/NVlabs/instant-ngp)

@@ -88,6 +88,8 @@
 
 [Path Robotics](https://www.path-robotics.com/robotic-welding-systems/af1/) welding robots
 
+[Roger rehab robot](https://innovativetechnologies.com.au/)
+
 ### Component, Actuation and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

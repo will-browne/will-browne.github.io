@@ -66,6 +66,8 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 
 [AI Cost Trap](https://www.innovationaus.com/its-really-easy-to-waste-money-ai-cost-trap-set/)
 
+[Sirius Beta - Goranson](https://patents.google.com/?q=(Harold+Theodore)&inventor=Goranson&oq=Harold+Theodore+Goranson)
+
 ### Government 
 [Growth centres](https://www.amgc.org.au/our-purpose/leadership/)
 

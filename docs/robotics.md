@@ -20,6 +20,8 @@
 ## Help and Tutorials
 [Affine transformations](https://articulatedrobotics.xyz/5-transformation_matrices/)
 
+[Robot Academy: Peter Corke](https://robotacademy.net.au/lesson/describing-rotation-and-translation-in-2d/)
+
 ## Biomedical 
 [Robotic Surgery](https://www.science.org/doi/10.1126/scirobotics.abj2908)
 

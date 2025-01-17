@@ -71,7 +71,7 @@
 ### Colleagues 
 [Marcus G](https://marcusgal.github.io/)
 [Peter Stratton](https://mind2mojo.wordpress.com/)
-
+[Gusz EvoSphere](https://researchoutreach.org/articles/evosphere-system-robots-physically-evolve/)
 ### Neuromorphs
 [Yulia Sandamirskaya](http://sandamirskaya.eu/)
 [Ben Grewe](https://grewelab.org/2100-2/)

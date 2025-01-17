@@ -55,6 +55,9 @@
 
 [Peter's toolbox discussions](https://github.com/petercorke/robotics-toolbox-python/discussions/158)
 
+[Lidar](https://core-electronics.com.au/slamtec-rplidar-a1-360-laser-range-scanner.html), 
+[PenguinPi Repo](https://github.com/qcr/PenguinPi-robot/tree/master/software/matlab)
+
 ## Resources
 [Joint Probabilities](https://www.investopedia.com/terms/j/jointprobability.asp#:~:text=Joint%20probability%20is%20a%20statistical,time%20that%20event%20X%20occurs.)
 

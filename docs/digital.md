@@ -103,7 +103,8 @@ Op# Digital domain
 ### Coding
 [Pixi](https://github.com/prefix-dev/pixi) package manager for Conda / python
 
-[Conda](https://docs.conda.io/projects/conda/en/latest/) Python environment 
+[Conda](https://docs.conda.io/projects/conda/en/latest/) Python environment, 
+[Cheat Sheat](https://monovm.com/blog/conda-cheat-sheet/)
 
 [Anaconda](https://engineering.anaconda.com/2022/04/welcome-pyscript.html)
 

@@ -29,7 +29,12 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 
 [FWCI](https://guides.lib.monash.edu/research-metrics-publishing/fwci)
 
-[Robot Money](https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035)
+[Robot Money](https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035), 
+[Skills Shortages](https://www.jobsandskills.gov.au/publications/towards-national-jobs-and-skills-roadmap-summary/current-skills-shortages),
+[National Robotics Strategy](https://www.industry.gov.au/publications/national-robotics-strategy) 
+
+[Blue Carbon](https://www.worldbank.org/en/news/feature/2023/11/21/what-you-need-to-know-about-blue-carbon), [Robot surgery Market](https://straitsresearch.com/report/robotic-surgery-market#:~:text=Market%20Overview,period%20(2024%E2%80%932032).)
+
 
 ### CRC-P
 [Cool Medical](https://connectqutedu-my.sharepoint.com/personal/donovan2_qut_edu_au/_layouts/15/onedrive.aspx?e=5%3A2b03a464c8844ab08d235ed592a1f70f&at=9&CT=1692070285382&OR=OWA%2DNT&CID=70f49de3%2Dd54c%2Dc88f%2D19f0%2Df2d06948d58f&id=%2Fpersonal%2Fdonovan2%5Fqut%5Fedu%5Fau%2FDocuments%2F%5Fshared%2Dprojects%2F2023%2Daug%2Dcook%2Dmedical%2Dcrcp&FolderCTID=0x012000E6A27F3494BD9745911485B57B69E0D0&view=0)

@@ -106,6 +106,8 @@ Op# Digital domain
 
 [Canva](https://www.canva.com/en_au/login/), [Adobe AI editing](https://new.express.adobe.com/id/urn:aaid:sc:AP:b09f740e-de2d-40f4-9c43-4e69341bd836?category=search&q=remove)
 
+[Copilot](https://m365.cloud.microsoft/chat?auth=2)
+
 ### Coding
 [Pixi](https://github.com/prefix-dev/pixi) package manager for Conda / python
 

@@ -34,6 +34,8 @@
 
 [Basic Disney design](https://www.youtube.com/watch?v=XHjnWm7hGH8&t=2s), [Zipline drones](https://www.youtube.com/watch?v=DOWDNBu9DkU)
 
+### CAB 320
+[Jupiter Notebook](https://jupyter.eres.qut.edu.au/user/brownew/lab/tree/Untitled.ipynb)
 
 ### Robotics 439
 [Canvas](https://canvas.qut.edu.au/courses/2765/users)

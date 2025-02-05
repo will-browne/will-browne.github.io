@@ -135,7 +135,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [NATIVE ACADEMY OF SPACE, SCIENCE & INNOVATION](https://www.nassi.com.au/about)
 
-[The Carumba Institute](https://www.qut.edu.au/research/carumba-institute)
+[The Carumba Institute](https://www.qut.edu.au/research/carumba-institute), [Dr Melinda Mann Debate response](https://indigenousx.com.au/reflections-on-the-unifying-anti-racist-research-and-action-symposium/)
 
 ### General
 [Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington, 

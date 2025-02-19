@@ -23,6 +23,8 @@
 
 [QUT Lab equipment Walk through](https://my.matterport.com/show/?m=6X3nSZht67i)
 
+[QUT Lecture unavailability ](https://forms.office.com/pages/responsepage.aspx?id=o1IL3MVo90SIHZOD2IULllQDIJ4t13ZHleZwm1IbmUFUQVFLSFc3WE5aOU5NQVA2T0JBTE01V0UxSy4u&route=shorturl)
+
 ## QUT Courses
 [Canvas to AMS for returning grades](https://qutvirtual4.qut.edu.au/group/staff/teaching/digital-learning-tools/canvas/assessment-and-marking-in-canvas/finalising-canvas-grades)
 

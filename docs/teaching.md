@@ -28,6 +28,8 @@
 ## QUT Courses
 [Canvas to AMS for returning grades](https://qutvirtual4.qut.edu.au/group/staff/teaching/digital-learning-tools/canvas/assessment-and-marking-in-canvas/finalising-canvas-grades)
 
+[Gradescope](https://www.gradescope.com.au/)
+
 ### VRES
 [Portal](https://cms.qut.edu.au/utilities/tools/student-topics/add-a-vres-student-topic-or-project?)
 

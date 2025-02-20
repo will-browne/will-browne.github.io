@@ -171,6 +171,8 @@ Op# Digital domain
 
 [MC](http://incompleteideas.net/book/first/ebook/node51.html)
 
+## Debug
+[Hot PC](https://ms.codes/blogs/computer-hardware/service-host-local-system-network-restricted-high-cpu)
 
 ## Fun stuff
 ### 3D printing

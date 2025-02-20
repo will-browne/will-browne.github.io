@@ -174,6 +174,8 @@ Op# Digital domain
 ## Debug
 [Hot PC](https://ms.codes/blogs/computer-hardware/service-host-local-system-network-restricted-high-cpu)
 
+[Surface Cober](https://support.microsoft.com/en-au/surface/troubleshoot-surface-type-cover-or-keyboard-c106b37d-f55a-4640-8cb2-8f1b2b0207ea#bkmk_still_having_issues)
+
 ## Fun stuff
 ### 3D printing
 [Filament types](https://all3dp.com/1/3d-printer-filament-types-3d-printing-3d-filament/)

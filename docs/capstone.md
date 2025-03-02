@@ -32,10 +32,12 @@
 | josh.roe@connect.qut.edu.au | Josh | Roe | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)| 
 | tyler.durrant@connect.qut.edu.au | Tyler | Durrant | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
 | sl.sweet@connect.qut.edu.au | Sophia | Sweet | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
+|  | Nicholas |  | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
 | lincoln.stuckeymargetts@connect.qut.edu.au | Lincoln | Stuckey Margetts | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | abdulazizmeshaal.aaljubair@connect.qut.edu.au | Abdulaziz | Meshaal A Aljubair | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | j54.thomas@connect.qut.edu.au | Jacob | Thomas  | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
-| | | | | | | | | | 
+| karam.obeid@connect.qut.edu.au | Karam | Obeid | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) | 
+| adam.skelton@connect.qut.edu.au | Adam| Skelton | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 

@@ -28,6 +28,11 @@
 | harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1&2  | Fri 2pm | new | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
 | maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | 2024 1&2 | Wed ? | new | Stratoship | [Low-temperature Gimbal](#EER-Gymbal) | 
 | zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2024 1&2 | - | new | Marianella | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
+| sebastian.moller@connect.qut.edu.au | Sebastian | Moller | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)| 
+| josh.roe@connect.qut.edu.au | Josh | Roe | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)| 
+| | | | | | | | | | 
+| | | | | | | | | | 
+| | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 

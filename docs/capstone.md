@@ -25,14 +25,16 @@
 | jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
 | taylia.barrett@connect.qut.edu.au| Tayliah | Barrett | QUT & MERF | 2024 1&2 | Fri 2pm | new | Cameron Brown | Medical robotics | 
 | alejandra.paredezparedes@connect.qut.edu.au| Alejandra | Paredez Paredes | QUT & MERF | 2024 1&2 | Fri 2pm  | new | Cameron | Medical robotics | 
-| harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1&2  | Fri 2pm | new | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
+| harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1 2025 1  | Wed 10am | new | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
 | maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | 2024 1&2 | Wed ? | new | Stratoship | [Low-temperature Gimbal](#EER-Gymbal) | 
 | zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2024 1&2 | - | new | Marianella | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
 | sebastian.moller@connect.qut.edu.au | Sebastian | Moller | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)| 
 | josh.roe@connect.qut.edu.au | Josh | Roe | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)| 
 | tyler.durrant@connect.qut.edu.au | Tyler | Durrant | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
 | sl.sweet@connect.qut.edu.au | Sophia | Sweet | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
-| | | | | | | | | | 
+| lincoln.stuckeymargetts@connect.qut.edu.au | Lincoln | Stuckey Margetts | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+| abdulazizmeshaal.aaljubair@connect.qut.edu.au | Abdulaziz | Meshaal A Aljubair | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+| j54.thomas@connect.qut.edu.au | Jacob | Thomas  | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | | | | | | | | | | 
 | | | | | | | | | | 
 | | | | | | | | | | 

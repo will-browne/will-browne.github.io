@@ -30,6 +30,8 @@
 
 [Gradescope](https://www.gradescope.com.au/)
 
+[VTA Variation of appointments](https://qutvirtual4.qut.edu.au/group/staff/people/supervising-staff/appointing-staff/variations)
+
 ### VRES
 [Portal](https://cms.qut.edu.au/utilities/tools/student-topics/add-a-vres-student-topic-or-project?)
 

@@ -149,6 +149,10 @@
 
 [Henry's student](https://sites.google.com/aucklanduni.ac.nz/nasa-td3-pytorch/)
 
+[RoboStack](https://robostack.github.io/index.html) Tobi's quick ROS install
+
+[Armer](https://github.com/qcr/armer) easy Robot control.
+
 
 ### NZ
 

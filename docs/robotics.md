@@ -96,6 +96,10 @@
 
 [Roger rehab robot](https://innovativetechnologies.com.au/)
 
+[Telerobots used by CSIRO](https://www.trossenrobotics.com/stationary-ai)
+
+
+
 ### Component, Actuation and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 

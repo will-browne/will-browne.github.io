@@ -98,12 +98,14 @@
 
 [Telerobots used by CSIRO](https://www.trossenrobotics.com/stationary-ai)
 
-
+[Muscle Sensor](https://core-electronics.com.au/myoware-20-muscle-sensor.html?gad_source=1)
 
 ### Component, Actuation and Sensor suppliers
 [McMaster CAD models](https://www.mcmaster.com/)
 
 [Piezo mini actuators](https://spikedynamics.com/)
+
+[Lidar PiBot](https://core-electronics.com.au/slamtec-rplidar-a1-360-laser-range-scanner.html)
 
 ## Groups
 [MASS Robotics](https://www.massrobotics.org/) robotics hub, 

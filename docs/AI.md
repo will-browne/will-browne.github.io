@@ -60,6 +60,8 @@
 
 [SLOT Attention](https://paperswithcode.com/method/slot-attention)
 
+[Solomonoff](https://www.lesswrong.com/posts/Kyc5dFDzBg4WccrbK/an-intuitive-explanation-of-solomonoff-induction)
+
 [XAI Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
 
 ### RAG

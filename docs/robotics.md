@@ -109,6 +109,8 @@
 
 [Lidar PiBot](https://core-electronics.com.au/slamtec-rplidar-a1-360-laser-range-scanner.html)
 
+[Power distribution boards](https://holybro.com/products/power-distribution-board-pdb)
+
 ## Groups
 [MASS Robotics](https://www.massrobotics.org/) robotics hub, 
 

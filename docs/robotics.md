@@ -185,6 +185,9 @@
 
 [Slugbot](https://ias.uwe.ac.uk/Robots/slugbot.htm)
 
+### Medtech
+[UTS Hand Rehab](https://www.uts.edu.au/news/2021/01/ai-exoskeleton-transforming-rehab-through-robotics)
+
 ### Robots
 
 [NSW Cobots guide](centreforwhs.nsw.gov.au/knowledge-hub/guidelines-for-safe-collaborative-robot-design-and-implementation)

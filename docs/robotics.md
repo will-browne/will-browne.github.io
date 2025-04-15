@@ -164,6 +164,8 @@
 
 [Armer](https://github.com/qcr/armer) easy Robot control.
 
+[Gaussian Real2Sim](https://embodied-gaussians.github.io/) Jad's awesome work
+
 
 ### NZ
 

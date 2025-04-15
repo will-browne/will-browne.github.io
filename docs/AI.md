@@ -2,6 +2,8 @@
 <!-- All things AI except robots -->
 [Forbes AI +s 2023](https://www.forbes.com/advisor/in/business/software/advantages-of-ai/#:~:text=Automates%20Repetitive%20Tasks%20and%20Processes,tasks%20which%20require%20human%20abilities.)
 
+[Abductive reasoning](https://bdtechtalks.com/2021/09/20/myth-of-artificial-intelligence-erik-larson/)
+
 [AI Myths](https://www.aimyths.org/ai-has-agency)
 
 [Nutrition labels](https://nutrition-facts.ai/)
@@ -118,6 +120,8 @@
 [Aaron Quigley Data61](https://aaronquigley.org/)
 
 [Marek book](https://www.amazon.com.au/Economy-Algorithms-Rise-Digital-Minions/dp/1529242460)
+
+[Matt Mitchell](https://experts.swinburne.edu.au/909-matthew-mitchell)
 
 ### Reinforcement. Learning
 [Rich Sutton Slides](https://slideplayer.com/slide/2403698/), 

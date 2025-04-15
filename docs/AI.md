@@ -14,6 +14,8 @@
 
 [Machine Learning Street Talk](https://anchor.fm/machinelearningstreettalk), [Chomsky transcript](https://whimsical.com/mlst-chomsky-transcript-WgFJLguL7JhzyNhsdgwATy)
 
+[Machine Learning Mastery](https://machinelearningmastery.com/introduction-to-1x1-convolutions-to-reduce-the-complexity-of-convolutional-neural-networks/)
+
 [RL Sheep herding](https://www.youtube.com/watch?v=vvyVTbaXzPk) Hussain Abbas, 
 [RL Issues](https://builtin.com/machine-learning/reinforcement-learning)
 

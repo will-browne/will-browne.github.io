@@ -147,7 +147,7 @@
 
 [QCR Comp Vision](https://mchancan.github.io/)
 
-[Peter Corke Toolbox Python](https://github.com/petercorke/robotics-toolbox-python)
+[Peter Corke Toolbox Python](https://github.com/petercorke/robotics-toolbox-python), [Peter's front page to toolbox](https://petercorke.github.io/machinevision-toolbox-python/index.html)
 
 [Mujoco Menagerie](https://github.com/google-deepmind/mujoco_menagerie)
 

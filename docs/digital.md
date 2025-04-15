@@ -117,7 +117,7 @@ Op# Digital domain
 [Anaconda](https://engineering.anaconda.com/2022/04/welcome-pyscript.html)
 
 [Python for Pi](https://realpython.com/python-raspberry-pi/), 
-[Jupyter displays](https://nbviewer.org/github/ipython/ipython/blob/1.x/examples/notebooks/Part%205%20-%20Rich%20Display%20System.ipynb)  
+[Jupyter displays](https://nbviewer.org/github/ipython/ipython/blob/1.x/examples/notebooks/Part%205%20-%20Rich%20Display%20System.ipynb), [Jupyter maths](https://jupyterbook.org/en/stable/content/math.html)
 
 [Android](https://developer.android.com/guide/topics/sensors/sensors_motion) developer
 

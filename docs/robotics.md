@@ -190,9 +190,11 @@
 ### Medtech
 [UTS Hand Rehab](https://www.uts.edu.au/news/2021/01/ai-exoskeleton-transforming-rehab-through-robotics)
 
-### Robots
+### Robot tools 
 
 [NSW Cobots guide](centreforwhs.nsw.gov.au/knowledge-hub/guidelines-for-safe-collaborative-robot-design-and-implementation)
+
+[Foxglove Data Visualiser](https://foxglove.dev/)
 
 [ARM Hub UR booking](https://armhub.skedda.com/booking)
 

@@ -18,7 +18,7 @@
 | alec.lyttle@connect.qut.edu.au | Alec | Lyttle | ACC | 2023 1&2  | Tue 10 | 7 | Das | [AR for Robotics](#EER-AR-Robotics) | 
 | cory.bullen@connect.qut.edu.au | Cory | Bullen | Zeoform | 2023 1&2 | Tue 10:30 | Pass  | Das| [Cellulose Spraying](#EER-Robot-Spraying)| 
 | luis.beyrer@connect.qut.edu.au | Luis| Beyrer | ARM Hub ACC | 2023 1 2024 2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding) [git](https://github.com/Jahal1/EGH400_IWP/tree/main/additional_resources)| 
 | bailey.meyers@connect.qut.edu.au | Bailey | Meyers | ARM Hub ACC | 2024 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
 | kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 

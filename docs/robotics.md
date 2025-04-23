@@ -142,6 +142,7 @@
 
 ### Robotics and Vision
 [Penguin Pi](https://github.com/qcr/PenguinPi-robot/tree/master/software/matlab)
+[Pi5](https://github.com/qcr/PenguinPi-robot/tree/pi5)
 
 [Panda UDRF](https://github.com/ros-planning/moveit_resources/blob/master/panda_description/urdf/panda.urdf)
 

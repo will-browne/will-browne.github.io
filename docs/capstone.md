@@ -3,31 +3,31 @@
 | Email       | Given Name  | Family Name     | Company    | Year & Sems  | Meeting Time  | Outcome    | Co-supervisors | Abstract |
 | :---        | :---        | :---            | :---       | :---         | :---          | :---       | :---           | :---     |    
 | harrison.mcveigh@connect.qut.edu.au | Harrison | McVeigh | Reality Fishing Charters | 2021 1&2 | ad-hoc | Pass| - | [Crane](#EER-Crane) |
-| clara.barnes@connect.qut.edu.au   | Clara     | Barnes       |-|2022 1 2023 1 | ad hoc | ongoing | - | [ARC](#EER-AbstractRC) |
-| sophia.alfonso@connect.qut.edu.au | Sophia | Alonso | Orrcon | 2022 1&2 | tbc | Ongoing |Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
-| luke.nadjmeljkuti@connect.qut.edu.au | Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Ongoing | Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
-| jashmaulesh.khamar@connect.qut.edu.au | Jash | Khamar | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| a22.holmes@connect.qut.edu.au | Alex | Holmes | ARM Hub ACC | 2022 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022_2 2023_1 | 9-930 Mon | new | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
+| clara.barnes@connect.qut.edu.au   | Clara     | Barnes       |-|2022 1 2023 1 | ad hoc | Pass | - | [ARC](#EER-AbstractRC) |
+| sophia.alfonso@connect.qut.edu.au | Sophia | Alonso | Orrcon | 2022 1&2 | tbc | Pass |Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
+| luke.nadjmeljkuti@connect.qut.edu.au | Luke | Nadjmeljkuti | Orrcon | 2022 1&2 | tbc | Pass | Lester Kirkwood | [Orrcon](#EER-Orrcon) | 
+| jashmaulesh.khamar@connect.qut.edu.au | Jash | Khamar | ARM Hub ACC | 2022 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| a22.holmes@connect.qut.edu.au | Alex | Holmes | ARM Hub ACC | 2022 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| jason.to@connect.qut.edu.au | Jason | To | Hallowed Footwear | 2022_2 2023_1 | 9-930 Mon | Pass | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
 | quachtanx@gmail.com | Quach *Tan*  | Nguyen | Hallowed Footwear | 2022 2 2023 1 | 9-930 Mon | new | Anthony F? | [DT for Feet](#EER-Hallowed-Footwear) | 
-| clarencelin818@hotmail.com | Clarence | Lin | S11 |  2022 2 2023 1 | tbc | new | James & Gavin | [Robotic Guide](#EER-Concierge) | 
-| sarel.scheepers@connect.qut.edu.au | Sar | Scheeper | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
-| riku.oya@connect.qut.edu.au | Riku | Oya | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
-| murtaza.ali@connect.qut.edu.au | Murtaza | Ali | ARM Hub |  2022 2 2023 1 | tbc | new | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
+| clarencelin818@hotmail.com | Clarence | Lin | S11 |  2022 2 2023 1 | tbc | Pass | James & Gavin | [Robotic Guide](#EER-Concierge) | 
+| sarel.scheepers@connect.qut.edu.au | Sar | Scheeper | ARM Hub |  2022 2 2023 1 | tbc | Pass | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
+| riku.oya@connect.qut.edu.au | Riku | Oya | ARM Hub |  2022 2 2023 1 | tbc | Pass | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
+| murtaza.ali@connect.qut.edu.au | Murtaza | Ali | ARM Hub |  2022 2 2023 1 | tbc | Pass | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | synne.eggan@connect.qut.edu.au | Synne | Eggan | - | 2023 1&2 | - | 7 | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
 | alec.lyttle@connect.qut.edu.au | Alec | Lyttle | ACC | 2023 1&2  | Tue 10 | 7 | Das | [AR for Robotics](#EER-AR-Robotics) | 
-| cory.bullen@connect.qut.edu.au | Cory | Bullen | Zeoform | 2023 1&2 | Tue 10:30 | | Das| [Cellulose Spraying](#EER-Robot-Spraying)| 
-| luis.beyrer@connect.qut.edu.au | Luis| Beyrer | ARM Hub ACC | 2023 1 2024 2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| bailey.meyers@connect.qut.edu.au | Bailey | Meyers | ARM Hub ACC | 2024 1&2 | tbc | Ongoing | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
-| kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
-| jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1&2 | 930-10 Thurs | new | Das | [Robotic Guide](#EER-Concierge) | 
-| taylia.barrett@connect.qut.edu.au| Tayliah | Barrett | QUT & MERF | 2024 1&2 | Fri 2pm | new | Cameron Brown | Medical robotics | 
-| alejandra.paredezparedes@connect.qut.edu.au| Alejandra | Paredez Paredes | QUT & MERF | 2024 1&2 | Fri 2pm  | new | Cameron | Medical robotics | 
-| harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1 2025 1  | Wed 10am | new | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
-| maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | 2024 1&2 | Wed ? | new | Stratoship | [Low-temperature Gimbal](#EER-Gymbal) | 
-| zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2024 1&2 | - | new | Marianella | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
+| cory.bullen@connect.qut.edu.au | Cory | Bullen | Zeoform | 2023 1&2 | Tue 10:30 | Pass  | Das| [Cellulose Spraying](#EER-Robot-Spraying)| 
+| luis.beyrer@connect.qut.edu.au | Luis| Beyrer | ARM Hub ACC | 2023 1 2024 2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| bailey.meyers@connect.qut.edu.au | Bailey | Meyers | ARM Hub ACC | 2024 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
+| kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
+| kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
+| jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
+| taylia.barrett@connect.qut.edu.au| Tayliah | Barrett | QUT & MERF | 2024 1&2 | Fri 2pm | Pass | Cameron Brown | Medical robotics | 
+| alejandra.paredezparedes@connect.qut.edu.au| Alejandra | Paredez Paredes | QUT & MERF | 2024 1&2 | Fri 2pm  | ongoing | Cameron | Medical robotics | 
+| harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1 2025 1  | Wed 10am | ongoing | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
+| maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | 2024 1&2 | Wed  | Pass  | Stratoship | [Low-temperature Gimbal](#EER-Gymbal) | 
+| zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2024 1&2 | - | Pass | Marianella | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
 | sebastian.moller@connect.qut.edu.au | Sebastian | Moller | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)| 
 | josh.roe@connect.qut.edu.au | Josh | Roe | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)| 
 | tyler.durrant@connect.qut.edu.au | Tyler | Durrant | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
@@ -38,8 +38,9 @@
 | j54.thomas@connect.qut.edu.au | Jacob | Thomas  | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | karam.obeid@connect.qut.edu.au | Karam | Obeid | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) | 
 | adam.skelton@connect.qut.edu.au | Adam| Skelton | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) | 
-| | | | | | | | | | 
-| | | | | | | | | | 
+| josh.barber@connect.qut.edu.au | Josh | Barber | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC [Git](https://github.com/JoshBarber2023/Abstraction-and-Reasoning-Corpus---Classification-Method)| 
+| rourke.young@connect.qut.edu.au | Rourke | Young | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC |
+|  | | | | | | | | | 
 
 ## List of Project Abstracts
 

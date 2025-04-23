@@ -111,7 +111,11 @@
 
 [Piezo mini actuators](https://spikedynamics.com/)
 
-[Lidar PiBot](https://core-electronics.com.au/slamtec-rplidar-a1-360-laser-range-scanner.html)
+[Lidar PiBot](https://core-electronics.com.au/slamtec-rplidar-a1-360-laser-range-scanner.html), 
+[Connect to Pi](https://cdn-learn.adafruit.com/downloads/pdf/slamtec-rplidar-on-pi.pdf), 
+[SDK for RPLidar](https://github.com/Slamtec/rplidar_sdk/blob/master/README.md), 
+[Datasheets](https://www.slamtec.com/en/Support#rplidar-a-series), 
+
 
 [Power distribution boards](https://holybro.com/products/power-distribution-board-pdb)
 

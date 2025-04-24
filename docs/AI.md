@@ -171,8 +171,16 @@
 [YouTube tutorials with code](https://www.youtube.com/@AndrejKarpathy)
 [Transformers](https://e2eml.school/transformers.html)
 
-## Computer graphics 
+## Computer vision/graphics 
 [NeRFs](https://github.com/NVlabs/instant-ngp)
+
+[DINOv2](https://dinov2.metademolab.com/) and [Paper](https://arxiv.org/pdf/2304.07193)
+
+[COLMAP](https://colmap.github.io/)
+
+[VGGT](https://arxiv.org/pdf/2503.11651)
+
+
 
 ## Benchmarks
 [BBOB](http://coco.lri.fr/COCOdoc/bbo_experiment.html)

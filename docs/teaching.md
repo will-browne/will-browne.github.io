@@ -99,9 +99,9 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Dyslexia in different languages](https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages) 
 
-[Writing support - Karyn Gonano](https://klgcommunications.com.au/#)
+[Writing support - Karyn Gonano](https://klgcommunications.com.au/#), [Hooves vs roofs](https://www.writerscentre.com.au/blog/qa-roofs-or-rooves-hoofs-or-hooves/)
 
-[Inclusive. Language](https://www.adcet.edu.au/resources/inclusive-communication/inclusive-language)]
+[Inclusive. Language](https://www.adcet.edu.au/resources/inclusive-communication/inclusive-language)
 
 ### Training Providers
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett

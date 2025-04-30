@@ -198,6 +198,8 @@
 
 [Slugbot](https://ias.uwe.ac.uk/Robots/slugbot.htm)
 
+[1000 Muscles](https://arstechnica.com/gadgets/2025/02/dangling-twitching-human-robot-with-synthetic-muscles-makes-its-debut/)
+
 ### Medtech
 [UTS Hand Rehab](https://www.uts.edu.au/news/2021/01/ai-exoskeleton-transforming-rehab-through-robotics)
 

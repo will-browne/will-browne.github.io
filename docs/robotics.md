@@ -98,6 +98,8 @@
 
 [Roger rehab robot](https://innovativetechnologies.com.au/)
 
+[Q-bot Underfloor Insulation](https://www.google.com/search?q=uk+foam+insulation+underfloor+robot&rlz=1C1GCEB_enAU994AU997&oq=uk+foam+insulation+underfloor+robot&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCTEyODg0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:b65b5384,vid:OGahHbR8eSk,st:0) 
+
 [Telerobots used by CSIRO](https://www.trossenrobotics.com/stationary-ai)
 
 [Muscle Sensor](https://core-electronics.com.au/myoware-20-muscle-sensor.html?gad_source=1)

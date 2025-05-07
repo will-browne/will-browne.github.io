@@ -111,6 +111,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 ### Technical
 [Class Photo list](https://qutvirtual4.qut.edu.au/group/staff/student-support/student-admin/class-scheduling/class-management-for-academics/creating-and-printing-activity-class-lists#h2-1)
 
+[National Competancy Standards for Engineers](https://www.engineersaustralia.org.au/sites/default/files/2025-03/ncse-exposure-draft-march-2025.pdf)
+
 ### STEM Outreach
 [REA Student competitions](https://store.rea.org.au/)
 
@@ -141,7 +143,11 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Eel traps](https://www.uts.edu.au/news/culture-sport/traps-rites-and-kurrajong-twine)
 [The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
 [Care stories](https://www.youtube.com/user/PEPAPALLCARE)
-[Indigenous Leadership](https://www.dca.org.au/news/blog/lessons-from-first-nations-leadership?at_context=199&_cldee=FmAIS_BdNOlt0plWMEnHo0C1vlCVzoJ3eavq49vGOh67tzC7WIRzT1eD3NUSBgO6&recipientid=contact-d016feba6e4cee11be6f00224811e69c-fe67dd5e46914de3b482c09164513162&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%202024&esid=101bf9a0-8e95-ef11-8a69-6045bdc3f33e)
+[Indigenous Leadership](https://www.dca.org.au/news/blog/lessons-from-first-nations-leadership?at_context=199&_cldee=FmAIS_BdNOlt0plWMEnHo0C1vlCVzoJ3eavq49vGOh67tzC7WIRzT1eD3NUSBgO6&recipientid=contact-d016feba6e4cee11be6f00224811e69c-fe67dd5e46914de3b482c09164513162&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%202024&esid=101bf9a0-8e95-ef11-8a69-6045bdc3f33e), 
+[AIATSIS teaching resources](https://aiatsis.gov.au/sites/default/files/research_pub/AIATSIS%20Guide%20to%20evaluating%20and%20selecting%20education%20resources_Mar25.pdf), 
+[First Inventors documentary](https://www.sbs.com.au/ondemand/tv-series/the-first-inventors)
+[Decolonization in Engineering Education](https://www.taylorfrancis.com/reader/download/b4687294-011e-494c-a2ea-4ef8b0c3b27c/chapter/pdf?context=ubx)
+
 
 [NATIVE ACADEMY OF SPACE, SCIENCE & INNOVATION](https://www.nassi.com.au/about)
 

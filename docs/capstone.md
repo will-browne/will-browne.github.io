@@ -14,7 +14,7 @@
 | sarel.scheepers@connect.qut.edu.au | Sar | Scheeper | ARM Hub |  2022 2 2023 1 | tbc | Pass | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | riku.oya@connect.qut.edu.au | Riku | Oya | ARM Hub |  2022 2 2023 1 | tbc | Pass | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
 | murtaza.ali@connect.qut.edu.au | Murtaza | Ali | ARM Hub |  2022 2 2023 1 | tbc | Pass | Troy & Anthony | [AR for Robotics](#EER-AR-Robotics) | 
-| synne.eggan@connect.qut.edu.au | Synne | Eggan | - | 2023 1&2 | - | 7 | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
+| synne.eggan@connect.qut.edu.au | Synne | Eggan | - | 2023 1&2 | - | 7 | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) [Git](https://github.com/synneeggan/EGH400_SRO) |
 | alec.lyttle@connect.qut.edu.au | Alec | Lyttle | ACC | 2023 1&2  | Tue 10 | 7 | Das | [AR for Robotics](#EER-AR-Robotics) | 
 | cory.bullen@connect.qut.edu.au | Cory | Bullen | Zeoform | 2023 1&2 | Tue 10:30 | Pass  | Das| [Cellulose Spraying](#EER-Robot-Spraying)| 
 | luis.beyrer@connect.qut.edu.au | Luis| Beyrer | ARM Hub ACC | 2023 1 2024 2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 

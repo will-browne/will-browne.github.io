@@ -7,6 +7,10 @@
 Prior to international travel send the following details to cards@qut.edu.au & CorporateCardSupport@nab.com.au
 > card number (only include the last 6 Digits e.g. xxxx-xxxx-xx XX XXXX), full name on corporate card, Destinations, Departure date, Return date, Emergency contact, Personal email address And remember to check that your QUT Corporate Card PIN is working.
 
+### International  linking grants
+[Bavaria](https://www.international-office.uni-bayreuth.de/en/Bavaria---Australia/Bavaria-Queensland-Research-Alliance-Grant-Program/index.php)
+
+
 ### QUT Accounts
 [Finance view in PowerBi](https://app.powerbi.com/groups/me/apps/d2372a7e-ae2b-442c-86d2-86e8d6d0ba9c/reports/7cfcf6f7-0d69-43ae-9889-a260e23488f5/ReportSectionee33d375160b54e88600?ctid=dc0b52a3-68c5-44f7-881d-9383d8850b96&experience=power-bi&clientSideAuth=0)
 

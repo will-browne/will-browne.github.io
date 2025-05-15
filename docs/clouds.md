@@ -55,6 +55,8 @@
 
 [AI Adopt](https://connectqutedu-my.sharepoint.com/:w:/g/personal/desaldan_qut_edu_au/EX0qcQmhJzZJlsFXm9ll3SoBWhQJPWR3Wsi4mZnAIL_6fQ?email=will.browne%40qut.edu.au&e=4%3AF4YWi3&fromShare=true&at=9&CID=b1b93d65-cbb7-24a6-8c20-d70669def5d3)
 
+[Heider grant](https://uniaugsburg-my.sharepoint.com/:w:/g/personal/michael_heider_uni-a_de/ERXP1F25v65EqROdFfmQjd4BxqfdPHoq0iXL6Lf1kht_8Q?rtime=A-iQmtKR3Ug)
+
 ### HDRs
 
 [Tjeard Experiments](https://docs.google.com/spreadsheets/d/1k-EG-TKeO460KJTK-CJXfhsiwYf3HSaP2Z-zaKPUnh4/edit#gid=0), 

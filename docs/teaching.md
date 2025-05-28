@@ -47,6 +47,8 @@
 
 [Gradescope Autograder video](https://www.youtube.com/watch?v=fjvNb9jxK9Q)
 
+[Otter Grader](https://otter-grader.readthedocs.io/en/beta/index.html)
+
 ### Robotics 439
 [Canvas](https://canvas.qut.edu.au/courses/2765/users)
 

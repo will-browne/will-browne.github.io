@@ -45,6 +45,8 @@
 ### CAB 320
 [Jupiter Notebook](https://jupyter.eres.qut.edu.au/user/brownew/lab/tree/Untitled.ipynb)
 
+[Gradescope Autograder video](https://www.youtube.com/watch?v=fjvNb9jxK9Q)
+
 ### Robotics 439
 [Canvas](https://canvas.qut.edu.au/courses/2765/users)
 

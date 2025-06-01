@@ -88,6 +88,9 @@ Op# Digital domain
 [Julia for Jupyter](https://subscription.packtpub.com/book/application-development/9781788998369/1/ch01lvl1sec23/configuring-julia-to-work-with-jupyterlab), 
 [Makie plotting for Julia](https://docs.makie.org/v0.21/)
 
+[Otter grader video](https://www.youtube.com/watch?v=9_x532_2T2w), [Related code/slides](https://chrispyles.io/otter-grader-jupytercon-2023/lab/index.html)
+[Otter read the files](https://otter-grader.readthedocs.io/_/downloads/en/latest/pdf/)
+
 [DEAP EC Toolset](https://deap.readthedocs.io/en/master/about.html)
 
 [Mermaid overview](https://mermaid.js.org/syntax/classDiagram.html), 

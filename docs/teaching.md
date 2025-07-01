@@ -32,6 +32,8 @@
 
 [VTA Variation of appointments](https://qutvirtual4.qut.edu.au/group/staff/people/supervising-staff/appointing-staff/variations)
 
+[CAB320 Norvig Git](https://github.com/aimacode/aima-python/blob/master/README.md)
+
 ### VRES
 [Portal](https://cms.qut.edu.au/utilities/tools/student-topics/add-a-vres-student-topic-or-project?)
 

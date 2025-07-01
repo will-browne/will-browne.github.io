@@ -108,6 +108,10 @@
 
 [Local Positioning Systems](https://localpositioningsystem.com/) Micheal
 
+[Wind farm robot](https://koalalifter.com/)
+
+[Robot welding](https://www.inrotech.com/)
+
 ### Robot Shops
 [Turtlebots](https://www.robotis.us/turtlebot/), [Robotshop](https://www.robotshop.com/collections/industrial-robot-arms-manipulators), 
 [Robotis](https://www.robotis.us/openmanipulator-x-rm-x52-tnm/), [Elephant manipulators](https://shop.elephantrobotics.com/en-au/products/mycobot-pi-worlds-smallest-and-lightest-six-axis-collaborative-robot?variant=44597817803064), [Pi Cobot](https://robots.ros.org/myCobot-320-pi/)
@@ -154,11 +158,17 @@
 
 [Twist](https://yanjieze.com/TWIST/)
 
+[AARP](https://www.theaarp.com.au/) Australian Automation and Robotics Precinct
+
+[AdoptAI ARMHub](https://aiadopt.ai/propel-air-backup)
+
 ## Githubs
 
 ### Robotics and Vision
 [Penguin Pi](https://github.com/qcr/PenguinPi-robot/tree/master/software/matlab)
 [Pi5](https://github.com/qcr/PenguinPi-robot/tree/pi5)
+
+[Jeff K robot](https://harrisonespino.com/ral-2024/)
 
 [Panda UDRF](https://github.com/ros-planning/moveit_resources/blob/master/panda_description/urdf/panda.urdf)
 
@@ -216,6 +226,8 @@
 [NSW Cobots guide](centreforwhs.nsw.gov.au/knowledge-hub/guidelines-for-safe-collaborative-robot-design-and-implementation)
 
 [Foxglove Data Visualiser](https://foxglove.dev/)
+
+[Meshroom](https://github.com/alicevision/Meshroom/blob/develop/README.md), [Gaussian Splat Meshes](https://github.com/Anttwo/SuGaR/blob/main/README.md), [COLMAP](https://colmap.github.io/install.html)
 
 [ARM Hub UR booking](https://armhub.skedda.com/booking)
 

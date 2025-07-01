@@ -114,6 +114,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Inclusive. Language](https://www.adcet.edu.au/resources/inclusive-communication/inclusive-language)
 
+[Diversity Council celebration days](https://www.dca.org.au/resources/di-planning/di-days-dates)
+
 ### Training Providers
 [Shari Walsh](https://services.anu.edu.au/training/resilient-researcher-webinars-with-dr-shari-Walsh) recommended by Scarlett
 

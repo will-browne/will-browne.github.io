@@ -1,6 +1,8 @@
 Op# Digital domain
 <!-- Websites, how to program, AR/VR -->
 
+[Source Code by Rob Liang](https://www.youtube.com/watch?v=2_VQLfKXTQo)
+
 ## AI Codes
 
 [eLCS](https://github.com/UrbsLab/scikit-eLCS); [XCS SciKit](https://github.com/UrbsLab/scikit-XCS); [Ryan's Git repo](https://epistasislab.github.io/pmlb/) all by Ryan Urbanowicz

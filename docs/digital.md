@@ -101,6 +101,8 @@ Op# Digital domain
 
 [GIT no deep shit](https://rogerdudler.github.io/git-guide/), [Rob's GIT tutorial](https://www.youtube.com/watch?v=2_VQLfKXTQo)
 
+[GeeksforGeeks](https://www.geeksforgeeks.org/)
+
 [Mech Eng bookmarks](https://github.com/m2n037/awesome-mecheng?tab=readme-ov-file#julia) including Julia references 
 
 [Digital Twin software](https://thectoclub.com/tools/best-digital-twin-software/)

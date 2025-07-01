@@ -77,6 +77,7 @@
 ## ARAA
 [ARAA Google drive](https://drive.google.com/drive/folders/0B-_GCFSPrM5wYWpFWmZhRk91RUU?resourcekey=0-iUpIxPGQ9y8t0IUKG6b1OA)
 [ACRA Papers 2024](https://ssl.linklings.net/conferences/acra/acra2024_proceedings/views/by_auth.html)
+[Recipe Book](https://docs.google.com/document/d/1jmJJlA5amCHSVyv_1Gh5TV2NLwBYO2vEfD0wvCWKtMI/edit?pli=1&tab=t.0#heading=h.5q4e25fu1one)
 
 ## Academic
 [Fumito](https://drive.google.com/drive/folders/1KB8RbJ4aUFci2lQX-oOyd5N5jNP214TD), [GECCO 2024 Tutorial](https://www.dropbox.com/home/GECCO%202024%20Tutorial), [XCS 30th Anniversary](https://docs.google.com/document/d/1GRwIXE2DxnI_SSRcjrwPVHnSD2khyZnL7teYNZGq1kU/edit#heading=h.y4rt225yig7s), [XCS CFP](https://docs.google.com/document/d/1u4L4eM9VTXdEUT1sW0xNcgy0FUhKyoQjPZcSJqNKK74/edit?tab=t.0#heading=h.y4rt225yig7s)

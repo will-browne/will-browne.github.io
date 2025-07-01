@@ -138,6 +138,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
 [Yalari school student scholarships](https://www.yalari.org/about-yalari/)
 [Women in EER](https://www.qut.edu.au/study/fees-and-scholarships/scholarships/women-in-electrical-engineering-postgraduate-research-scholarship)
+[HEPPP](https://www.education.gov.au/heppp) Higher Education Participation and Partnerships Program 
+
 
 ### Sexual Diversity
 [Welcome here](https://www.welcomehere.org.au/)
@@ -157,7 +159,6 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [AIATSIS teaching resources](https://aiatsis.gov.au/sites/default/files/research_pub/AIATSIS%20Guide%20to%20evaluating%20and%20selecting%20education%20resources_Mar25.pdf), 
 [First Inventors documentary](https://www.sbs.com.au/ondemand/tv-series/the-first-inventors)
 [Decolonization in Engineering Education](https://www.taylorfrancis.com/reader/download/b4687294-011e-494c-a2ea-4ef8b0c3b27c/chapter/pdf?context=ubx)
-
 
 [NATIVE ACADEMY OF SPACE, SCIENCE & INNOVATION](https://www.nassi.com.au/about)
 
@@ -218,6 +219,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Failings in STEM jobs](https://www.latimes.com/opinion/story/2024-01-09/science-jobs-technology-stem-majors)
 [Women in Engineering](https://www.dca.org.au/news/blog/international-women-in-engineering-day-equity-on-site-and-at-desk?at_context=199&_cldee=4cC2wl21Z9LyX9VvvkO7k_4DYrQKePe3oeIq61UW08UwRz5h2q1FE93SdgLO_jk_&recipientid=contact-d016feba6e4cee11be6f00224811e69c-45e86990d735479f87c7319ecc934f0b&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%20Q1%202024&esid=cfbadbcb-c638-ef11-a316-6045bde5ff1e)
+
+[Politically Correct terms](https://ncdj.org/style-guide/)
 
 [Academic Housekeeping](https://kifinfo.no/en/2024/03/women-end-doing-academic-housework)
 

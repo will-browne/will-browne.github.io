@@ -2,6 +2,8 @@
 <!-- Lecturing and teaching links, incl. ALDD -->
 [Jupyter notebook spawn QUT](https://jupyter.eres.qut.edu.au/hub/spawn)
 
+[PowerBI](https://app.powerbi.com/home?experience=power-bi)
+
 [Kahoot!](https://kahoot.com/academy/study/)
 
 [Experimental design](https://www.britannica.com/science/statistics/Experimental-design)

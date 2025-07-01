@@ -177,7 +177,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 
 
-
+[Stay safe on campus](https://qutvirtual4.qut.edu.au/group/qut/news?mode=VIEW&id=9633)
 
 [ISSP Govn](https://www.niaa.gov.au/indigenous-affairs/education/indigenous-student-success-program), 
 [ISSP QUT](https://www.qut.edu.au/about/governance-and-policy/qut-indigenous-student-success-program-reporting)

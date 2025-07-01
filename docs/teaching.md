@@ -1,5 +1,6 @@
 # Lecturing
 <!-- Lecturing and teaching links, incl. ALDD -->
+[Jupyter notebook spawn QUT](https://jupyter.eres.qut.edu.au/hub/spawn)
 
 [Kahoot!](https://kahoot.com/academy/study/)
 

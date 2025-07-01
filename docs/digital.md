@@ -141,10 +141,12 @@ Op# Digital domain
 ### Otter-grader
 [Tutorial](https://otter-grader.readthedocs.io/en/latest/tutorial.html), 
 [Documents PDF](https://otter-grader.readthedocs.io/_/downloads/en/latest/pdf/), 
+[Documents online](https://otter-grader.readthedocs.io/en/beta/index.html), 
 [Container image](https://otter-grader.readthedocs.io/en/latest/workflow/otter_generate/container_image.html)
 
 [Jupyter Con walk](https://www.youtube.com/watch?v=9_x532_2T2w), [Walk through repo](https://chrispyles.io/otter-grader-jupytercon-2023/lab/index.html)
 
+[Gradescope](https://www.gradescope.com.au/), [Gradescope interface](https://gradescope-autograders.readthedocs.io/en/latest/specs/), [Assignment types](https://guides.gradescope.com/hc/en-us/articles/22244660005901-Assignment-Types#h_01HHD7SBG20RMM6QP1566Q7HWE)
 
 ### Examplars
 
@@ -182,6 +184,8 @@ Op# Digital domain
 [Convolutions](https://towardsdatascience.com/types-of-convolution-kernels-simplified-f040cb307c37)
 
 [MC](http://incompleteideas.net/book/first/ebook/node51.html)
+
+[Cart-pole Gymnasium](https://github.com/Farama-Foundation/Gymnasium/blob/main/gymnasium/envs/classic_control/cartpole.py)
 
 ## Debug
 [Hot PC](https://ms.codes/blogs/computer-hardware/service-host-local-system-network-restricted-high-cpu)

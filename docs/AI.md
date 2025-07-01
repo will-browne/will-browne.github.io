@@ -129,7 +129,7 @@
 
 [Matt Mitchell](https://experts.swinburne.edu.au/909-matthew-mitchell)
 
-### Reinforcement. Learning
+### Reinforcement Learning
 [Rich Sutton Slides](https://slideplayer.com/slide/2403698/), 
 [RL Benchmarks](https://neptune.ai/blog/best-benchmarks-for-reinforcement-learning)
 
@@ -197,6 +197,8 @@
 [XAMI Lab QUT](https://www.xami-lab.org/)
 
 [XAI Book: interpretable ML](https://christophm.github.io/interpretable-ml-book/)
+
+[Turing institute definition](https://www.turing.ac.uk/sites/default/files/2024-06/ai_explainability_guidance_brief.pdf) [and Ethics](https://aiethics.turing.ac.uk/?utm_source=LinkedIn&utm_medium=Text_link&utm_campaign=Skills-Week-Jan-2025_AI-Ethics-Platform_The-Alan-Turing-Institute)
 
 [IEEE Ethically Aligned Design](https://standards.ieee.org/wp-content/uploads/import/documents/other/ead_v2.pdf), [IEEE V&V standard](https://spectrum.ieee.org/regulating-ai-programs-roadmap)
 

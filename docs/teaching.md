@@ -133,6 +133,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 ### Awards
 [Queensland Museum Women in STEM](https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize#about)
 
+
 ### Funding Schemes
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
 [Yalari school student scholarships](https://www.yalari.org/about-yalari/)
@@ -190,6 +191,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Women STEM Decadal Plan](https://www.science.org.au/files/userfiles/support/reports-and-plans/2019/gender-diversity-stem/women-in-STEM-decadal-plan-final.pdf), 
 [ATSE](https://www.atse.org.au/news-and-events/article/elevate-womens-leadership-in-stem-with-41-2-million-investment-by-the-australian-government/) includes Women in STEM grants.
+
+[NAWIC](https://nawic.com.au/) women in construction 
 
 [Indigenous Science](https://wellington.wgtn.ac.nz/solutions-in-indigenous-science/index.html)
 

@@ -134,7 +134,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 ### Awards
 [Queensland Museum Women in STEM](https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize#about)
-
+[WIT](https://wit.org.au/awards/) 30 May deadline + extension 
 
 ### Funding Schemes
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
@@ -150,6 +150,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Uni Melbourne online guide](https://students.unimelb.edu.au/student-support/international-student-support/support-services-for-remote-study/virtual-campus-good-practices)
 [Flags](https://www.hrc.org/resources/lgbtq-pride-flags)
 [Eu Map](https://www.ilga-europe.org/report/rainbow-europe-2023/)
+[IDAHOBIT](https://www.idahobit.org.au/shop/) cool shop
 
 [Gender Equity Stats QUT](https://app.powerbi.com/links/GjkHUolen8?ctid=dc0b52a3-68c5-44f7-881d-9383d8850b96&pbi_source=linkShare)
 

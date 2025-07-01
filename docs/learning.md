@@ -32,7 +32,7 @@
 [Kate Storrs](https://www.katestorrs.com/)
 [Brain registration](https://ftp.nmr.mgh.harvard.edu/pub/dist/freesurfer/tutorial_packages/centos6/fsl_507/doc/wiki/FNIRT(2f)UserGuide.html#Deformation_model)
 
-[Chlorine](https://www.ncbi.nlm.nih.gov/books/NBK557825/)
+[AcetylCholine](https://www.ncbi.nlm.nih.gov/books/NBK557825/)
 
 ### Datasets
 [Peak Emo](https://zenodo.org/record/6403363#.Y973z3ZBywc)

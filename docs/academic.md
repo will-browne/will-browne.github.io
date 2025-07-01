@@ -28,6 +28,8 @@
 
 [Colour Palette](https://www.simplifiedsciencepublishing.com/resources/best-color-palettes-for-scientific-figures-and-data-visualizations)
 
+[Connected Papers](https://www.connectedpapers.com/)
+
 ## Dataset / Repos
 [Neuroscience datasets](https://openneuro.org/)
 

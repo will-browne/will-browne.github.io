@@ -103,6 +103,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [QUT Student Support](https://www.qut.edu.au/study/student-life/support)
 [Recognising support is needed](https://qutvirtual4.qut.edu.au/group/qut/news?mode=VIEW&id=8830)
 
+[Early alert QUT](https://qutvirtual3.qut.edu.au/ords/qv/engage_referral_p.start_referral)
+
 [QUT On-line Media Repo](https://mediahub.qut.edu.au/user-media)
 [QUT Leadership program](https://qutvirtual4.qut.edu.au/group/staff/people/staff-development/developing-leadership-capability#h2-2)
 
@@ -172,6 +174,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Guidelines](https://cms.qut.edu.au/__data/assets/pdf_file/0008/477143/qut-guidelines-for-aboriginal-torres-strait-islander-terminology.pdf)
 [Equity, Diversity & Inclusion QCR](https://wiki.qut.edu.au/pages/viewpage.action?pageId=391493997) Portfolio leads 
+
+
 
 [ISSP Govn](https://www.niaa.gov.au/indigenous-affairs/education/indigenous-student-success-program), 
 [ISSP QUT](https://www.qut.edu.au/about/governance-and-policy/qut-indigenous-student-success-program-reporting)

@@ -140,6 +140,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Queensland Museum Women in STEM](https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize#about)
 [WIT](https://wit.org.au/awards/) 30 May deadline + extension 
 [Engineers Australia](https://engoftheyear.awardsplatform.com/) 1st July 
+[Women of colour in STEM awards](https://wocinstemawards.org/) 30th June
 
 ### Funding Schemes
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)

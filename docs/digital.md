@@ -138,6 +138,14 @@ Op# Digital domain
 [Julia Plots](https://www.geeksforgeeks.org/julia-working-with-matplotlibs-pyplot-class/)
 
 
+### Otter-grader
+[Tutorial](https://otter-grader.readthedocs.io/en/latest/tutorial.html), 
+[Documents PDF](https://otter-grader.readthedocs.io/_/downloads/en/latest/pdf/), 
+[Container image](https://otter-grader.readthedocs.io/en/latest/workflow/otter_generate/container_image.html)
+
+[Jupyter Con walk](https://www.youtube.com/watch?v=9_x532_2T2w), [Walk through repo](https://chrispyles.io/otter-grader-jupytercon-2023/lab/index.html)
+
+
 ### Examplars
 
 [Good PURE](https://research.monash.edu/en/persons/dana-kulic), 

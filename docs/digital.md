@@ -72,6 +72,8 @@ Op# Digital domain
 [Open Source Pictures](https://unsplash.com/s/photos/ramshackle-house) Big thank you for the landing page pictures :)
 [Scidraw](https://www.scidraw.io/) open source disagreeable elements, especially Psychology
 
+[Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/switch_transformers)
+
 [Carbon cpu/gpu calculator code](https://github.com/mlco2/codecarbon)
 
 [Air Server](https://www.airserver.com/WindowsDesktop)
@@ -80,7 +82,8 @@ Op# Digital domain
 
 [PlotJuggler](https://www.plotjuggler.io/) Data plotter, e.g. ROS 
 
-[DevOps](https://raygun.com/blog/best-devops-tools/) tools
+[DevOps](https://raygun.com/blog/best-devops-tools/) tools, 
+[DeepNote](https://deepnote.com/)
 
 [ChickenAPI for Nostale](https://github.com/BlowaXD/ChickenAPI)
 
@@ -120,6 +123,7 @@ Op# Digital domain
 [Anaconda](https://engineering.anaconda.com/2022/04/welcome-pyscript.html)
 
 [Python for Pi](https://realpython.com/python-raspberry-pi/), 
+[Python 'copy' issues](https://docs.python.org/3/library/copy.html), 
 [Jupyter displays](https://nbviewer.org/github/ipython/ipython/blob/1.x/examples/notebooks/Part%205%20-%20Rich%20Display%20System.ipynb), [Jupyter maths](https://jupyterbook.org/en/stable/content/math.html)
 
 [Android](https://developer.android.com/guide/topics/sensors/sensors_motion) developer

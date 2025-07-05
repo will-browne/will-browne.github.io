@@ -1,5 +1,7 @@
 # AI interesting stuff
 <!-- All things AI except robots -->
+
+[LLM Help](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models) 
 [Forbes AI +s 2023](https://www.forbes.com/advisor/in/business/software/advantages-of-ai/#:~:text=Automates%20Repetitive%20Tasks%20and%20Processes,tasks%20which%20require%20human%20abilities.)
 
 [NIST AI](https://www.nist.gov/artificial-intelligence)

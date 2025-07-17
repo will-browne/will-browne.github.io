@@ -38,6 +38,8 @@
 
 [Social networks] (https://www.psypost.org/scientists-find-brains-social-network-taps-into-ancient-emotional-core/) 
 
+[Amygdala in Decision Making](https://medicalxpress.com/news/2025-06-brain-links-unrelated-events-insights.html#Google vignette) 
+
 ### Datasets
 [Peak Emo](https://zenodo.org/record/6403363#.Y973z3ZBywc)
 
@@ -54,3 +56,4 @@
 
 ## Papers
 [AlphaEvolve](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
+[Illusion of Thinking]() 

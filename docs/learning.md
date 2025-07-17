@@ -40,6 +40,14 @@
 
 [Amygdala in Decision Making](https://medicalxpress.com/news/2025-06-brain-links-unrelated-events-insights.html#Google vignette) 
 
+[Language acquisition] (https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00142-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661325001421%3Fshowall%3D true) 
+
+[Acquisition of memory](https://medicalxpress.com/news/2025-06-hippocampal-cells-synaptic-plasticity-contribute.html#Google vignette) 
+
+[Hippocampal rewards](https://www.nature.com/articles/s41593-025-01985-4) 
+
+[Pretraining helps behavior learning](https://www.nature.com/articles/s42256-025-01029-3) 
+
 ### Datasets
 [Peak Emo](https://zenodo.org/record/6403363#.Y973z3ZBywc)
 

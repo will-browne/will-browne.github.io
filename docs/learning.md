@@ -34,6 +34,8 @@
 
 [AcetylCholine](https://www.ncbi.nlm.nih.gov/books/NBK557825/)
 
+[Brain coordination](https://medicalxpress.com/news/2025-01-brain-networks-play-key-role.html) 
+
 ### Datasets
 [Peak Emo](https://zenodo.org/record/6403363#.Y973z3ZBywc)
 

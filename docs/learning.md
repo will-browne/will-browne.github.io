@@ -36,6 +36,8 @@
 
 [Brain coordination](https://medicalxpress.com/news/2025-01-brain-networks-play-key-role.html) 
 
+[Social networks] (https://www.psypost.org/scientists-find-brains-social-network-taps-into-ancient-emotional-core/) 
+
 ### Datasets
 [Peak Emo](https://zenodo.org/record/6403363#.Y973z3ZBywc)
 

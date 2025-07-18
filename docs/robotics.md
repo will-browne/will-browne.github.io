@@ -7,6 +7,8 @@
 
 [Aus Robots](https://roboausnet.com.au/about/)
 
+[Rodney Brooke's 3 laws](https://rodneybrooks.com/rodney-brooks-three-laws-of-robotics/) 
+
 [RUR Paper](https://www.gutenberg.org/cache/epub/59112/pg59112-images.html)
 
 [Robotic welding paths](https://www.sciencedirect.com/science/article/abs/pii/S1526612520303078) 

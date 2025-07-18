@@ -8,6 +8,8 @@
 
 [Abductive reasoning](https://bdtechtalks.com/2021/09/20/myth-of-artificial-intelligence-erik-larson/)
 
+[Toddler learning](https://neurosciencenews.com/ai-toddler-learning-28382/) 
+
 [AI Myths](https://www.aimyths.org/ai-has-agency)
 
 [Nutrition labels](https://nutrition-facts.ai/)

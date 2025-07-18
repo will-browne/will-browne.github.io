@@ -28,6 +28,8 @@
 [Jeff Krichmar](http://www.socsci.uci.edu/~jkrichma/publications.html) Anteater Lab
 [Rhythms of the Brain](https://neurophysics.ucsd.edu/courses/physics_171/Buzsaki%20G.%20Rhythms%20of%20the%20brain.pdf)
 
+[Hippocampal learning](https://www.nature.com/articles/s41593-025-02005-1) 
+
 [Charles Gallistel](https://psych.rutgers.edu/faculty-profiles-a-contacts/96-charles-randy-gallistel) memory in mice, 
 [Kate Storrs](https://www.katestorrs.com/)
 [Brain registration](https://ftp.nmr.mgh.harvard.edu/pub/dist/freesurfer/tutorial_packages/centos6/fsl_507/doc/wiki/FNIRT(2f)UserGuide.html#Deformation_model)

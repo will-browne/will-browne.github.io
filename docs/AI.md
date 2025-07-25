@@ -3,6 +3,7 @@
 
 [LLM Help](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models) 
 [Forbes AI +s 2023](https://www.forbes.com/advisor/in/business/software/advantages-of-ai/#:~:text=Automates%20Repetitive%20Tasks%20and%20Processes,tasks%20which%20require%20human%20abilities.)
+[Yann AI Robots](https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/), 
 
 [NIST AI](https://www.nist.gov/artificial-intelligence)
 

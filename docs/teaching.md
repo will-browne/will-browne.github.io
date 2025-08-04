@@ -235,6 +235,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Politically Correct terms](https://ncdj.org/style-guide/)
 
+[Creating Equitable STEM environments](https://www.thegist.edu.au/educators/create-inclusive-classrooms/7-principles-for-inclusive-learning-environments/)
+
 [Academic Housekeeping](https://kifinfo.no/en/2024/03/women-end-doing-academic-housework)
 
 [Building better men QUT](https://www.qut.edu.au/news/realfocus/building-better-men)

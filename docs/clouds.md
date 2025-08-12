@@ -12,6 +12,7 @@
 
 [EER SharePoint](https://connectqutedu.sharepoint.com/teams/FOE_GE_SchoolofElectricalEngineeringandRobotics)
 
+
 ### EER
 [Retreat Attendance 2023](https://connectqutedu-my.sharepoint.com/:x:/r/personal/brownew_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B2C81AE97-9EA9-48EB-A510-38E3BF425B6D%7D&file=RSVP%27s%20as%20of%202%20November.xlsx&action=default&mobileredirect=true)
 [Account codes](https://qutvirtual4.qut.edu.au/group/staff/finance/accounting/chart-of-accounts/account/expenses/non-salary-expenses)
@@ -19,6 +20,8 @@
 
 ### QCR
 [Michael Hints](https://connectqutedu.sharepoint.com/:w:/r/teams/msteams_751e6e/_layouts/15/Doc.aspx?sourcedoc=%7BCD6628F0-D612-4ECC-A5A6-1153A22C9134%7D&file=Lifestyle%20Crafting.docx&fromShare=true&action=default&mobileredirect=true)
+
+[Huddle slides link](https://qut.atlassian.net/wiki/spaces/cyphy/pages/356749808/Robotics+Huddle) 
 
 ### Funding
 [QUT successful grants](https://docs.google.com/spreadsheets/d/19r1Fhq6EGDBbS-KSgvlukmhpgrwjWY7fhAkf0s2AWLY/edit?gid=590813268#gid=590813268)

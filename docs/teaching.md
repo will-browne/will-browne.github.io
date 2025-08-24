@@ -259,6 +259,9 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Melbourne LGBTQA+ survey](https://unistudentwellbeing.edu.au/uni-student-wellbeing-research-hub-events/)
 
+[What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How No to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
+
+
 ### Online mental health help
 
 [This Way Up](https://thiswayup.org.au/) free on-line assessment on how to improve your feelings

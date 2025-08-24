@@ -113,6 +113,7 @@ Op# Digital domain
 
 [Obsidian overview](https://www.youtube.com/live/DbsAQSIKQXk) 
 [Obsidian drawing](https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367)
+[Obsidian GIT](https://publish.obsidian.md/git-doc/Start+here)
 
 [Canva](https://www.canva.com/en_au/login/), [Adobe AI editing](https://new.express.adobe.com/id/urn:aaid:sc:AP:b09f740e-de2d-40f4-9c43-4e69341bd836?category=search&q=remove)
 

@@ -75,6 +75,7 @@ Op# Digital domain
 [Scidraw](https://www.scidraw.io/) open source disagreeable elements, especially Psychology
 
 [Hugging Face](https://huggingface.co/docs/transformers/en/model_doc/switch_transformers)
+[SpaCy tokenizer](https://ashutoshtripathi.com/2020/04/06/guide-to-tokenization-lemmatization-stop-words-and-phrase-matching-using-spacy/)
 
 [Carbon cpu/gpu calculator code](https://github.com/mlco2/codecarbon)
 

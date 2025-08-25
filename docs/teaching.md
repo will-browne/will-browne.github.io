@@ -161,6 +161,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Gender Equity Stats QUT](https://app.powerbi.com/links/GjkHUolen8?ctid=dc0b52a3-68c5-44f7-881d-9383d8850b96&pbi_source=linkShare)
 
 ### Indigenous matters
+[Indijicorp](https://indijicorp.com/services/)
 [Eel traps](https://www.uts.edu.au/news/culture-sport/traps-rites-and-kurrajong-twine)
 [The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
 [Care stories](https://www.youtube.com/user/PEPAPALLCARE)

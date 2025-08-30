@@ -121,7 +121,8 @@ Op# Digital domain
 
 [Napkin AI](https://www.napkin.ai/) for visualising text
 
-[Copilot](https://m365.cloud.microsoft/chat?auth=2)
+[Copilot](https://m365.cloud.microsoft/chat?auth=2), 
+[CoPilot help in VSCode](https://code.visualstudio.com/docs/copilot/reference/workspace-context#_basic-index)
 
 ### Coding
 [Pixi](https://github.com/prefix-dev/pixi) package manager for Conda / python

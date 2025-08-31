@@ -124,6 +124,9 @@ Op# Digital domain
 [Copilot](https://m365.cloud.microsoft/chat?auth=2), 
 [CoPilot help in VSCode](https://code.visualstudio.com/docs/copilot/reference/workspace-context#_basic-index)
 
+### GITs
+[Giovanni's Byron system](https://github.com/cad-polito-it/byron/blob/alpha/README.md)
+
 ### Coding
 [Pixi](https://github.com/prefix-dev/pixi) package manager for Conda / python
 

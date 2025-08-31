@@ -60,7 +60,7 @@
 
 [Heider grant](https://uniaugsburg-my.sharepoint.com/:w:/g/personal/michael_heider_uni-a_de/ERXP1F25v65EqROdFfmQjd4BxqfdPHoq0iXL6Lf1kht_8Q?rtime=A-iQmtKR3Ug)
 
-[Templeton grant](https://connectqutedu-my.sharepoint.com/:w:/r/personal/franzea_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B982104D6-0D56-4EEC-8031-B2C4C0152800%7D&file=Templeton_OFI_and_CaseForSupport_AFand%20WB_ORS%20Review%2004082025.docx&fromShare=true&action=default&mobileredirect=true
+[Templeton grant](https://connectqutedu-my.sharepoint.com/:w:/r/personal/franzea_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B982104D6-0D56-4EEC-8031-B2C4C0152800%7D&file=Templeton_OFI_and_CaseForSupport_AFand%20WB_ORS%20Review%2004082025.docx&fromShare=true&action=default&mobileredirect=true)
 
 ### HDRs
 

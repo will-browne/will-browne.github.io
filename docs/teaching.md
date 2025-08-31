@@ -270,6 +270,10 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Racial micro-aggressions](https://othersociologist.com/2017/07/15/where-are-you-from-racial-microaggressions/), 
 [All together now](https://alltogethernow.org.au/), 
 [Invisible Knapsack](https://admin.artsci.washington.edu/sites/adming/files/unpacking-invisible-knapsack.pdf), 
+[Reimaging Australia](https://www.uwa.edu.au/institutes/public-policy/-/media/Public-Policy/Documents/Reimagining-Australia--Migration-culture-diversity.pdf)
+[Family matters](https://www.snaicc.org.au/resources/family-matters-report-2023/)
+[Human rights](https://www.ohchr.org/en/core-international-human-rights-instruments-and-their-monitoring-bodies), [that Australia has signed](https://www.ruleoflaw.org.au/education/human-rights/treaties/), 
+[Gari Yala](https://www.uts.edu.au/about/faculties/business/research/centre-for-indigenous-people-and-work-cipw) CIPW UTS, 
 
 
 

@@ -262,6 +262,17 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How No to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
 
+### Anti-racism
+[Vic bystander vid](https://www.youtube.com/watch?v=2hzcHNiLoao), [Aboriginal and Torres Strait Islander campaigns](https://www.changetherecord.org.au/), 
+[Australian Humans Rights Commission talk guide](https://humanrights.gov.au/our-work/race-discrimination/publications/lets-talk-race-guide-how-conduct-conversations-about)
+[Racism. It Stops with me](https://itstopswithme.humanrights.gov.au/), 
+[Ask about ethinicity?](https://www.theguardian.com/commentisfree/2023/sep/02/when-is-it-ok-for-white-people-to-ask-about-other-peoples-ethnicity), 
+[Racial micro-aggressions](https://othersociologist.com/2017/07/15/where-are-you-from-racial-microaggressions/), 
+[All together now](https://alltogethernow.org.au/), 
+[Invisible Knapsack](https://admin.artsci.washington.edu/sites/adming/files/unpacking-invisible-knapsack.pdf), 
+
+
+
 
 ### Online mental health help
 
@@ -288,6 +299,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Black dog](https://www.blackdoginstitute.org.au/education-services/webinars/upcoming-community-webinars/) news, webinars, resources and education.
 
 [Mental Health in the workspace](https://humanrights.gov.au/our-work/1-mental-health-workplace#:~:text=A%20total%20of%203.2%20days,year%20for%20stress%2Drelated%20reasons) resources for employers.
+
+[Aboriginal and Torres Strait Islander specific: 13 Yarn](https://www.13yarn.org.au/)
 
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)

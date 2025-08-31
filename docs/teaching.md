@@ -262,7 +262,11 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How No to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
 
+[Unconscious Bias, Royal Society](https://www.youtube.com/watch?v=dVp9Z5k0dEE)
+
 ### Anti-racism
+[National Racism Study](https://humanrights.gov.au/our-work/race-discrimination/projects/national-anti-racism-framework), 
+
 [Vic bystander vid](https://www.youtube.com/watch?v=2hzcHNiLoao), [Aboriginal and Torres Strait Islander campaigns](https://www.changetherecord.org.au/), 
 [Australian Humans Rights Commission talk guide](https://humanrights.gov.au/our-work/race-discrimination/publications/lets-talk-race-guide-how-conduct-conversations-about)
 [Racism. It Stops with me](https://itstopswithme.humanrights.gov.au/), 
@@ -274,8 +278,10 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Family matters](https://www.snaicc.org.au/resources/family-matters-report-2023/)
 [Human rights](https://www.ohchr.org/en/core-international-human-rights-instruments-and-their-monitoring-bodies), [that Australia has signed](https://www.ruleoflaw.org.au/education/human-rights/treaties/), 
 [Gari Yala](https://www.uts.edu.au/about/faculties/business/research/centre-for-indigenous-people-and-work-cipw) CIPW UTS, 
-
-
+[Racism, no way](https://racismnoway.com.au/about-racism/timeline/), 
+[Immigration timeline](https://museumsvictoria.com.au/immigrationmuseum/resources/identity/timeline), 
+[Stolen Generation](https://bth.humanrights.gov.au/significance/historical-context-the-stolen-generations), 
+[Stronger, smarter](https://strongersmarter.com.au/) indigenous group, 
 
 
 ### Online mental health help

@@ -195,6 +195,7 @@
 
 [Gaussian Real2Sim](https://embodied-gaussians.github.io/) Jad's awesome work
 
+[ChArUco grids](https://docs.opencv.org/3.4/df/d4a/tutorial_charuco_detection.html)
 
 ### NZ
 

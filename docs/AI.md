@@ -137,6 +137,8 @@
 
 [Matt Mitchell](https://experts.swinburne.edu.au/909-matthew-mitchell)
 
+[Ray Solomonoff](https://raysolomonoff.com/publications/pubs.html)
+
 ### Reinforcement Learning
 [Rich Sutton Slides](https://slideplayer.com/slide/2403698/), 
 [RL Benchmarks](https://neptune.ai/blog/best-benchmarks-for-reinforcement-learning)

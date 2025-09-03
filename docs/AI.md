@@ -29,8 +29,11 @@
 [PGA MAP-Elites](https://github.com/ollenilsson19/PGA-MAP-Elites)
 
 [DreamCoder](https://arxiv.org/pdf/2006.08381.pdf), [DALL-E2](https://openai.com/dall-e-2/#demos), 
-[Dream Studio](https://beta.dreamstudio.ai/dream)
-[Kolmogorov-Arnold Networks](https://spectrum.ieee.org/kan-neural-network?utm_source=techalert&utm_medium=email&utm_campaign=techalert-08-08-24&utm_content=httpsspectrumieeeorgkanneuralnetwork&mkt_tok=NzU2LUdQSC04OTkAAAGUzkKgIGLphc2k-Qr1eyzssmrwEpn_vPi5YVu2fQjwC4o3aaiLeE8OFEHSzh0IwyRQv9-7giO5KVLX6YiJ6O_GYcaJNF25BeheEOeHUZy-zG-j)
+[Dream Studio](https://beta.dreamstudio.ai/dream), 
+
+[Kolmogorov-Arnold Networks](https://spectrum.ieee.org/kan-neural-network?utm_source=techalert&utm_medium=email&utm_campaign=techalert-08-08-24&utm_content=httpsspectrumieeeorgkanneuralnetwork&mkt_tok=NzU2LUdQSC04OTkAAAGUzkKgIGLphc2k-Qr1eyzssmrwEpn_vPi5YVu2fQjwC4o3aaiLeE8OFEHSzh0IwyRQv9-7giO5KVLX6YiJ6O_GYcaJNF25BeheEOeHUZy-zG-j), 
+[Algorithmic information theory](https://www.hutter1.net/ait.htm#ray)
+
 
 [DSL Domain Specific Language](https://towardsdatascience.com/on-the-importance-of-dsls-in-ml-and-ai-1dbccb3a2916)
 

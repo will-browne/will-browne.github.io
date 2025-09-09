@@ -62,6 +62,9 @@
 
 [Templeton grant](https://connectqutedu-my.sharepoint.com/:w:/r/personal/franzea_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B982104D6-0D56-4EEC-8031-B2C4C0152800%7D&file=Templeton_OFI_and_CaseForSupport_AFand%20WB_ORS%20Review%2004082025.docx&fromShare=true&action=default&mobileredirect=true)
 
+### Research
+[Clinical trials SOP](https://qutvirtual4.qut.edu.au/group/staff/research/conducting/ethics-and-integrity/clinical-trials/standard-operating-procedures)
+
 ### HDRs
 
 [Tjeard Experiments](https://docs.google.com/spreadsheets/d/1k-EG-TKeO460KJTK-CJXfhsiwYf3HSaP2Z-zaKPUnh4/edit#gid=0), 

@@ -199,9 +199,12 @@
 
 ### NZ
 
-[Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro)
-[CARES](https://github.com/UoA-CARES/cares_description)
-[SFTI Robotics](https://github.com/SfTI-Robotic)
+[Maraatech](https://github.com/maraatech/archie_jnr/blob/urdf-setup/archie_jnr_description/urdf/archie_robot.xacro), 
+[CARES](https://github.com/UoA-CARES/cares_description), 
+[SFTI Robotics](https://github.com/SfTI-Robotic), 
+[SFTI Video](https://www.youtube.com/watch?v=s73Gm1sH1Hc&t=373s), [SfTI summary](https://lincolnagritech.co.nz/our-science/the-issues/productivity/robotics-research-strengthens-relationships/)
+
+
 
 ## Robots!
 [Kauda](https://blog.arduino.cc/2020/09/16/kauda-is-a-low-cost-highly-efficient-robotic-arm/) Cheap 3d printed arm, 

@@ -1,7 +1,8 @@
 # AI interesting stuff
 <!-- All things AI except robots -->
 
-[Definition of TRUST](https://www.politybooks.com/bookdetail?book_slug=trust-and-power--9781509519453)
+[Definition of Trust](https://www.politybooks.com/bookdetail?book_slug=trust-and-power--9781509519453),
+[Agentic Ai issuses](https://www.infosys.com/iki/research/responsible-enterprise-ai-agentic.html)
 
 [LLM Help](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models) 
 [Forbes AI +s 2023](https://www.forbes.com/advisor/in/business/software/advantages-of-ai/#:~:text=Automates%20Repetitive%20Tasks%20and%20Processes,tasks%20which%20require%20human%20abilities.)

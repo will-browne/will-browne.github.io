@@ -139,6 +139,8 @@
 
 [Ray Solomonoff](https://raysolomonoff.com/publications/pubs.html)
 
+[Michael Bennett - consciousness](https://michaeltimothybennett.com/)
+
 ### Reinforcement Learning
 [Rich Sutton Slides](https://slideplayer.com/slide/2403698/), 
 [RL Benchmarks](https://neptune.ai/blog/best-benchmarks-for-reinforcement-learning)

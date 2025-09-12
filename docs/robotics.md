@@ -130,6 +130,7 @@
 [SDK for RPLidar](https://github.com/Slamtec/rplidar_sdk/blob/master/README.md), 
 [Datasheets](https://www.slamtec.com/en/Support#rplidar-a-series), 
 
+[Soft robotics](https://softroboticstoolkit.com/resources-for-educators) 
 
 [Power distribution boards](https://holybro.com/products/power-distribution-board-pdb)
 

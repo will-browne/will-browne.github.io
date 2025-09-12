@@ -35,7 +35,9 @@
 
 [VTA Variation of appointments](https://qutvirtual4.qut.edu.au/group/staff/people/supervising-staff/appointing-staff/variations)
 
-[CAB320 Norvig Git](https://github.com/aimacode/aima-python/blob/master/README.md)
+[CAB320 Norvig Git](https://github.com/aimacode/aima-python/blob/master/README.md),
+
+[Rubric AI helper](https://connectqutedu.sharepoint.com/sites/AcademicDivision/SitePages/QUT-Rubric-Builder-(new-AI-tool-for-academics).aspx?CT=1757041788607&OR=OWA-NT-Mail&CID=6ddf43b0-6d6e-44df-6b21-c0f70365f5fe)
 
 ### VRES
 [Portal](https://cms.qut.edu.au/utilities/tools/student-topics/add-a-vres-student-topic-or-project?)
@@ -272,6 +274,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 ### Micro-aggressions
 [Micro-aggressions](https://www.rpharms.com/recognition/inclusion-diversity/microaggressions/gender), [Poster](https://entomology.wisc.edu/wp-content/uploads/sites/254/2020/09/Entomology-Department-Values-Visual.pdf)
 [What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How Not to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
+[Reading list](https://www.mendeley.com/reference-manager/library/groups/private/876a0193-5e6a-33d0-9476-be7cc6bcc827/all-references/)
 
 ### Group work
 [QUT](https://www.teamlearning.qut.edu.au/modules/successful_teams/intro3.jsp) Missing video links, mostly new students straight from high-school, 

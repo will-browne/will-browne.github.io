@@ -255,14 +255,22 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Neurodiversity Hub at QUT](https://unihub.qut.edu.au/students/events?page=1&studentSiteId=1&text=neuroinclusion)
 
 [Simple career plan](https://www.robertsoncollege.com/blog/career-advice/why-its-important-to-create-a-career-development-plan/)
-
-[Micro-aggressions](https://www.rpharms.com/recognition/inclusion-diversity/microaggressions/gender), [Poster](https://entomology.wisc.edu/wp-content/uploads/sites/254/2020/09/Entomology-Department-Values-Visual.pdf)
+[Unconscious Bias, Royal Society](https://www.youtube.com/watch?v=dVp9Z5k0dEE)
 
 [Melbourne LGBTQA+ survey](https://unistudentwellbeing.edu.au/uni-student-wellbeing-research-hub-events/)
 
-[What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How No to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
+## S9 Help
 
-[Unconscious Bias, Royal Society](https://www.youtube.com/watch?v=dVp9Z5k0dEE)
+### Micro-aggressions
+[Micro-aggressions](https://www.rpharms.com/recognition/inclusion-diversity/microaggressions/gender), [Poster](https://entomology.wisc.edu/wp-content/uploads/sites/254/2020/09/Entomology-Department-Values-Visual.pdf)
+[What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How Not to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
+
+### Group work
+[QUT](https://www.teamlearning.qut.edu.au/modules/successful_teams/intro3.jsp) Missing video links, mostly new students straight from high-school
+[Monash](https://www.monash.edu/it/current-students/resources-and-support/guidelines-for-student-work-group-work) Short and useful webpage
+[UNSW](https://www.student.unsw.edu.au/groupwork)Comprehensive webpage with useful checklist
+[Adelaide](https://www.adelaide.edu.au/learning/resources-for-educators/teaching-resources#group-work-good-practice)For academics and unreachable link for outsiders
+[Adelaide pdf](https://www.adelaide.edu.au/writingcentre/ua/media/81/learningGuide_groupWork.pdf)Student focused 4 page with links (some need wayback machine)
 
 ### Anti-racism
 [National Racism Study](https://humanrights.gov.au/our-work/race-discrimination/projects/national-anti-racism-framework), 
@@ -314,7 +322,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 ### People
 [Gauai Wallace](https://www.linkedin.com/in/gauai-wallace-5a5991242/?originalSubdomain=au)
-TRacy's stand-in Annah Piggott-McKellar, a.piggottmckellar@qut.edu.au
+Tr will acy's stand-in Annah Piggott-McKellar, a.piggottmckellar@qut.edu.au
 
 [Gene Kranz Apollo quotes](https://www.bookey.app/quote-author/gene-kranz)
 

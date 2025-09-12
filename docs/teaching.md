@@ -93,6 +93,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Structural Equation Modelling](https://www.youtube.com/watch?v=OabNYoXsu2M)
 
+[Multipliers leadership book](https://thewisemangroup.com/books/multipliers/)
+
 ## Doctoral
 [PhD codes](https://www.abs.gov.au/ausstats/abs@.nsf/0/53B75DFA4C63C20ACA256AAF001FCA6F?opendocument)
 [High cost codes](https://heimshelp.dese.gov.au/resources/reports/HDR-Course-Completions-Detailed-Report)
@@ -123,6 +125,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 ## Course support
 
+[Sessionals levels](https://connectqutedu.sharepoint.com/teams/FOE_TM_FacultyAdminOperations/Lists/FoE%20Sessional%20Academic%20EOI/AllItems.aspx?sortField=LinkTitle&isAscending=true&viewid=e4770349%2D9f55%2D4f17%2Da1b6%2D2bd1c6bb3ab3&CT=1739081963955&OR=OWA%2DNT%2DMail&CID=f660d319%2Df3be%2D7487%2D4aa2%2D1321020a6e9f)
+
 ### Technical
 [Class Photo list](https://qutvirtual4.qut.edu.au/group/staff/student-support/student-admin/class-scheduling/class-management-for-academics/creating-and-printing-activity-class-lists#h2-1)
 
@@ -132,7 +136,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [REA Student competitions](https://store.rea.org.au/)
 
 ### Capstones
-[Stroke clubs](https://strokefoundation.org.au/about-stroke/life-after-stroke/help-after-stroke/support-near-you)
+[Stroke clubs](https://strokefoundation.org.au/about-stroke/life-after-stroke/help-after-stroke/support-near-you), 
+[Quill](https://quill.csds.qld.edu.au/)
 
 ## ALDD
 

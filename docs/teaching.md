@@ -269,11 +269,13 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How Not to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
 
 ### Group work
-[QUT](https://www.teamlearning.qut.edu.au/modules/successful_teams/intro3.jsp) Missing video links, mostly new students straight from high-school
-[Monash](https://www.monash.edu/it/current-students/resources-and-support/guidelines-for-student-work-group-work) Short and useful webpage
-[UNSW](https://www.student.unsw.edu.au/groupwork)Comprehensive webpage with useful checklist
-[Adelaide](https://www.adelaide.edu.au/learning/resources-for-educators/teaching-resources#group-work-good-practice)For academics and unreachable link for outsiders
+[QUT](https://www.teamlearning.qut.edu.au/modules/successful_teams/intro3.jsp) Missing video links, mostly new students straight from high-school, 
+[Monash](https://www.monash.edu/it/current-students/resources-and-support/guidelines-for-student-work-group-work) Short and useful webpage, 
+[UNSW](https://www.student.unsw.edu.au/groupwork) Comprehensive webpage with useful checklist, 
+[part 2](https://www.unsw.edu.au/student/managing-your-studies/academic-skills-support/toolkit/class/group-work), 
+[Adelaide](https://www.adelaide.edu.au/learning/resources-for-educators/teaching-resources#group-work-good-practice) For academics and unreachable link for outsiders, 
 [Adelaide pdf](https://www.adelaide.edu.au/writingcentre/ua/media/81/learningGuide_groupWork.pdf)Student focused 4 page with links (some need wayback machine)
+
 
 ### Anti-racism
 [National Racism Study](https://humanrights.gov.au/our-work/race-discrimination/projects/national-anti-racism-framework), 

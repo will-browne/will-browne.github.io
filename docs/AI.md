@@ -4,6 +4,8 @@
 [Definition of Trust](https://www.politybooks.com/bookdetail?book_slug=trust-and-power--9781509519453),
 [Agentic Ai issuses](https://www.infosys.com/iki/research/responsible-enterprise-ai-agentic.html)
 
+[AU AI policy](https://www.digital.gov.au/policy/ai/AI-technical-standard)
+
 [LLM Help](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models) 
 [Forbes AI +s 2023](https://www.forbes.com/advisor/in/business/software/advantages-of-ai/#:~:text=Automates%20Repetitive%20Tasks%20and%20Processes,tasks%20which%20require%20human%20abilities.)
 [Yann AI Robots](https://techcrunch.com/2025/01/23/metas-yann-lecun-predicts-a-new-ai-architectures-paradigm-within-5-years-and-decade-of-robotics/), 

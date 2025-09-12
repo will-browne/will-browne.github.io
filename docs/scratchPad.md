@@ -3,7 +3,7 @@
 
 # Funding
 ## Hints & Tips
-[Story(https://www.nature.com/articles/d41586-023-01881-6) 
+[Story](https://www.nature.com/articles/d41586-023-01881-6) 
 
 ## QUT Details
 [Financial Portal](https://qcr3.qut.edu.au/ords/qcr/FIN_PORTAL.page)
@@ -30,6 +30,8 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 [National Science Statement](https://www.industry.gov.au/news/national-science-statement-and-priorities-vital-our-future-economy?utm_source=IGA%20Newsletter&utm_medium=Email&utm_campaign=DiSTEM%20updates)
 
 [Grant FoR numbers](https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-research-classification-anzsrc/latest-release)
+
+[HEPPP Funding ](https://www.education.gov.au/heppp)
 
 ## DP
 [Montessori boards](https://reachformontessori.com/montessori-touch-boards-explanation-and-presentation/)

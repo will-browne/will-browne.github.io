@@ -176,6 +176,9 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Decolonisation of education](https://www.taylorfrancis.com/reader/download/b4687294-011e-494c-a2ea-4ef8b0c3b27c/chapter/pdf?context=ubx)
 
+[Country/land meaning](https://www.creativespirits.info/aboriginalculture/land/meaning-of-land-to-aboriginal-people), 
+[Welcome vs Acknowledge](https://www.reconciliation.org.au/reconciliation/acknowledgement-of-country-and-welcome-to-country/)
+
 ### General
 [Promotions club shared drive](https://connectqutedu-my.sharepoint.com/personal/washintl_qut_edu_au/_layouts/15/onedrive.aspx?ct=1652084658201&or=OWA%2DNT&cid=c4eab5c0%2Dbfd2%2D9da3%2D07ce%2Db2506561d2ca&ga=1&id=%2Fpersonal%2Fwashintl%5Fqut%5Fedu%5Fau%2FDocuments%2FFoE%20Promotion%20Club%2FD%5FE%20Promotion%20Club%2FAcademic%20Profile%20Optimisation) Tracy Washington, 
 [Academic Performance Indicators QUT FoE](https://connectqutedu.sharepoint.com/sites/FacultyofEngineering/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office%2FFoE%2DAcademic%20Performance%20Indicators%5F20231121%5FFIN%2Epdf&parent=%2Fsites%2FFacultyofEngineering%2FShared%20Documents%2FExecutive%20Dean%27s%20Office)

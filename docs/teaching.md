@@ -171,7 +171,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 ### Indigenous matters
 [Indijicorp](https://indijicorp.com/services/)
-[Eel traps](https://www.uts.edu.au/news/culture-sport/traps-rites-and-kurrajong-twine)
+[Eel traps](https://www.uts.edu.au/news/culture-sport/traps-rites-and-kurrajong-twine), [First inventors](https://www.sbs.com.au/ondemand/tv-series/the-first-inventors)
+
 [The Black Card](https://www.theblackcard.com.au/cultural-capability-program/) Indigenous tours and courses
 [Care stories](https://www.youtube.com/user/PEPAPALLCARE)
 [Indigenous Leadership](https://www.dca.org.au/news/blog/lessons-from-first-nations-leadership?at_context=199&_cldee=FmAIS_BdNOlt0plWMEnHo0C1vlCVzoJ3eavq49vGOh67tzC7WIRzT1eD3NUSBgO6&recipientid=contact-d016feba6e4cee11be6f00224811e69c-fe67dd5e46914de3b482c09164513162&utm_source=ClickDimensions&utm_medium=email&utm_campaign=Inclusion%20Matters%202024&esid=101bf9a0-8e95-ef11-8a69-6045bdc3f33e), 

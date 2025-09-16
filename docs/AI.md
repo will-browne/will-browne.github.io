@@ -2,7 +2,8 @@
 <!-- All things AI except robots -->
 
 [Definition of Trust](https://www.politybooks.com/bookdetail?book_slug=trust-and-power--9781509519453),
-[Agentic Ai issuses](https://www.infosys.com/iki/research/responsible-enterprise-ai-agentic.html)
+[Agentic Ai issuses](https://www.infosys.com/iki/research/responsible-enterprise-ai-agentic.html),
+[CSIRO ROI AI](https://www.csiro.au/en/research/technology-space/ai/how-to-choose-and-invest-in-the-right-ai-projects)
 
 [AU AI policy](https://www.digital.gov.au/policy/ai/AI-technical-standard)
 

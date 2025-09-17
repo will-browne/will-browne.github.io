@@ -118,6 +118,7 @@ Op# Digital domain
 [F-Droid, Markor to Access files in `/storage/emulated/0/Android/data/md.obsidian/files`](https://forum.obsidian.md/t/some-third-party-apps-file-managers-are-able-to-access-the-vault-in-obsidians-app-specific-folder/99969/6)
 
 [Canva](https://www.canva.com/en_au/login/), [Adobe AI editing](https://new.express.adobe.com/id/urn:aaid:sc:AP:b09f740e-de2d-40f4-9c43-4e69341bd836?category=search&q=remove)
+[Colorblind pallette](https://davidmathlogic.com/colorblind/#%23332288-%23117733-%2344AA99-%2388CCEE-%23DDCC77-%23CC6677-%23AA4499-%23882255)
 
 [Napkin AI](https://www.napkin.ai/) for visualising text
 

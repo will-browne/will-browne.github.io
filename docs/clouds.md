@@ -4,7 +4,7 @@
 ### Capstones
 [Spines](https://connectqutedu-my.sharepoint.com/personal/browncp_qut_edu_au/_layouts/15/onedrive.aspx?e=5%3A4f95fedaeb8645ec88e7453b556f011e&sharingv2=true&fromShare=true&at=9&CT=1710542863623&OR=OWA%2DNT%2DMail&CID=3be58cf6%2D7bf9%2D663c%2D2e0f%2D11f6dedf82b2&id=%2Fpersonal%2Fbrowncp%5Fqut%5Fedu%5Fau%2FDocuments%2FFinal%5FYear%5FProjects%2F2024%2D1%2FSurgical%5FRobotics&FolderCTID=0x0120000FA198C38CF09D4095AAB1B7DF6DAC1E&view=0)
 [Temi Survey 1](https://docs.google.com/forms/d/10apzzP6xkl_On9Coz60rvjTesoEMYlIj6r1sl87cRPU/edit?ts=672a162c&pli=1), [& 2](https://docs.google.com/forms/d/1BtMDVOEqxBPo_y9VpSgOCVM3_PzhUYcRYlJDo4b-Xt8/edit?ts=672a1641)
-[Remi Kyron](https://onedrive.live.com/?authkey=%21APemRfNdjDJXLh8&id=937DFB31D2E35B7A%21355964&cid=937DFB31D2E35B7A)
+[Temi - Kyron](https://onedrive.live.com/?authkey=%21APemRfNdjDJXLh8&id=937DFB31D2E35B7A%21355964&cid=937DFB31D2E35B7A)
 
 
 ### ALDD
@@ -12,6 +12,8 @@
 
 [EER SharePoint](https://connectqutedu.sharepoint.com/teams/FOE_GE_SchoolofElectricalEngineeringandRobotics)
 
+### Equity
+[FoE Equity Committee sharepoint](https://connectqutedu.sharepoint.com/teams/FOE_COM_FoEEquityCommittee)
 
 ### EER
 [Retreat Attendance 2023](https://connectqutedu-my.sharepoint.com/:x:/r/personal/brownew_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B2C81AE97-9EA9-48EB-A510-38E3BF425B6D%7D&file=RSVP%27s%20as%20of%202%20November.xlsx&action=default&mobileredirect=true)

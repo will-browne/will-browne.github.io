@@ -246,4 +246,6 @@
 
 [Riddhi J. Pitliya](https://scholar.google.com/citations?hl=en&user=bgahggcAAAAJ&view_op=list_works&sortby=pubdate)
 
+[Astro Teller](https://www.astroteller.net/writing)
+
 

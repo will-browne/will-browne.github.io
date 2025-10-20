@@ -69,6 +69,8 @@
 
 [Humanoid ITRH Jon](https://connectqutedu-my.sharepoint.com/personal/robertj4_qut_edu_au/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frobertj4%5Fqut%5Fedu%5Fau%2FDocuments%2FARC%20Humanoid%20Hub&viewid=f9828320%2D21eb%2D4bed%2D98a5%2D7ea66994d3d3&CT=1760328842162&OR=OWA%2DNT%2DMail&CID=b8317ca1%2D57bd%2D6668%2D2077%2D6233f1ac8559&e=5%3A7cd0bd4ced8b4463b64153ae0052fd41&sharingv2=true&fromShare=true&at=9&FolderCTID=0x012000E6A27F3494BD9745911485B57B69E0D0&view=0)
 
+[Excolo!](https://connectqutedu.sharepoint.com/teams/msteams_b7155c/SitePages/Excolo%20Workshop%203%20-%20Develop%20Your%20Pitch.aspx?CT=1760400067455&OR=OWA-NT-Mail&CID=aea06c5a-6284-4583-b414-44ef7e2ae6ad)
+
 ### Research
 [Clinical trials SOP](https://qutvirtual4.qut.edu.au/group/staff/research/conducting/ethics-and-integrity/clinical-trials/standard-operating-procedures)
 

@@ -19,6 +19,7 @@
 [Retreat Attendance 2023](https://connectqutedu-my.sharepoint.com/:x:/r/personal/brownew_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B2C81AE97-9EA9-48EB-A510-38E3BF425B6D%7D&file=RSVP%27s%20as%20of%202%20November.xlsx&action=default&mobileredirect=true)
 [Account codes](https://qutvirtual4.qut.edu.au/group/staff/finance/accounting/chart-of-accounts/account/expenses/non-salary-expenses)
 [Capstone](https://docs.google.com/spreadsheets/d/1NzxVJvARhN1jfi7ijKiGNwbsaXQCuPs8H-Yp_zNLezY/edit#gid=0)
+[AWM 2025](https://app.powerbi.com/groups/me/apps/cc47194d-dc87-4f90-bf87-dc9229772d6c/reports/7ca17571-587f-473b-9d42-c894bed0c6bd/df1035ec2ea7271a0c9c?ctid=dc0b52a3-68c5-44f7-881d-9383d8850b96&experience=power-bi)
 
 ### QCR
 [Michael Hints](https://connectqutedu.sharepoint.com/:w:/r/teams/msteams_751e6e/_layouts/15/Doc.aspx?sourcedoc=%7BCD6628F0-D612-4ECC-A5A6-1153A22C9134%7D&file=Lifestyle%20Crafting.docx&fromShare=true&action=default&mobileredirect=true)

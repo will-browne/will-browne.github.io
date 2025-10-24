@@ -6,6 +6,7 @@
 
 ## Funding linkx
 [Stroke clubs](https://strokensw.org.au/)
+[Stroke gloves](https://onlinecommunity.stroke.org.uk/t/stroke-rehab-robotic-glove/34999)
 
 [Robofit](https://robofit.com.au/assistive-technology/)
 

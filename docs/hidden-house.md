@@ -7,6 +7,8 @@
 ## Funding linkx
 [Stroke clubs](https://strokensw.org.au/)
 
+[Robofit](https://robofit.com.au/assistive-technology/)
+
 ## ARM Hub
 
 [ARM Hub SharePoint](https://advrobotics.sharepoint.com/sites/ARMHubProjects), 

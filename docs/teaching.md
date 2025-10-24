@@ -282,6 +282,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How Not to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
 [Reading list](https://www.mendeley.com/reference-manager/library/groups/private/876a0193-5e6a-33d0-9476-be7cc6bcc827/all-references/)
 
+[Gender-based violence](https://www.esafety.gov.au/key-topics/gendered-violence)
+
 ### Group work
 [QUT](https://www.teamlearning.qut.edu.au/modules/successful_teams/intro3.jsp) Missing video links, mostly new students straight from high-school, 
 [Monash](https://www.monash.edu/it/current-students/resources-and-support/guidelines-for-student-work-group-work) Short and useful webpage, 

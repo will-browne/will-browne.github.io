@@ -1,6 +1,7 @@
 # Lecturing
 <!-- Lecturing and teaching links, incl. ALDD -->
-[Power Bi](https://app.powerbi.com/home?experience=power-bi) QUT statistics 
+[Power Bi](https://app.powerbi.com/home?experience=power-bi) QUT statistics , 
+[AWM Power Bi](https://app.powerbi.com/groups/me/apps/cc47194d-dc87-4f90-bf87-dc9229772d6c/reports/b3ce75ab-a68f-4baf-b63a-b1d4a14e1678/8980d54e354af1a206f3?ctid=dc0b52a3-68c5-44f7-881d-9383d8850b96&experience=power-bi)
 
 [Jupyter notebook spawn QUT](https://jupyter.eres.qut.edu.au/hub/spawn)
 

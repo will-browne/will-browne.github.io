@@ -4,6 +4,9 @@
 
 [QCR open doctoral positions](https://wiki.qut.edu.au/display/raq/PhD+Opportunities)
 
+## Funding linkx
+[Stroke clubs](https://strokensw.org.au/)
+
 ## ARM Hub
 
 [ARM Hub SharePoint](https://advrobotics.sharepoint.com/sites/ARMHubProjects), 

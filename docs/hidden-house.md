@@ -30,3 +30,12 @@
 
 [EER Newsletter and repo](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation/Shared%20Documents/Forms/AllItems.aspx?CT=1676940953227&OR=OWA%2DNT&CID=00e531ce%2D89c4%2D44ed%2D26c5%2D3c28572cdb11&id=%2Fsites%2FEERSchoolInternalInformation%2FShared%20Documents%2FSchool%20Administration%2FSchool%20Newsletter%20News%20Library&viewid=8de35fb4%2D66bd%2D461b%2Da83d%2D399203418eed)
 
+## House
+
+[Solar advise](https://www.solarquotes.com.au/top-7-solar-mistakes.html?adsource=Google_Ads&adcampaign=Google_Search_Non_Brand&gad_source=1&gad_campaignid=16330264798&gbraid=0AAAAAD3lTn1eCXP_Tv8PDI3QUBzij6-q3&gclid=Cj0KCQjwgKjHBhChARIsAPJR3xfItNdaiHOVD6b98t3pwbH8liX6KhS5IDhyFsaH6-Mx-8YW4dSdcmEaAuX9EALw_wcB), 
+[Solar Aircon](https://solaracdc.com.au/off-grid-solar-air-conditioners/), 
+[Solar for RVs](https://www.solar4rvs.com.au/buying/buyer-guides/air-conditioning-in-a-caravan-while-off-grid/?srsltid=AfmBOoo0oeHhFTd5Yq9oQuG1CgXg67i1bZFjHJxjaGQPm6vHQeS2HvMK), 
+[AllPowers boxes](https://allpowers.com.au/)
+
+
+

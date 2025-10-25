@@ -2,8 +2,15 @@
 <!-- Grants and Funding -->
 
 # Funding
+### Stroke
+[Stroke AU](https://strokefoundation.org.au/what-we-do/research/economic-impact-of-stroke-in-australia)
+[Need for intervention](https://www.mdpi.com/2075-1729/13/10/2061#:~:text=More%20than%2080%25%20of%20hospitalized,in%20the%20field%20of%20rehabilitation.)
+[Assistive tech price ok in Aus](https://connectsci.au/ah/article/42/1/100/71674/Assistive-technology-pricing-in-Australia-is-it)
+
 ## Hints & Tips
-[Story](https://www.nature.com/articles/d41586-023-01881-6) 
+[Story](https://www.nature.com/articles/d41586-023-01881-6) , 
+[QUT Grant repo](https://docs.google.com/spreadsheets/d/19r1Fhq6EGDBbS-KSgvlukmhpgrwjWY7fhAkf0s2AWLY/edit?gid=590813268#gid=590813268)
+
 
 ## QUT Details
 [Financial Portal](https://qcr3.qut.edu.au/ords/qcr/FIN_PORTAL.page)

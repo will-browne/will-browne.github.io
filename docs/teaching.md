@@ -86,6 +86,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [PenguinPi Repo](https://github.com/qcr/PenguinPi-robot/tree/master/software/matlab)
 
 ## Resources
+[Rubric creator](http://rubistar.4teachers.org/index.php?screen=WhatIs&module=Rubistar)
+
 [Joint Probabilities](https://www.investopedia.com/terms/j/jointprobability.asp#:~:text=Joint%20probability%20is%20a%20statistical,time%20that%20event%20X%20occurs.)
 
 [Summation of likelihoods != 1](https://www.quora.com/What-is-an-intuitive-explanation-for-why-a-likelihood-function-doesnt-sum-or-integrate-to-1)

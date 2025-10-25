@@ -157,6 +157,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [WIT](https://wit.org.au/awards/) 30 May deadline + extension 
 [Engineers Australia](https://engoftheyear.awardsplatform.com/) 1st July 
 [Women of colour in STEM awards](https://wocinstemawards.org/) 30th June
+[Women in Robotics](https://www.womeninrobotics.org/)
 
 ### Funding Schemes
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)

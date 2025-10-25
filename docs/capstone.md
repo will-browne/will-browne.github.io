@@ -20,7 +20,7 @@
 | luis.beyrer@connect.qut.edu.au | Luis| Beyrer | ARM Hub ACC | 2023 1 2024 2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
 | jahal.adamovskiskraus@connect.qut.edu.au | Jahal | Adamovskis-Kraus | ARM Hub ACC | 2024 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding) [git](https://github.com/Jahal1/EGH400_IWP/tree/main/additional_resources)| 
 | bailey.meyers@connect.qut.edu.au | Bailey | Meyers | ARM Hub ACC | 2024 1&2 | tbc | Pass | Troy & Das| [RoboWeld](#EER-RoboticWelding)| 
-| kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
+| kyronw11@gmail.com | Kyron | Mayhew | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) [Repo](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBbnBiNDlJeC0zMlRsZHg4OTZaRjgxMk1NbGN1SHc%5FZT1zRXVEbEk&cid=937DFB31D2E35B7A&id=937DFB31D2E35B7A%21355977&parId=937DFB31D2E35B7A%21355964&o=OneUp)| 
 | kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
 | jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
 | taylia.barrett@connect.qut.edu.au| Tayliah | Barrett | QUT & MERF | 2024 1&2 | Fri 2pm | Pass | Cameron Brown | Medical robotics | 

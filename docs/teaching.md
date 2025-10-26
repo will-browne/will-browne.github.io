@@ -89,6 +89,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [Lidar](https://core-electronics.com.au/slamtec-rplidar-a1-360-laser-range-scanner.html), 
 [PenguinPi Repo](https://github.com/qcr/PenguinPi-robot/tree/master/software/matlab)
 
+[Transformations](https://www.open3d.org/docs/latest/tutorial/Basic/transformation.html), [Camera transform](https://www.open3d.org/html/python_example/camera/index.html)
+
 ## Resources
 [Rubric creator](http://rubistar.4teachers.org/index.php?screen=WhatIs&module=Rubistar)
 
@@ -289,7 +291,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [What is a micro-aggreesion](https://www.cultureally.com/blog/what-is-microaggressions-training), [How Not to handle a micro-aggression](https://www.antiracismnewsletter.com/p/anatomy-of-a-microaggression), 
 [Reading list](https://www.mendeley.com/reference-manager/library/groups/private/876a0193-5e6a-33d0-9476-be7cc6bcc827/all-references/)
 
-[Gender-based violence](https://www.esafety.gov.au/key-topics/gendered-violence)
+[Gender-based violence](https://www.esafety.gov.au/key-topics/gendered-violence), [Gov Definition](https://www.aph.gov.au/Parliamentary_Business/Committees/House/Social_Policy_and_Legal_Affairs/Familyviolence/Report/section?id=committees%2Freportrep%2F024577%2F75463)
 
 ### Group work
 [QUT](https://www.teamlearning.qut.edu.au/modules/successful_teams/intro3.jsp) Missing video links, mostly new students straight from high-school, 

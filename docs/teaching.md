@@ -165,8 +165,8 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 [ATSE Undergraduate/Postgraduate suport](https://www.atse.org.au/what-we-do/pathways-into-through-stem/elevate/)
 [Yalari school student scholarships](https://www.yalari.org/about-yalari/)
 [Women in EER](https://www.qut.edu.au/study/fees-and-scholarships/scholarships/women-in-electrical-engineering-postgraduate-research-scholarship)
-[HEPPP](https://www.education.gov.au/heppp) Higher Education Participation and Partnerships Program 
-
+[HEPPP](https://www.education.gov.au/heppp) Higher Education Participation and Partnerships Program, 
+[ECA QUT Support](https://blogs.intranet.qut.edu.au/research/2025/10/20/want-to-know-about-funding-early-career-academics-frequently-asked-questions-on-sharepoint/)
 
 ### Sexual Diversity
 [Welcome here](https://www.welcomehere.org.au/)

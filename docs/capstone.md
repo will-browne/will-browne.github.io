@@ -31,7 +31,7 @@
 | sebastian.moller@connect.qut.edu.au | Sebastian | Moller | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)[Git](https://github.com/Ac3inSpac3/Bimanual-Robot)| 
 | josh.roe@connect.qut.edu.au | Josh | Roe | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)[Git](https://github.com/Ac3inSpac3/Bimanual-Robot)| 
 | tyler.durrant@connect.qut.edu.au | Tyler | Durrant | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
-| sl.sweet@connect.qut.edu.au | Sophia | Sweet | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
+| sl.sweet@connect.qut.edu.au | Sophia | Sweet | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) [Git1](https://github.com/SophSweet/Temi-A-robotic-Concierge.git) [Git2](https://github.com/SophSweet/TEMIThesis.git)| 
 | nicholas.lloyd@connect.qut.edu.au | Nicholas | Lloyd | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) [Git](https://github.com/Nick-Lloyd01/EGH400_Temi_RoboConcierge)| 
 | lincoln.stuckeymargetts@connect.qut.edu.au | Lincoln | Stuckey Margetts | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | abdulazizmeshaal.aaljubair@connect.qut.edu.au | Abdulaziz | Meshaal A Aljubair | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 

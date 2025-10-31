@@ -39,7 +39,7 @@
 | karam.obeid@connect.qut.edu.au | Karam | Obeid | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) | 
 | adam.skelton@connect.qut.edu.au | Adam| Skelton | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) [Git](https://github.com/adamskelton71/EGH400) | 
 | josh.barber@connect.qut.edu.au | Josh | Barber | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC [Git](https://github.com/JoshBarber2023/Abstraction-and-Reasoning-Corpus---Classification-Method)| 
-| rourke.young@connect.qut.edu.au | Rourke | Young | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC |
+| rourke.young@connect.qut.edu.au | Rourke | Young | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC [Git](https://github.com/Rourkee/Semester-2-ARC-Simulation.git)|
 |  | | | | | | | | | 
 
 ## List of Project Abstracts

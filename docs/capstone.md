@@ -33,9 +33,9 @@
 | tyler.durrant@connect.qut.edu.au | Tyler | Durrant | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
 | sl.sweet@connect.qut.edu.au | Sophia | Sweet | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) [Git1](https://github.com/SophSweet/Temi-A-robotic-Concierge.git) [Git2](https://github.com/SophSweet/TEMIThesis.git)| 
 | nicholas.lloyd@connect.qut.edu.au | Nicholas | Lloyd | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) [Git](https://github.com/Nick-Lloyd01/EGH400_Temi_RoboConcierge)| 
-| lincoln.stuckeymargetts@connect.qut.edu.au | Lincoln | Stuckey Margetts | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+| lincoln.stuckeymargetts@connect.qut.edu.au | Lincoln | Stuckey Margetts | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) [Git](https://github.com/thomo2003/Stroke-Rehab-Device) | 
 | abdulazizmeshaal.aaljubair@connect.qut.edu.au | Abdulaziz | Meshaal A Aljubair | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
-| j54.thomas@connect.qut.edu.au | Jacob | Thomas  | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+| j54.thomas@connect.qut.edu.au | Jacob | Thomas  | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) [Git](https://github.com/thomo2003/Stroke-Rehab-Device)| 
 | karam.obeid@connect.qut.edu.au | Karam | Obeid | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) | 
 | adam.skelton@connect.qut.edu.au | Adam| Skelton | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) [Git](https://github.com/adamskelton71/EGH400) | 
 | josh.barber@connect.qut.edu.au | Josh | Barber | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC [Git ARC](https://github.com/JoshBarber2023/Abstraction-and-Reasoning-Corpus---Classification-Method) [GIT SM](https://github.com/JoshBarber2023/Solomonoff-Method) | 

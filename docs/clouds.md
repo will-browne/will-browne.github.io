@@ -72,6 +72,8 @@
 
 [Excolo!](https://connectqutedu.sharepoint.com/teams/msteams_b7155c/SitePages/Excolo%20Workshop%203%20-%20Develop%20Your%20Pitch.aspx?CT=1760400067455&OR=OWA-NT-Mail&CID=aea06c5a-6284-4583-b414-44ef7e2ae6ad)
 
+[ITTC Health](https://liveswinburneeduau.sharepoint.com/:w:/r/sites/ITTCUniversityPartnerChannel/_layouts/15/Doc.aspx?sourcedoc=%7BEC67EC18-617D-43B0-B245-42926E845965%7D&file=D1_2025_draft%205%20for%20allocation_SLM%20011125_Clean.docx&action=default&mobileredirect=true)
+
 ### Research
 [Clinical trials SOP](https://qutvirtual4.qut.edu.au/group/staff/research/conducting/ethics-and-integrity/clinical-trials/standard-operating-procedures)
 

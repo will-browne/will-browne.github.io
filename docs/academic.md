@@ -1,6 +1,8 @@
 # Academia 
 
 ## CV (work in progress)
+[ORCID 0000-0001-8979-2224](https://orcid.org/my-orcid?orcid=0000-0001-8979-2224)
+
 [Current CV, excluding publications](), 
 [Publications]().
 

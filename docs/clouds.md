@@ -1,4 +1,5 @@
 # Links to files stored in the Cloud
+Please note that many of these require invitations, so are not generally accessible
 
 ## QUT
 ### Capstones
@@ -14,6 +15,9 @@
 
 ### Equity
 [FoE Equity Committee sharepoint](https://connectqutedu.sharepoint.com/teams/FOE_COM_FoEEquityCommittee)
+
+### HoS
+[Service roles](https://connectqutedu.sharepoint.com/:x:/r/teams/msteams_6f872a/_layouts/15/Doc.aspx?sourcedoc=%7B24223AC6-E706-4144-BAF8-0A197C90EA2C%7D&file=2026%20EER%20Service%20Roles.xlsx&action=default&mobileredirect=true)
 
 ### EER
 [Retreat Attendance 2023](https://connectqutedu-my.sharepoint.com/:x:/r/personal/brownew_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B2C81AE97-9EA9-48EB-A510-38E3BF425B6D%7D&file=RSVP%27s%20as%20of%202%20November.xlsx&action=default&mobileredirect=true)

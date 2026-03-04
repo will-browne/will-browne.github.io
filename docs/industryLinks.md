@@ -2,6 +2,8 @@
 <!-- Industrial contracts -->
 
 ## Company links
+[QuILL](https://quill.csds.qld.edu.au/)
+
 [Volo modular homes](http://www.volomodular.com.au/residential-modular-home/)
 
 [Voltin building inspections](https://www.voltin.com.au/voltin-about-us/)

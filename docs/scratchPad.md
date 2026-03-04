@@ -2,6 +2,10 @@
 <!-- Grants and Funding -->
 
 # Funding
+
+## AEA
+[RMS 4 AEA](https://aea_education.researchgrants.gov.au/RMS/ActionCentre/Account/Login?ReturnUrl=%2FRMS%2FActionCentre%2F)
+
 ### Stroke
 [Stroke AU](https://strokefoundation.org.au/what-we-do/research/economic-impact-of-stroke-in-australia)
 [Need for intervention](https://www.mdpi.com/2075-1729/13/10/2061#:~:text=More%20than%2080%25%20of%20hospitalized,in%20the%20field%20of%20rehabilitation.)

@@ -40,6 +40,7 @@
 [Acknowledgements of Country](https://brand-centre.qut.edu.au/bms/category/browse.cfm?category=1407), 
 [APCs](https://qutvirtual4.qut.edu.au/group/staff/research/publishing-and-impact/open-access/apply-for-apc-support)
 [Energy Transition Centre](https://research.qut.edu.au/energytransition/)
+[CTM directly for advice via email: qldfoxtrot@travelctm.com or phone: 07 3329 7636]
 
 ### EER
 [EER Sharepoint](https://connectqutedu.sharepoint.com/sites/EERSchoolInternalInformation)

@@ -92,6 +92,8 @@ Please note that many of these require invitations, so are not generally accessi
 
 [Komol Doc](https://docs.google.com/document/d/1nml-QijlwnbzsDK0YPBmVxsWk-NPwFSJwiMyYEpd4Vw/edit?usp=sharing)
 
+[Jiayue Info](https://connectqutedu-my.sharepoint.com/personal/n12498921_qut_edu_au/_layouts/15/onedrive.aspx?e=5%3Af970b252adbf49cc835c59b28bb71362&sharingv2=true&fromShare=true&at=9&CT=1774868775660&OR=OWA%2DNT%2DMail&CID=73666696%2Df34a%2D7447%2Db84e%2Dc6bba3b98c0a&id=%2Fpersonal%2Fn12498921%5Fqut%5Fedu%5Fau%2FDocuments%2FJiayue%5FPhD%5FLog&FolderCTID=0x0120004982CD89A9FCAB4A8AF9F34628D6FC09&view=0)
+
 ## ACC
 [Doctorates](https://connectqutedu.sharepoint.com/sites/ITTCforCollaborativeRobotics/PhD%20EOIs/Forms/AllItems.aspx)
 [KPIs as they happen](https://forms.office.com/Pages/ResponsePage.aspx?id=o1IL3MVo90SIHZOD2IULllwLg06fNe5Bo8b3K9HpfRxUNFVGUFJETENTS0lKOENGQjgwTVRBNlNLRy4u)

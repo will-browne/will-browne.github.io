@@ -13,6 +13,8 @@ Please note that many of these require invitations, so are not generally accessi
 
 [EER SharePoint](https://connectqutedu.sharepoint.com/teams/FOE_GE_SchoolofElectricalEngineeringandRobotics)
 
+[QUT Reporting Incidents](https://www.qut.edu.au/about/governance-and-policy/report-a-concern)
+
 ### Equity
 [FoE Equity Committee sharepoint](https://connectqutedu.sharepoint.com/teams/FOE_COM_FoEEquityCommittee)
 

@@ -24,25 +24,36 @@
 | kenneth.bautista@connect.qut.edu.au | Kenneth | Bautista | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
 | jeremy.zbasnik@connect.qut.edu.au | Jeremy | Zbasnik | QUT | 2024 1&2 | 930-10 Thurs | Pass | Das | [Robotic Guide](#EER-Concierge) | 
 | taylia.barrett@connect.qut.edu.au| Tayliah | Barrett | QUT & MERF | 2024 1&2 | Fri 2pm | Pass | Cameron Brown | Medical robotics | 
-| alejandra.paredezparedes@connect.qut.edu.au| Alejandra | Paredez Paredes | QUT & MERF | 2024 1&2 | Fri 2pm  | ongoing | Cameron | Medical robotics | 
-| harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1 2025 1  | Wed 10am | ongoing | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
+| alejandra.paredezparedes@connect.qut.edu.au| Alejandra | Paredez Paredes | QUT & MERF | 2024 1&2 | Fri 2pm  | Pass | Cameron | Medical robotics | 
+| harrison.hooper2@gmail.com | Harrison | Hooper | QUT & MERF | 2024 1 2025 1  | Wed 10am | Pass | Cameron  | [Robots with Spines](#ERR-Robots-with-Spines) | 
 | maxwell.frost@connect.qut.edu.au | Maxwell | Frost | | 2024 1&2 | Wed  | Pass  | Stratoship | [Low-temperature Gimbal](#EER-Gymbal) | 
 | zachary.cristaudo@connect.qut.edu.au | Zachary | Cristaudo | - | 2024 1&2 | - | Pass | Marianella | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) |
-| sebastian.moller@connect.qut.edu.au | Sebastian | Moller | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)[Git](https://github.com/Ac3inSpac3/Bimanual-Robot)| 
-| josh.roe@connect.qut.edu.au | Josh | Roe | - | 2024 2 2025 1 | Wed 9am | ongoing | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)[Git](https://github.com/Ac3inSpac3/Bimanual-Robot)| 
-| tyler.durrant@connect.qut.edu.au | Tyler | Durrant | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) | 
-| sl.sweet@connect.qut.edu.au | Sophia | Sweet | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) [Git1](https://github.com/SophSweet/Temi-A-robotic-Concierge.git) [Git2](https://github.com/SophSweet/TEMIThesis.git)| 
-| nicholas.lloyd@connect.qut.edu.au | Nicholas | Lloyd | - | 2025 1&2 | Wed 930am | new | | [Robotic Guide](#EER-Concierge) [Git](https://github.com/Nick-Lloyd01/EGH400_Temi_RoboConcierge)| 
-| lincoln.stuckeymargetts@connect.qut.edu.au | Lincoln | Stuckey Margetts | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) [Git](https://github.com/thomo2003/Stroke-Rehab-Device) | 
-| abdulazizmeshaal.aaljubair@connect.qut.edu.au | Abdulaziz | Meshaal A Aljubair | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
-| j54.thomas@connect.qut.edu.au | Jacob | Thomas  | - | 2025 1&2 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) [Git](https://github.com/thomo2003/Stroke-Rehab-Device)| 
-| karam.obeid@connect.qut.edu.au | Karam | Obeid | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) | 
-| adam.skelton@connect.qut.edu.au | Adam| Skelton | - | 2025 1&2 | ? | new | | [AR for Robotics](#EER-AR-Robotics) [Git](https://github.com/adamskelton71/EGH400) | 
-| josh.barber@connect.qut.edu.au | Josh | Barber | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC [Git ARC](https://github.com/JoshBarber2023/Abstraction-and-Reasoning-Corpus---Classification-Method) [GIT SM](https://github.com/JoshBarber2023/Solomonoff-Method) | 
-| rourke.young@connect.qut.edu.au | Rourke | Young | - | 2025 1&2 | Wed 1130 | new | Cameron Coombe | ARC [Git](https://github.com/Rourkee/Semester-2-ARC-Simulation.git)|
+| sebastian.moller@connect.qut.edu.au | Sebastian | Moller | - | 2024 2 2025 1 | Wed 9am | Pass | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)[Git](https://github.com/Ac3inSpac3/Bimanual-Robot)| 
+| josh.roe@connect.qut.edu.au | Josh | Roe | - | 2024 2 2025 1 | Wed 9am | Pass | Krishna | [Bimanual Robot](https://au-qut-prod-opportunities.inplacesoftware.com/opportunity/c760edb3-7edd-ef11-88d0-e24e12a2d79f)[Git](https://github.com/Ac3inSpac3/Bimanual-Robot)| 
+| tyler.durrant@connect.qut.edu.au | Tyler | Durrant | - | 2025 1&2 | Wed 930am | Pass | | [Robotic Guide](#EER-Concierge) | 
+| sl.sweet@connect.qut.edu.au | Sophia | Sweet | - | 2025 1&2 | Wed 930am | Pass | | [Robotic Guide](#EER-Concierge) [Git1](https://github.com/SophSweet/Temi-A-robotic-Concierge.git) [Git2](https://github.com/SophSweet/TEMIThesis.git)| 
+| nicholas.lloyd@connect.qut.edu.au | Nicholas | Lloyd | - | 2025 1&2 | Wed 930am | Pass | | [Robotic Guide](#EER-Concierge) [Git](https://github.com/Nick-Lloyd01/EGH400_Temi_RoboConcierge)| 
+| lincoln.stuckeymargetts@connect.qut.edu.au | Lincoln | Stuckey Margetts | - | 2025 1&2 | ? | Pass | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) [Git](https://github.com/thomo2003/Stroke-Rehab-Device) | 
+| abdulazizmeshaal.aaljubair@connect.qut.edu.au | Abdulaziz | Meshaal A Aljubair | - | 2025 1&2 | ? | Pass | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+| j54.thomas@connect.qut.edu.au | Jacob | Thomas  | - | 2025 1&2 | ? | Pass | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) [Git](https://github.com/thomo2003/Stroke-Rehab-Device)| 
+| karam.obeid@connect.qut.edu.au | Karam | Obeid | - | 2025 1&2 | ? | Pass | | [AR for Robotics](#EER-AR-Robotics) | 
+| adam.skelton@connect.qut.edu.au | Adam| Skelton | - | 2025 1&2 | ? | Pass | | [AR for Robotics](#EER-AR-Robotics) [Git](https://github.com/adamskelton71/EGH400) | 
+| josh.barber@connect.qut.edu.au | Josh | Barber | - | 2025 1&2 | Wed 1130 | Pass | Cameron Coombe | ARC [Git ARC](https://github.com/JoshBarber2023/Abstraction-and-Reasoning-Corpus---Classification-Method) [GIT SM](https://github.com/JoshBarber2023/Solomonoff-Method) | 
+| rourke.young@connect.qut.edu.au | Rourke | Young | - | 2025 1&2 | Wed 1130 | Pass | Cameron Coombe | ARC [Git](https://github.com/Rourkee/Semester-2-ARC-Simulation.git)|
+| luke.asgill@connect.qut.edu.au | Luke | Asrick | - | 2026 1&2 | Tue 0900 | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+|  | | | | | | | | | 
+| mohammadnasif.chowdhury@connect.qut.edu.au | Nasif | Chowdhury | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
+| c306.smith@connect.qut.edu.au | Cooper | Smith | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
+|  | | | | | | | | | 
 |  | | | | | | | | | 
 
 ## List of Project Abstracts
+
+### EER-robot-graffiti
+A 2D Robot graffiti artist to celebrate people
+
+Project Description:
+Designed to aid Diversity celebration through a wall drawing robot. This is a step change from a summer project with a nominated student.
 
 ### ERR-Robots-with-Spines
 There are two complementary aspects to robotics in conjunction with spines, namely 1. robots that have spines can navigate more flexibly than rigid robots, and 2. spinal surgery robots need flexible navigation to operate without causing collateral damage. Depending on research interests number of related projects can be run under this topic area:

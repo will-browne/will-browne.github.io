@@ -44,7 +44,7 @@
 | ohmramkishore.charan@connect.qut.edu.au | Ohm | Charan | - |2026 1&2 | Tue 0930 | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | mohammadnasif.chowdhury@connect.qut.edu.au | Nasif | Chowdhury | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
 | c306.smith@connect.qut.edu.au | Cooper | Smith | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
-| dm.powell@connect.qut.edu.au | Daniel | Powell | - | 2026 1&2 | ? | new | | Cameron Coombe | ARC | 
+| dm.powell@connect.qut.edu.au | Daniel | Powell | - | 2026 1&2 | ? | new | Cameron Coombe | ARC | 
 |  | | | | | | | | | 
 
 ## List of Project Abstracts

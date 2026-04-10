@@ -41,10 +41,10 @@
 | josh.barber@connect.qut.edu.au | Josh | Barber | - | 2025 1&2 | Wed 1130 | Pass | Cameron Coombe | ARC [Git ARC](https://github.com/JoshBarber2023/Abstraction-and-Reasoning-Corpus---Classification-Method) [GIT SM](https://github.com/JoshBarber2023/Solomonoff-Method) | 
 | rourke.young@connect.qut.edu.au | Rourke | Young | - | 2025 1&2 | Wed 1130 | Pass | Cameron Coombe | ARC [Git](https://github.com/Rourkee/Semester-2-ARC-Simulation.git)|
 | luke.asgill@connect.qut.edu.au | Luke | Asrick | - | 2026 1&2 | Tue 0900 | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
-|  | | | | | | | | | 
+| ohmramkishore.charan@connect.qut.edu.au | Ohm | Charan | - |2026 1&2 | Tue 0930 | new | - | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | mohammadnasif.chowdhury@connect.qut.edu.au | Nasif | Chowdhury | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
 | c306.smith@connect.qut.edu.au | Cooper | Smith | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
-|  | | | | | | | | | 
+| dm.powell@connect.qut.edu.au | Daniel | Powell | - | 2026 1&2 | ? | new | | Cameron Coombe | ARC | 
 |  | | | | | | | | | 
 
 ## List of Project Abstracts

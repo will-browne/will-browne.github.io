@@ -20,7 +20,8 @@
 [Consciousness Workshop](https://cmecatalog.hms.harvard.edu/consciousness-science-spirituality-and-social-impact/agenda)
 
 ### Mathematics 
-[CPA](https://thirdspacelearning.com/blog/concrete-pictorial-abstract-maths-cpa/)
+[CPA](https://thirdspacelearning.com/blog/concrete-pictorial-abstract-maths-cpa/), 
+[Learning to count](https://mathmilestones.com/2016/05/14/learning-to-count-baby-steps/#:~:text=Learning%20to%20count%20happens%20in,but%20not%20with%20bigger%20numbers)
 
 ## Neuroscience 
 [Time in Neurons](https://www.quantamagazine.org/new-clues-to-how-the-brain-maps-time-20160126/)

@@ -169,6 +169,9 @@
 
 [AdoptAI ARMHub](https://aiadopt.ai/propel-air-backup)
 
+### ARAA
+[Scopus](https://www.scopus.com/sourceid/21100244866#tabs=2)
+
 ## Githubs
 
 ### Robotics and Vision

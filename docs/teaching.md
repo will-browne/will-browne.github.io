@@ -1,6 +1,8 @@
 # Lecturing
 [Timetable details](https://mytimetable.qut.edu.au/plussuite/inProgress.htm)
 
+[Technicians S9](https://qutvirtual4.qut.edu.au/web/qut/search?params.query=*&profile=STAFF&params.filterKey=facetprimaryOrgUnit%3ATS%20Electrical%20Engineering)
+
 <!-- Lecturing and teaching links, incl. ALDD -->
 [FoE Student support](https://connectqutedu.sharepoint.com/teams/FoESpecialistStudentSupport/SitePages/CollabHome.aspx)
 

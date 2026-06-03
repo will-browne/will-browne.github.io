@@ -19,6 +19,8 @@
 
 [Consciousness Workshop](https://cmecatalog.hms.harvard.edu/consciousness-science-spirituality-and-social-impact/agenda)
 
+[Strong AI Sloman](https://cogaffarchive.org/sloman-searle-85.html)
+
 ### Mathematics 
 [CPA](https://thirdspacelearning.com/blog/concrete-pictorial-abstract-maths-cpa/), 
 [Learning to count](https://mathmilestones.com/2016/05/14/learning-to-count-baby-steps/#:~:text=Learning%20to%20count%20happens%20in,but%20not%20with%20bigger%20numbers)
@@ -56,6 +58,10 @@
 
 
 ## Language
+[Semiotic- Roy Harris/](https://semioticon.com/semiotix/2011/01/semiotic-profile-roy-harris/)
+
+
+
 [Polysemy](https://www.thoughtco.com/polysemy-words-and-meanings-1691642)
 [Phrase structure trees](https://www.konan-u.ac.jp/hp/nakatani/js/R7)
 

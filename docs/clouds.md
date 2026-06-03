@@ -21,6 +21,7 @@ Please note that many of these require invitations, so are not generally accessi
 ### HoS
 [Service roles](https://connectqutedu.sharepoint.com/:x:/r/teams/msteams_6f872a/_layouts/15/Doc.aspx?sourcedoc=%7B24223AC6-E706-4144-BAF8-0A197C90EA2C%7D&file=2026%20EER%20Service%20Roles.xlsx&action=default&mobileredirect=true)
 [Unit Coordinator Roles]([https://connectqutedu.sharepoint.com/:x:/r/teams/msteams_6f872a/_layouts/15/Doc.aspx?sourcedoc=%7B24223AC6-E706-4144-BAF8-0A197C90EA2C%7D&file=2026%20EER%20Service%20Roles.xlsx&action=default&mobileredirect=true](https://connectqutedu-my.sharepoint.com/:x:/r/personal/jayalath_qut_edu_au/_layouts/15/doc2.aspx?sourcedoc=%7B2DFD8C5D-BB71-4839-B5ED-CE08F61FCBA5%7D&file=EER%20Unit%20Cordinators%202026%20v4%2023112025.xlsx&fromShare=true&action=default&mobileredirect=true))
+[Funding](https://connectqutedu-my.sharepoint.com/:x:/g/personal/denman_qut_edu_au/IQAsMRGXCrFZToXUi2bCUDviAdHih8UiVs2DZ9Y6l1FGssA?email=will.browne%40qut.edu.au&e=zHWELG&CID=8986236f-b904-2bd0-e7e9-0199cad5aff9)
 
 ### EER
 [Retreat Attendance 2023](https://connectqutedu-my.sharepoint.com/:x:/r/personal/brownew_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B2C81AE97-9EA9-48EB-A510-38E3BF425B6D%7D&file=RSVP%27s%20as%20of%202%20November.xlsx&action=default&mobileredirect=true)

@@ -143,6 +143,8 @@
 
 [TAS RAS Gateway](https://www.rasgateway.com.au/)
 
+[RAG Paul Mason Podcast](https://www.manufacturingtech.au/)
+
 [SfTI NZ Robotics Spearhead](https://youtu.be/s73Gm1sH1Hc) video, 
 [Queensland cluster](https://qldrobo.org/) 
 

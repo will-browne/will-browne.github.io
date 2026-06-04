@@ -7,6 +7,8 @@
 [CVAE blog](https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/)
 
 ## Theory of Learning 
+[Curious Booklist](https://woolfrey.github.io/reading/)
+
 [Karl Popper conjectures](https://www.informationphilosopher.com/solutions/philosophers/popper/natural_selection_and_the_emergence_of_mind.html)
 
 [Elizabeth Spelke](https://psychology.fas.harvard.edu/people/elizabeth-s-spelke)

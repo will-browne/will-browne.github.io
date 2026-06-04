@@ -3,6 +3,8 @@ Op# Digital domain
 
 [Source Code by Rob Liang](https://www.youtube.com/watch?v=2_VQLfKXTQo)
 
+[Junk shop in need of repair](https://quarantine.qut.edu.au:10020/euweb/login)
+
 ## AI Codes
 
 [eLCS](https://github.com/UrbsLab/scikit-eLCS); [XCS SciKit](https://github.com/UrbsLab/scikit-XCS); [Ryan's Git repo](https://epistasislab.github.io/pmlb/) all by Ryan Urbanowicz

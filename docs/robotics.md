@@ -177,6 +177,8 @@
 ## Githubs
 
 ### Robotics and Vision
+[Molmobot](https://allenai.github.io/MolmoBot/)
+
 [Penguin Pi](https://github.com/qcr/PenguinPi-robot/tree/master/software/matlab)
 [Pi5](https://github.com/qcr/PenguinPi-robot/tree/pi5)
 
@@ -186,7 +188,7 @@
 
 [QCR Comp Vision](https://mchancan.github.io/)
 
-[Peter Corke Toolbox Python](https://github.com/petercorke/robotics-toolbox-python), [Peter's front page to toolbox](https://petercorke.github.io/machinevision-toolbox-python/index.html)
+[Peter Corke Toolbox Python](https://github.com/petercorke/robotics-toolbox-python), [Peter's front page to toolbox](https://petercorke.github.io/machinevision-toolbox-python/index.html),[Tobi & Peter's ICRA tut](https://github.com/petercorke/ICRA2026-modern-software-tools)
 
 [Mujoco Menagerie](https://github.com/google-deepmind/mujoco_menagerie)
 

@@ -54,7 +54,7 @@ Prior to international travel send the following details to cards@qut.edu.au & C
 [National Robotics Strategy](https://www.industry.gov.au/publications/national-robotics-strategy) 
 
 [Blue Carbon](https://www.worldbank.org/en/news/feature/2023/11/21/what-you-need-to-know-about-blue-carbon), [Robot surgery Market](https://straitsresearch.com/report/robotic-surgery-market#:~:text=Market%20Overview,period%20(2024%E2%80%932032).)
-
+[Moreton Bay Seagrass](https://moretonbayfoundation.org/articles/seagrasses-of-moreton-bay-quandamooka-diversity-ecology-and-resilience/)
 
 ### CRC / CRC-P
 [Trusted AI](https://tdscrc.com/)

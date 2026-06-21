@@ -93,7 +93,8 @@ Please note that many of these require invitations, so are not generally accessi
 
 [Cameron pptx](https://connectqutedu-my.sharepoint.com/:p:/r/personal/coombe3_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B7B597C1B-171E-45C5-8F43-2065D22DA6A5%7D&file=Cameron%20Confirmation%20Presentation.pptx&fromShare=true&action=edit&mobileredirect=true) and [notes](https://connectqutedu-my.sharepoint.com/:w:/r/personal/coombe3_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BF87769C7-3AF0-4632-81EE-7F7FF2562E85%7D&file=Cameron%20Confirmation%20Draft%20Script.docx&fromShare=true&action=default&mobileredirect=true)
 
-[Komol Doc](https://docs.google.com/document/d/1nml-QijlwnbzsDK0YPBmVxsWk-NPwFSJwiMyYEpd4Vw/edit?usp=sharing)
+[Komol Doc](https://docs.google.com/document/d/1nml-QijlwnbzsDK0YPBmVxsWk-NPwFSJwiMyYEpd4Vw/edit?usp=sharing),
+[Behaviours](https://youtu.be/c_M544rpDqo), [Heterogeneous](https://youtu.be/-kQ7HXKKZ8s)
 
 [Jiayue Info](https://connectqutedu-my.sharepoint.com/personal/n12498921_qut_edu_au/_layouts/15/onedrive.aspx?e=5%3Af970b252adbf49cc835c59b28bb71362&sharingv2=true&fromShare=true&at=9&CT=1774868775660&OR=OWA%2DNT%2DMail&CID=73666696%2Df34a%2D7447%2Db84e%2Dc6bba3b98c0a&id=%2Fpersonal%2Fn12498921%5Fqut%5Fedu%5Fau%2FDocuments%2FJiayue%5FPhD%5FLog&FolderCTID=0x0120004982CD89A9FCAB4A8AF9F34628D6FC09&view=0)
 

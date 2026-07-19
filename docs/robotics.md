@@ -136,6 +136,8 @@
 
 [Power distribution boards](https://holybro.com/products/power-distribution-board-pdb)
 
+[Python LIDAR drivers](https://makerspet.com/blog/lds2d-python-2d-lidar-library-live-browser-radar/?brid=YWdncwGfXf-IUPRHWeHEqVptEp23)
+
 ## Groups
 [MASS Robotics](https://www.massrobotics.org/) robotics hub, 
 

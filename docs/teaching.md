@@ -43,6 +43,8 @@
 
 [Steven Pinker writing video](https://youtu.be/nBQPnvmaNcE)
 
+[AI Unis](https://rorytruex.substack.com/p/will-ai-break-the-university?r=29f90g&utm_medium=ios&triedRedirect=true)
+
 ## QUT Courses
 [Canvas to AMS for returning grades](https://qutvirtual4.qut.edu.au/group/staff/teaching/digital-learning-tools/canvas/assessment-and-marking-in-canvas/finalising-canvas-grades)
 

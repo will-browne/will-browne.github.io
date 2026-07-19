@@ -175,6 +175,8 @@
 
 [AdoptAI ARMHub](https://aiadopt.ai/propel-air-backup)
 
+[Top engineers](https://www.consultclarity.org/post/leaders-mechanical-engineering-australia-new-zealand)
+
 ### ARAA
 [Scopus](https://www.scopus.com/sourceid/21100244866#tabs=2)
 

@@ -32,6 +32,8 @@
 
 [Connected Papers](https://www.connectedpapers.com/)
 
+[Swiftconverter Writing tools](https://www.swiftconvertor.com/categories/research-tools)
+
 ## Dataset / Repos
 [Neuroscience datasets](https://openneuro.org/)
 

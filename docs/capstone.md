@@ -60,7 +60,7 @@
 | samuel.challied@connect.qut.edu.au  | Samuel | Challied | | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
 | joseph.schneider@connect.qut.edu.au | Joseph | Schneider| | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
 | t244.tran@connect.qut.edu.au   | Thuc| Tran| | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
-| | | | | | | | | | 
+| connor.middleton@connect.qut.edu.au | Connor | Middleton | | tbc | | | | Deformable worlds | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 

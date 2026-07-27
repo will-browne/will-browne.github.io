@@ -46,8 +46,8 @@
 | c306.smith@connect.qut.edu.au | Cooper | Smith | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
 | dm.powell@connect.qut.edu.au | Daniel | Powell | - | 2026 1&2 | ? | new | Cameron Coombe | ARC | 
 | dj.beitz@connect.qut.edu.au | Daniel | Beitz | Brooks Laboratory Automation Solutions Pty Ltd | 2026 2 | ? | new | | Custom Automation | 
-|  | | | | | | | | | 
-|  | | | | | | | | | 
+| ne.hansen@connect.qut.edu.au | Nicholas | Hansen | CSIRO | 2026/7 2&1 | ? | new | Brendan Tidd | Heterogeneous multi-agent | 
+| ben.neal@connect.qut.edu.au | Ben | Neal | CSIRO | 2026 2x2 | ? | new  | Brendan Tidd | Heterogeneous multi-agent | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 
@@ -59,6 +59,12 @@
 |  | | | | | | | | | 
 
 ## List of Project Abstracts
+
+
+### Heterogeneous multi-agent robotic teaming systems 
+The proposed accelerated thesis project is to investigate Machine Learning (ML) behaviour generation of heterogeneous multi-agent robotic teaming systems by seeing how these behaviours can change/adapt due to factors such as environmental noise, uncertainty and other dynamic aspects of the surrounding world. This research would be furthered by considering adversarial behaviours as opposed to cooperative, where robots are facing each other and may have to force a change in position to other robots in order to complete their given task. Research has already been conducted on the transfer of homogeneous trained frameworks to heterogeneous systems, which this project will take as a foundation to continue from.
+
+PyBullet simulator exists for side-by-side ML training, which will need to be converted to explore other scenerios, such as head-to-head collision avoidance. Both homogeneuos and heterogeneuos robot models will be tested. These scenarios can be converted to higher fidelity simulator - such as Gazebo - to test sim-to-real transfer through increased noise simulation. Depending on initial results, real-world tests may occur. A strecth goal will be to convert learnt ML behaviours into rule-based agents that are deterministic for human transparency.
 
 ### Custom Automation Module Development for Laboratory Automation Systems
 Outline what this project is about and how the project is expected to be conducted :

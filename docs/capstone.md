@@ -51,7 +51,11 @@
 | kartik.bhagwati@connect.qut.edu.au | Kartik | Bhagwati | | 2026/7 2&1 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | aidan.laneyrie@connect.qut.edu.au | Aidan | Laneyrie | | 2026/7 2&1 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 | jd.marriott@connect.qut.edu.au | Jason | Marriott | | 2026/7 2&1 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
-|  | | | | | | | | | 
+| william.corby@connect.qut.edu.au | William | Corby | | 2026/7 2&1 | ? | new | | Bimanual Robot | 
+| christopher.johnston@connect.qut.edu.au | Christopher | Johnston | | 2026/7 2&1 | ? | new | | Bimanual Robot | 
+| joshua.major@connect.qut.edu.au | Joshua |Major | | 2026/7 2&1 | ? | new | | Bimanual Robot | 
+| george.staines@connect.qut.edu.au | George | Staines | | 2026/7 2&1 | ? | new | | Bimanual Robot | 
+| tashi.visschedijk@connect.qut.edu.au | Tashi | Visschedijk | | 2026/7 2&1 | ? | new | | Bimanual Robot |  
 |  | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 

@@ -45,7 +45,7 @@
 | mohammadnasif.chowdhury@connect.qut.edu.au | Nasif | Chowdhury | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
 | c306.smith@connect.qut.edu.au | Cooper | Smith | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
 | dm.powell@connect.qut.edu.au | Daniel | Powell | - | 2026 1&2 | ? | new | Cameron Coombe | ARC | 
-|  | | | | | | | | | 
+| dj.beitz@connect.qut.edu.au | Daniel | Beitz | Brooks Laboratory Automation Solutions Pty Ltd | 2026 2 | ? | new | | Custom Automation | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 
@@ -59,6 +59,13 @@
 |  | | | | | | | | | 
 
 ## List of Project Abstracts
+
+### Custom Automation Module Development for Laboratory Automation Systems
+Outline what this project is about and how the project is expected to be conducted :
+This project will investigate and develop engineering solutions for custom laboratory automation applications at Brooks Laboratory Automation. The focus will be on supporting Brooks’ ability to respond to customer-specific automation requests by developing and evaluating custom system modules or workflow improvements. The project will consider how tailored engineering solutions can improve laboratory workflow efficiency, reduce manual sample handling, minimise handling errors, improve turnaround time, and support more consistent processing of test orders and sample tubes.
+
+The main tasks will include defining project requirements with Brooks stakeholders, identifying customer and system constraints, developing practical concept designs, comparing design options, and making engineering decisions around feasibility, manufacturability, reliability, validation, and implementation. Depending on the final project scope, this may involve CAD development, mechanical or mechatronic system design, prototyping, simulation, testing, or analysis. Key deliverables will include a project proposal, requirements/specification document, design concepts, engineering analysis, validation results, final thesis report and final project presentation.
+
 
 ### EER-robot-graffiti
 A 2D Robot graffiti artist to celebrate people

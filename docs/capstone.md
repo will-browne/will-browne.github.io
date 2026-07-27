@@ -56,8 +56,11 @@
 | joshua.major@connect.qut.edu.au | Joshua |Major | | 2026/7 2&1 | ? | new | | Bimanual Robot | 
 | george.staines@connect.qut.edu.au | George | Staines | | 2026/7 2&1 | ? | new | | Bimanual Robot | 
 | tashi.visschedijk@connect.qut.edu.au | Tashi | Visschedijk | | 2026/7 2&1 | ? | new | | Bimanual Robot |  
-|  | | | | | | | | | 
-|  | | | | | | | | | 
+| benjamin.ashton@connect.qut.edu.au  | Ben | Ashton| | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
+| samuel.challied@connect.qut.edu.au  | Samuel | Challied | | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
+| joseph.schneider@connect.qut.edu.au | Joseph | Schneider| | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
+| t244.tran@connect.qut.edu.au   | Thuc| Tran| | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
+| | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 

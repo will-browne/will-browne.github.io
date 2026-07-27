@@ -46,6 +46,17 @@
 | c306.smith@connect.qut.edu.au | Cooper | Smith | - | 2026 1&2 | ? | new  | - | [Robot graffiti artist](#EER-robot-graffiti) | 
 | dm.powell@connect.qut.edu.au | Daniel | Powell | - | 2026 1&2 | ? | new | Cameron Coombe | ARC | 
 |  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
+|  | | | | | | | | | 
 
 ## List of Project Abstracts
 

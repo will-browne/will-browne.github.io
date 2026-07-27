@@ -48,9 +48,9 @@
 | dj.beitz@connect.qut.edu.au | Daniel | Beitz | Brooks Laboratory Automation Solutions Pty Ltd | 2026 2 | ? | new | | Custom Automation | 
 | ne.hansen@connect.qut.edu.au | Nicholas | Hansen | CSIRO | 2026/7 2&1 | ? | new | Brendan Tidd | Heterogeneous multi-agent | 
 | ben.neal@connect.qut.edu.au | Ben | Neal | CSIRO | 2026 2x2 | ? | new  | Brendan Tidd | Heterogeneous multi-agent | 
-|  | | | | | | | | | 
-|  | | | | | | | | | 
-|  | | | | | | | | | 
+| kartik.bhagwati@connect.qut.edu.au | Kartik | Bhagwati | | 2026/7 2&1 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+| aidan.laneyrie@connect.qut.edu.au | Aidan | Laneyrie | | 2026/7 2&1 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
+| jd.marriott@connect.qut.edu.au | Jason | Marriott | | 2026/7 2&1 | ? | new | | [Stroke Rehabilitation Orthotic](#EER-Stroke-Orthotic) | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 

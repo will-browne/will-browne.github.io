@@ -61,6 +61,7 @@
 | joseph.schneider@connect.qut.edu.au | Joseph | Schneider| | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
 | t244.tran@connect.qut.edu.au   | Thuc| Tran| | 2026/7 2&1 | ? | new | | [Robotic Guide](#EER-Concierge) | 
 | connor.middleton@connect.qut.edu.au | Connor | Middleton | | tbc | | | | Deformable worlds | 
+| ij.andrews@connect.qut.edu.au |	Ian |	Andrews	 | |	2026 1&2	| 130-2pm Mon |	new |	Cameron Coombe	| ARC [Git](https://github.com/Rourkee/Semester-2-ARC-Simulation.git) |
 |  | | | | | | | | | 
 |  | | | | | | | | | 
 |  | | | | | | | | | 

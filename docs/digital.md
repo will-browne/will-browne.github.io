@@ -69,6 +69,8 @@ Op# Digital domain
 [TripIt trip manager](https://www.tripit.com/web)
 
 ## Tools
+need links to shotcut and obs studio and fmm mpeg converter and handbrake
+
 [Diagrams](https://app.diagrams.net/)
 
 [md](https://www.markdownguide.org/cheat-sheet/)

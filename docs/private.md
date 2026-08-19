@@ -17,6 +17,8 @@ IEEE: Membership #: 93710255
 
 https://arxiv.org/user/ will-browne qut @#$%^123
 
+UniSuper will.browne@qut.edu.ac (note .ac) usual pwd
+
 ## Finances
 
 [ALDD Account](323500-0383/01 EER Development & Diversity Portfolio)

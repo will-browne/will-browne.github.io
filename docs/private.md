@@ -19,6 +19,8 @@ https://arxiv.org/user/ will-browne qut @#$%^123
 
 UniSuper will.browne@qut.edu.ac (note .ac) usual pwd
 
+ARC RMS - Usual qut_long 8
+
 <!-- do not share! CSIRO 323500-0061/08 79047383 -->
 
 ## Finances

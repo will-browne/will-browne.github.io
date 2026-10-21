@@ -76,6 +76,7 @@
 [ROS 2 Workspace](https://www.theconstruct.ai/ros2-in-5-mins-007-how-to-create-a-ros2-overlay-workspace/)
 
 ##  Manufacturers 
+[Vecna](https://www.vecnarobotics.com/) see front page!
 [Keenon](https://www.keenonrobot.com/EN/) Chinese mobile delivery robots
 
 [Solomon 3D](https://www.solomon-3d.com/) Taiwan 3d Vision and AI

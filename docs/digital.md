@@ -70,6 +70,7 @@ New [Cloudflare](https://dash.cloudflare.com/1171c2a79922e7a1816b02cbffb4ac4d/do
 
 ## Tools
 need links to shotcut and obs studio and fmm mpeg converter and handbrake
+[QCR HPC](https://qut.atlassian.net/wiki/spaces/cyphy/pages/356746506/GPU+Cluster?atlOrigin=eyJpIjoiMTMzMWY0YTQwYmQwNDkzZWJhMDE1NzE5M2I2NjY1MmUiLCJwIjoicG9zdE9mZmljZSJ9)
 
 [Diagrams](https://app.diagrams.net/)
 

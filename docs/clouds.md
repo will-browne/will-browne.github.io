@@ -90,6 +90,7 @@ Please note that many of these require invitations, so are not generally accessi
 
 [Tjeard Experiments](https://docs.google.com/spreadsheets/d/1k-EG-TKeO460KJTK-CJXfhsiwYf3HSaP2Z-zaKPUnh4/edit#gid=0), 
 [Confirmation report](https://docs.google.com/document/d/1n6cB8CT3aRQ5GpPu0kckTV-geupqSAMgQy2M4jPE-_k/edit#heading=h.nfnc3s2izdix)
+[2027 plan](https://docs.google.com/document/d/1c-tPTInI742TGJnuZpPypVGqfog5Cb5IhN8HgHkq5yU/edit?invite=CMf4v_4I&tab=t.0)
 
 [Cameron pptx](https://connectqutedu-my.sharepoint.com/:p:/r/personal/coombe3_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7B7B597C1B-171E-45C5-8F43-2065D22DA6A5%7D&file=Cameron%20Confirmation%20Presentation.pptx&fromShare=true&action=edit&mobileredirect=true) and [notes](https://connectqutedu-my.sharepoint.com/:w:/r/personal/coombe3_qut_edu_au/_layouts/15/Doc.aspx?sourcedoc=%7BF87769C7-3AF0-4632-81EE-7F7FF2562E85%7D&file=Cameron%20Confirmation%20Draft%20Script.docx&fromShare=true&action=default&mobileredirect=true)
 

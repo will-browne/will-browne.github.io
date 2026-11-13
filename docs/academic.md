@@ -138,6 +138,10 @@ Professor Brian Donnellan
 
 ## Academic 
 
+### Doctorates
+[Jordan](https://doi.org/10.14264/a7caaf1)
+
+
 ### Papers
 [How to write a paper](https://www.youtube.com/watch?v=QYbAvOPcy0s) Cyrill's IROS Talk
 

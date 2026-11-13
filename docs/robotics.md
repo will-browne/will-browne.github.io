@@ -71,6 +71,8 @@
 
 [AR ROS](https://urldefense.com/v3/__https://discourse.ros.org/t/ar-rviz-augmented-reality-robot-visualization-1-0-release/31906__;!!NVzLfOphnbDXSw!ADTwjLO4CSym1eTyVW8744IfNffcGJff1iua4O5ReLnn7vNSIaigO3K5rRwey7iXOMXQ6Jxsg3FKURp5sMzGP_gTNFbVFQ$)
 
+[Intrinsic Info](https://www.therobotreport.com/intrinsic-open-sources-key-parts-platform-easier-development/)
+
 [Tutorials](https://docs.ros.org/en/iron/Tutorials/Beginner-Client-Libraries/Creating-Your-First-ROS2-Package.html)
 
 [ROS 2 Workspace](https://www.theconstruct.ai/ros2-in-5-mins-007-how-to-create-a-ros2-overlay-workspace/)

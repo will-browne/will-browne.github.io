@@ -295,6 +295,7 @@ and [Matplotlib](https://matplotlib.org/stable/gallery/statistics/confidence_ell
 
 [Melbourne LGBTQA+ survey](https://unistudentwellbeing.edu.au/uni-student-wellbeing-research-hub-events/)
 
+[The Duluth Model on domestic violence](https://theduluthmodel.org/about-us/)
 ## S9 Help
 
 ### Micro-aggressions
